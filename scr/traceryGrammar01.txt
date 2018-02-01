@@ -1,0 +1,43 @@
+Example
+{
+	"origin": ["this could be a tweet", "this is #alternatives# tweet", "#completely different#"],
+	"alternatives" : ["an example", "a different", "another", "a possible", "a generated", "your next"],
+	"completely different" : ["and now for something completely different", "so long and thanks for all the fish", "or, maybe, #alternatives# badger"]
+}
+
+{
+    "origin": ["#praise# #poem#"],
+
+    "praise": ["Oh, ", "My dear ",  "Beloved ",  "I love you ",  "My dearest ",  "I'm obsessed with you, ",  "I cannot stop to think about you, ",  "Dear ",  "I adore you ",  "All my thoughts are about you, "],
+    "poem": ["#object001#","#object002#","#object003#","#object004#","#object005#"],
+
+    "AtLocation" : [ "There is no hiding, my hear always rest next to you at ", "I await you near ", "Let me be your "],
+    "ReceivesAction" : [ "I will make sure you are ", "I will do it, I won't let you get way without being "],
+        ...
+
+
+    "object001": [ "object001. #AtLocationPhrase001#, #ReceivesActionPhrase001#, #SynonymPhrase001#, #MannerOfPhrase001# ],
+            "AtLocationPhrase001" : [ "#AtLocation# #AtLocation001#."]
+                    "AtLocation001": ['the kitchen', 'the supermarket', 'the fridge', 'the oven', 'the refrigerator', 'a table']
+
+            "ReceivesActionPhrase001" : ["#ReceivesAction# #ReceivesAction001."],
+                    "ReceivesAction001" : ['eaten'],
+
+            "SynonymPhrase001" : ["#SynonymPhrase# #Synonym001#".],
+                    "Synonym001" : ['chalk', 'methamphetamine'],
+
+            "MannerOfPhrase001" : ["#MannerOf" #MannerOf001#".]
+                    "MannerOf001" : ['draw']
+
+
+    "object002": [ "object002. #PartOfPhrase002#, #RelatedToPhrase002#, #MannerOfPhrase002# ],
+            ...
+    "object003": [ "object003. #AtLocationPhrase003#, #SynonymPhrase003#, #MannerOfPhrase003# ],
+            ...
+    "object004": [ "object004. #ReveivesActionPhrase004#, #ReveivesActionPhrase004#, #SynonymPhrase004#, #MannerOfPhrase004# ],
+            ...
+    "object005": [ "object005. #AtLocationPhrase005#, #ReveivesActionPhrase005#, #SynonymPhrase005#, #MannerOfPhrase005# ],
+        ...
+
+}
+
