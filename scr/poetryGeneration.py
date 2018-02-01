@@ -51,11 +51,15 @@ for object in list(object_dict.keys())[0:5]:
     #print(len(object_dict[object]))
     list_of_properties = object_dict[object]
     #print(list_of_properties)
+
     for proper in list_of_properties:
         finalString += "#"+proper+"_"+object+"#, "
         #print(proper)
     finalString = finalString[:-1]+"]"
     print(finalString)
+
+for object, property in object_dict.items():
+    data = 
 
 # [print(field) for field in object_dict[key]]
 # [print(object_dict[object][field]) for field in object_dict[object]]
