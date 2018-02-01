@@ -20,7 +20,7 @@ Example
             "AtLocationPhrase001" : [ "#AtLocation# #AtLocation001#."]
                     "AtLocation001": ['the kitchen', 'the supermarket', 'the fridge', 'the oven', 'the refrigerator', 'a table']
 
-            "ReceivesActionPhrase001" : ["#ReceivesAction# #ReceivesAction001."],
+            "ReceivesActionPhrase001" : ["#ReceivesAction# #ReceivesAction001#."],
                     "ReceivesAction001" : ['eaten'],
 
             "SynonymPhrase001" : ["#SynonymPhrase# #Synonym001#".],
