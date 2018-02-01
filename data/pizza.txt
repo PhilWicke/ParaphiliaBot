@@ -1,0 +1,13 @@
+{
+	"origin": ["Would you like to order a #name#:#pizza#"],
+	"pizza" : ["#meat# and #veggie# with #che ese# and #sauce# on #base#."],
+	"meat" : ["chicken","sausage","meatballs","ham","salami","smoked salmon","roast beef","bacon"],
+	"veggie": ["peppers","spinach","pepperoni","onions","corn","tomatoes","potatoes","tofu"],
+	"che ese":["goat cheese","parmesan","gorgonzola cheese","morzarella","gouda"],
+	"sauce":["tomatoe sauce","tabasco sauce","marinara sauce","bbq sauce","ragu sauce", "#winetype# wine sauce"],
+				"winetype" : ["red","white","burgundy"],
+	"base":["a thin crust", "a thick crust", "a gluten-free crust", "a deep-pan base"],
+	"name":[ "#adj# #noun#"],
+	"adj":["wonderful"],
+	"noun":["miracle"]
+}
