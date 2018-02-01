@@ -42,24 +42,19 @@ print()
 
 GR_propertyList = list()
 
+
 for object in list(object_dict.keys())[0:5]:
 
     # "object": [ "object. #AtLocationPhrase_object#, #ReceivesActionPhrase_object#,
     finalString = "\""+object+"\" : [ \""+object+". "
-
-    #print(object)
-    #print(len(object_dict[object]))
     list_of_properties = object_dict[object]
-    #print(list_of_properties)
 
     for proper in list_of_properties:
         finalString += "#"+proper+"_"+object+"#, "
-        #print(proper)
-    finalString = finalString[:-1]+"]"
-    print(finalString)
+    finalString = finalString[:-2]+"]"
+    GR_propertyList.append(finalString)
+print(GR_propertyList)
 
-for object, property in object_dict.items():
-    data = 
 
 # [print(field) for field in object_dict[key]]
 # [print(object_dict[object][field]) for field in object_dict[object]]
