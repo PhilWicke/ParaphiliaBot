@@ -1,0 +1,18749 @@
+(dp0
+Vboom_box
+p1
+(dp2
+VFormOf
+p3
+(lp4
+Vboom box
+p5
+asVRelatedTo
+p6
+(lp7
+Vboom box
+p8
+aVaudio
+p9
+aVmusic center
+p10
+aVghetto blaster
+p11
+aVportable
+p12
+aVsystem
+p13
+aVradio cassette
+p14
+aVpowerful
+p15
+asVSynonym
+p16
+(lp17
+Vghetto blaster
+p18
+aVboombox
+p19
+aVsoitin
+p20
+asVDerivedFrom
+p21
+(lp22
+Vbox
+p23
+aVboom
+p24
+assVrubber_duck
+p25
+(dp26
+VRelatedTo
+p27
+(lp28
+Vtoy
+p29
+aVinflatable
+p30
+aVboat
+p31
+aVrubber duck
+p32
+aVduck
+p33
+asVDerivedFrom
+p34
+(lp35
+Vduck
+p36
+asVUsedFor
+p37
+(lp38
+Vfun
+p39
+asVFormOf
+p40
+(lp41
+Vrubber duck
+p42
+asVHasContext
+p43
+(lp44
+Vslang
+p45
+aVnautical
+p46
+asVSynonym
+p47
+(lp48
+Vrubber duck
+p49
+asVIsA
+p50
+(lp51
+Va toy
+p52
+aVan excellent bath toy for children
+p53
+aVa bath toy for children
+p54
+aVa bathtub toy
+p55
+assVanswering_machine
+p56
+(dp57
+VAtLocation
+p58
+(lp59
+Van answering machine
+p60
+asVCapableOf
+p61
+(lp62
+Vintercept a telephone call
+p63
+asVFormOf
+p64
+(lp65
+Vanswering machine
+p66
+asVExternalURL
+p67
+(lp68
+VAnsweringMachine
+p69
+aV102717662-n
+p70
+asVSynonym
+p71
+(lp72
+Vanswering machine
+p73
+asVIsA
+p74
+(lp75
+Vcontact location
+p76
+aVelectronic device
+p77
+aVhousehold electronic device
+p78
+aVvoicemail
+p79
+aVa compound noun
+p80
+aVmachine
+p81
+assVtv
+p82
+(dp83
+VRelatedTo
+p84
+(lp85
+Vtv
+p86
+asVAtLocation
+p87
+(lp88
+Vtv
+p89
+aVan appliance store
+p90
+aVa neighbor's house
+p91
+aVan apartment
+p92
+aVTV
+p93
+aVyour house
+p94
+aVfamily room
+p95
+aVa livingroom
+p96
+aVArizona
+p97
+aVa bedroom
+p98
+asVHasPrerequisite
+p99
+(lp100
+VA TV
+p101
+asVUsedFor
+p102
+(lp103
+Vwatch the news
+p104
+aVgive information
+p105
+aVentertainment
+p106
+aVwatching movies
+p107
+asVCapableOf
+p108
+(lp109
+Vchange your subjective consciousness
+p110
+asVHasProperty
+p111
+(lp112
+Vshort for television
+p113
+asVSynonym
+p114
+(lp115
+Vtv
+p116
+asVIsA
+p117
+(lp118
+Van abbreviation for television
+p119
+assVstockings
+p120
+(dp121
+VFormOf
+p122
+(lp123
+Vstocking
+p124
+asVRelatedTo
+p125
+(lp126
+Vstockings
+p127
+asVAtLocation
+p128
+(lp129
+Va suitcase
+p130
+aVstockings
+p131
+asVSynonym
+p132
+(lp133
+Vstockings
+p134
+assVmagnet
+p135
+(dp136
+VRelatedTo
+p137
+(lp138
+Vmagnet
+p139
+asVAtLocation
+p140
+(lp141
+Va speaker
+p142
+aVthe fridge
+p143
+asVPartOf
+p144
+(lp145
+Vmagnet
+p146
+asVHasContext
+p147
+(lp148
+Vphysics
+p149
+asVSynonym
+p150
+(lp151
+Vattraction
+p152
+aVmagnet
+p153
+asVIsA
+p154
+(lp155
+Vdevice
+p156
+aVmagnet
+p157
+assVpaper
+p158
+(dp159
+VRelatedTo
+p160
+(lp161
+Vwriting
+p162
+aVwrite
+p163
+aVflat
+p164
+aVpaper
+p165
+aVmaterial
+p166
+aVwhite
+p167
+aVpulp
+p168
+aVsheet
+p169
+aVwood
+p170
+aVbook
+p171
+asVReceivesAction
+p172
+(lp173
+Vwritten on
+p174
+asVCapableOf
+p175
+(lp176
+Vburn
+p177
+asVHasProperty
+p178
+(lp179
+Vcrumpled
+p180
+asVUsedFor
+p181
+(lp182
+Vmake paper airplanes
+p183
+aVdrawing
+p184
+assVvideo_games
+p185
+(dp186
+VFormOf
+p187
+(lp188
+Vvideo game
+p189
+asVAtLocation
+p190
+(lp191
+Va bar
+p192
+asVHasContext
+p193
+(lp194
+Vvideo games
+p195
+assVair_conditioner
+p196
+(dp197
+VRelatedTo
+p198
+(lp199
+Vair conditioner
+p200
+asVAtLocation
+p201
+(lp202
+Va house
+p203
+asVUsedFor
+p204
+(lp205
+Vcooling the air
+p206
+aVcool a room
+p207
+asVFormOf
+p208
+(lp209
+Vair conditioner
+p210
+asVSynonym
+p211
+(lp212
+Vair conditioner
+p213
+aVair-conditioner
+p214
+asVIsA
+p215
+(lp216
+Vcooling device
+p217
+aVcooling system
+p218
+aVappliance
+p219
+assVpocketknife
+p220
+(dp221
+VDerivedFrom
+p222
+(lp223
+Vknife
+p224
+aVpocket
+p225
+aV\u5200
+p226
+asVSynonym
+p227
+(lp228
+Vpocketknife
+p229
+asVIsA
+p230
+(lp231
+Vpocketknife
+p232
+assVmarble
+p233
+(dp234
+VRelatedTo
+p235
+(lp236
+Vmarble
+p237
+asVAtLocation
+p238
+(lp239
+Va boy's pocket
+p240
+aVa game
+p241
+aVa store
+p242
+asVCauses
+p243
+(lp244
+Vgame
+p245
+asVDerivedFrom
+p246
+(lp247
+Vmarble
+p248
+asVUsedFor
+p249
+(lp250
+Vgames
+p251
+aVplaying marbles
+p252
+asVHasContext
+p253
+(lp254
+Vhandicraft
+p255
+asVHasProperty
+p256
+(lp257
+Vrolling across the table
+p258
+aVopaque
+p259
+asVIsA
+p260
+(lp261
+Vsculpture
+p262
+aVa useful metamorphic rock
+p263
+aVstone
+p264
+aVeasier to stain than granite
+p265
+aVmarble
+p266
+aVrock
+p267
+assVmultitool
+p268
+(dp269
+VFormOf
+p270
+(lp271
+Vmultitool
+p272
+asVRelatedTo
+p273
+(lp274
+Vfunction
+p275
+aVleatherman
+p276
+aVhand tool
+p277
+aVmultitool
+p278
+aVportable
+p279
+aVswiss army knife
+p280
+aVmultidriver
+p281
+aVassembly
+p282
+asVExternalURL
+p283
+(lp284
+Vmultitool
+p285
+asVSynonym
+p286
+(lp287
+V\u03c0\u03bf\u03bb\u03c5\u03b5\u03c1\u03b3\u03b1\u03bb\u03b5\u03b9\u03bf
+p288
+assVsheet_of_paper
+p289
+(dp290
+VAtLocation
+p291
+(lp292
+Va printer
+p293
+aVan office
+p294
+aVa box
+p295
+asVDerivedFrom
+p296
+(lp297
+Vpaper
+p298
+asVUsedFor
+p299
+(lp300
+Vprinting
+p301
+aVwriting letters
+p302
+aVmake a paper airplane
+p303
+aVdesigning
+p304
+aVwriting on
+p305
+asVFormOf
+p306
+(lp307
+Vsheet of paper
+p308
+asVExternalURL
+p309
+(lp310
+VSheetOfPaper
+p311
+asVHasProperty
+p312
+(lp313
+Vthin
+p314
+aVrectangular
+p315
+asVSynonym
+p316
+(lp317
+Vsheet of paper
+p318
+aVsheet
+p319
+asVIsA
+p320
+(lp321
+Vsheet of paper
+p322
+aVa sheet of paper
+p323
+assVrock
+p324
+(dp325
+VRelatedTo
+p326
+(lp327
+Vmusic
+p328
+aVroll
+p329
+aVhard
+p330
+aVstone
+p331
+aVand roll
+p332
+aVrock
+p333
+asVAtLocation
+p334
+(lp335
+Va mountain
+p336
+aVthe bottom of the sea
+p337
+aVa rock
+p338
+aVthe surface of the earth
+p339
+asVHasProperty
+p340
+(lp341
+Vheavy
+p342
+asVIsA
+p343
+(lp344
+Vmusic
+p345
+aVrock
+p346
+assVkitchen_knife
+p347
+(dp348
+VRelatedTo
+p349
+(lp350
+Vkitchen knife
+p351
+aVknife
+p352
+asVAtLocation
+p353
+(lp354
+Va drawer
+p355
+asVSymbolOf
+p356
+(lp357
+Vkitchen knife
+p358
+asVFormOf
+p359
+(lp360
+Vkitchen knife
+p361
+asVExternalURL
+p362
+(lp363
+VKitchen knife
+p364
+aVQ599312
+p365
+asVSynonym
+p366
+(lp367
+Vkitchen knife
+p368
+aVkeittiöveitsi
+p369
+aVküchenmesser
+p370
+assVroad_signs
+p371
+(dp372
+VFormOf
+p373
+(lp374
+Vroad sign
+p375
+asVRelatedTo
+p376
+(lp377
+Vroad signs
+p378
+asVAtLocation
+p379
+(lp380
+Va fork in the road
+p381
+asVCapableOf
+p382
+(lp383
+Vguide a traveler
+p384
+asVExternalURL
+p385
+(lp386
+Vroad signs
+p387
+assVbed
+p388
+(dp389
+VRelatedTo
+p390
+(lp391
+Vbed
+p392
+aVsleeping
+p393
+aVmattress
+p394
+aVpillow
+p395
+aVfurniture
+p396
+aVsheets
+p397
+aVcot
+p398
+aVplace
+p399
+aVsleeping furniture
+p400
+aVpillows
+p401
+aVsleep
+p402
+aVsleeping place
+p403
+asVAtLocation
+p404
+(lp405
+Vthe bed
+p406
+aVyour bed
+p407
+aVa bed
+p408
+asVIsA
+p409
+(lp410
+Va place
+p411
+asVUsedFor
+p412
+(lp413
+Vhave sex
+p414
+assVplaque
+p415
+(dp416
+VHasContext
+p417
+(lp418
+Vpathology
+p419
+asVSynonym
+p420
+(lp421
+Vplaque
+p422
+aVbrass
+p423
+asVIsA
+p424
+(lp425
+Vspot
+p426
+aVplaque
+p427
+assVcar
+p428
+(dp429
+VRelatedTo
+p430
+(lp431
+Vvehicle
+p432
+aVautomobile
+p433
+aVcar
+p434
+asVAtLocation
+p435
+(lp436
+Vthe city
+p437
+aVthe repair shop
+p438
+aVa car show
+p439
+aVa parking lot
+p440
+aVthe road
+p441
+aVa freeway
+p442
+aVa race track
+p443
+aVa car
+p444
+asVPartOf
+p445
+(lp446
+Va car
+p447
+asVCapableOf
+p448
+(lp449
+Vcost a lot of money
+p450
+aVcrash
+p451
+aVslow down
+p452
+aVroll over
+p453
+aVgo fast
+p454
+asVHasA
+p455
+(lp456
+Vseats
+p457
+asVIsA
+p458
+(lp459
+Vcar
+p460
+assVdoorframe
+p461
+(dp462
+VRelatedTo
+p463
+(lp464
+Vframe
+p465
+aVdoor
+p466
+aVdoorframe
+p467
+asVPartOf
+p468
+(lp469
+Vdoorway
+p470
+aVdoorframe
+p471
+asVFormOf
+p472
+(lp473
+Vdoorframe
+p474
+asVExternalURL
+p475
+(lp476
+V103227425-n
+p477
+asVSynonym
+p478
+(lp479
+Vdoorframe
+p480
+asVIsA
+p481
+(lp482
+Vframework
+p483
+assVspectacles
+p484
+(dp485
+VRelatedTo
+p486
+(lp487
+Vsight
+p488
+asVSynonym
+p489
+(lp490
+Vspectacles
+p491
+aVglasses
+p492
+aVeyeglasses
+p493
+asVPartOf
+p494
+(lp495
+Vspectacles
+p496
+aVframe
+p497
+asVIsA
+p498
+(lp499
+Vspectacles
+p500
+aVoptical instrument
+p501
+assVpillow
+p502
+(dp503
+VMannerOf
+p504
+(lp505
+Vput
+p506
+asVRelatedTo
+p507
+(lp508
+Vpillow
+p509
+asVAtLocation
+p510
+(lp511
+Va bedroom
+p512
+aVa pillow
+p513
+asVMadeOf
+p514
+(lp515
+Vfeathers!
+p516
+asVUsedFor
+p517
+(lp518
+Vsleeping
+p519
+asVSynonym
+p520
+(lp521
+Vpillow
+p522
+asVIsA
+p523
+(lp524
+Vcushion
+p525
+aVpillow
+p526
+assVduct_tape
+p527
+(dp528
+VRelatedTo
+p529
+(lp530
+Vbuilding code
+p531
+aVduck tape
+p532
+aVtape
+p533
+aVadhésif
+p534
+aVgaffer tape
+p535
+aVgray tape
+p536
+asVAtLocation
+p537
+(lp538
+Va cabinet
+p539
+asVCapableOf
+p540
+(lp541
+Vfix anything
+p542
+aVdoctor anything
+p543
+aVfix everything
+p544
+aVstick to many surfaces
+p545
+asVDerivedFrom
+p546
+(lp547
+Vtape
+p548
+aVduct
+p549
+asVExternalURL
+p550
+(lp551
+V103258219-n
+p552
+aVDuctTape
+p553
+asVSynonym
+p554
+(lp555
+Vduct tape
+p556
+asVIsA
+p557
+(lp558
+Vadhesive tape
+p559
+aVsealant
+p560
+assVteddies
+p561
+(dp562
+VFormOf
+p563
+(lp564
+Vteddy
+p565
+asVRelatedTo
+p566
+(lp567
+Vteddy
+p568
+asVExternalURL
+p569
+(lp570
+Vteddies
+p571
+assVrope
+p572
+(dp573
+VRelatedTo
+p574
+(lp575
+Vrope
+p576
+asVAtLocation
+p577
+(lp578
+Va boat
+p579
+aVa backpack
+p580
+aVrope
+p581
+asVHasPrerequisite
+p582
+(lp583
+Va rope
+p584
+asVDerivedFrom
+p585
+(lp586
+Vrope
+p587
+asVUsedFor
+p588
+(lp589
+Vtying things
+p590
+asVCapableOf
+p591
+(lp592
+Vtrip a person
+p593
+asVIsA
+p594
+(lp595
+Vrope
+p596
+assVfridge
+p597
+(dp598
+VAtLocation
+p599
+(lp600
+Vthe kitchen
+p601
+aVthe fridge
+p602
+aV the fridge
+p603
+aVa fridge
+p604
+assVtennis_ball
+p605
+(dp606
+VAtLocation
+p607
+(lp608
+Va contanier
+p609
+aVa can full of them
+p610
+asVSynonym
+p611
+(lp612
+Vtennis ball
+p613
+asVUsedFor
+p614
+(lp615
+Vbouncing
+p616
+aVplay tennis
+p617
+aVplaying sport
+p618
+aVplaying tennis
+p619
+assVempty_jar
+p620
+(dp621
+VNotDesires
+p622
+(lp623
+Vempty the jar
+p624
+assVwater_bottle
+p625
+(dp626
+VRelatedTo
+p627
+(lp628
+Vwater bottle
+p629
+asVAtLocation
+p630
+(lp631
+Vthe beach
+p632
+asVDerivedFrom
+p633
+(lp634
+Vwater
+p635
+asVFormOf
+p636
+(lp637
+Vwater bottle
+p638
+asVExternalURL
+p639
+(lp640
+VWaterBottle
+p641
+aV104564934-n
+p642
+asVSynonym
+p643
+(lp644
+Vwater bottle
+p645
+asVIsA
+p646
+(lp647
+Vbottle
+p648
+aVwater bottle
+p649
+assVbottle
+p650
+(dp651
+VAtLocation
+p652
+(lp653
+Va grocery store
+p654
+aVa bottle
+p655
+aVa nursery
+p656
+asVHasPrerequisite
+p657
+(lp658
+Va bottle
+p659
+asVMadeOf
+p660
+(lp661
+Vplastic
+p662
+asVUsedFor
+p663
+(lp664
+Vstoring liquids
+p665
+aVstoring liquid
+p666
+asVSynonym
+p667
+(lp668
+Vbottle
+p669
+asVIsA
+p670
+(lp671
+Vcontainerful
+p672
+aVcontainer
+p673
+aVbottle
+p674
+aVvessel
+p675
+assVremote
+p676
+(dp677
+VSimilarTo
+p678
+(lp679
+Vunlikely
+p680
+aVremote
+p681
+asVSynonym
+p682
+(lp683
+Vremote control
+p684
+aVdistant
+p685
+aVremoved
+p686
+aVremote
+p687
+aVoutback
+p688
+asVDerivedFrom
+p689
+(lp690
+Vremote
+p691
+assVcan_of_beans
+p692
+(dp693
+VAtLocation
+p694
+(lp695
+Va cupboard
+p696
+aVthe supermarket
+p697
+assVchainlink_fence
+p698
+(dp699
+VRelatedTo
+p700
+(lp701
+Vchainlink fence
+p702
+asVExternalURL
+p703
+(lp704
+V103003738-n
+p705
+asVSynonym
+p706
+(lp707
+Vchainlink fence
+p708
+asVIsA
+p709
+(lp710
+Vfence
+p711
+assVwhistle
+p712
+(dp713
+VHasSubevent
+p714
+(lp715
+Vwhistle
+p716
+asVMannerOf
+p717
+(lp718
+Vtravel
+p719
+aVmove
+p720
+aVsound
+p721
+aVcommunicate
+p722
+aVsign
+p723
+asVSynonym
+p724
+(lp725
+Vwhistle
+p726
+asVIsA
+p727
+(lp728
+Vacoustic device
+p729
+aVwind instrument
+p730
+aVsignaling device
+p731
+aVwhistle
+p732
+aVsignal
+p733
+aVsound
+p734
+assVmartini_glass
+p735
+(dp736
+VAtLocation
+p737
+(lp738
+Va cabinet
+p739
+asVExternalURL
+p740
+(lp741
+VMartiniGlass
+p742
+asVIsA
+p743
+(lp744
+Vglass stemware
+p745
+assVtoothbrush
+p746
+(dp747
+VHasA
+p748
+(lp749
+Vbristles
+p750
+asVDerivedFrom
+p751
+(lp752
+Vtooth
+p753
+asVUsedFor
+p754
+(lp755
+Vclean teeth
+p756
+aVcleaning teeth
+p757
+asVAtLocation
+p758
+(lp759
+Vyour mouth
+p760
+aVa suitcase
+p761
+aVthe dentist
+p762
+aVyour toothbrush
+p763
+asVSynonym
+p764
+(lp765
+Vsoup-strainer
+p766
+aVtoothbrush
+p767
+asVIsA
+p768
+(lp769
+Vtoiletry
+p770
+assVcup
+p771
+(dp772
+VRelatedTo
+p773
+(lp774
+Vcup
+p775
+asVAtLocation
+p776
+(lp777
+Vthe closet
+p778
+aVthe kitchen
+p779
+aVa shelf
+p780
+aVa cup
+p781
+aVa table
+p782
+aVa dishwasher
+p783
+asVHasContext
+p784
+(lp785
+Vvêtements
+p786
+aVmedicine
+p787
+asVUsedFor
+p788
+(lp789
+Vmeasuring liquids
+p790
+aVdrinking
+p791
+asVFormOf
+p792
+(lp793
+Vcup
+p794
+asVCapableOf
+p795
+(lp796
+Vhold liquids
+p797
+asVHasA
+p798
+(lp799
+Va liquid
+p800
+assVcrock_pot
+p801
+(dp802
+VRelatedTo
+p803
+(lp804
+Vcrock pot
+p805
+aVslow cooker
+p806
+aVcocotte
+p807
+asVHasContext
+p808
+(lp809
+Vcuisine
+p810
+asVFormOf
+p811
+(lp812
+Vcrock pot
+p813
+asVExternalURL
+p814
+(lp815
+Vcrock pot
+p816
+aVcrock-pot
+p817
+aVSlowCooker
+p818
+asVSynonym
+p819
+(lp820
+Vslow cooker
+p821
+aVcrock pot
+p822
+asVIsA
+p823
+(lp824
+Vpan
+p825
+aVelectrical household appliance
+p826
+assVtimer
+p827
+(dp828
+VSynonym
+p829
+(lp830
+Vtimer
+p831
+aVtimekeeper
+p832
+asVDerivedFrom
+p833
+(lp834
+Vtimer
+p835
+asVIsA
+p836
+(lp837
+Vtimepiece
+p838
+aVgovernor
+p839
+aVtimer
+p840
+assVstatuette
+p841
+(dp842
+VFormOf
+p843
+(lp844
+Vstatuette
+p845
+asVRelatedTo
+p846
+(lp847
+Vfigurine
+p848
+aVstatuette
+p849
+asVAtLocation
+p850
+(lp851
+Va shelf
+p852
+asVSynonym
+p853
+(lp854
+Vfigurine
+p855
+assVmicrowave_oven
+p856
+(dp857
+VRelatedTo
+p858
+(lp859
+Vmicrowave oven
+p860
+asVAtLocation
+p861
+(lp862
+Vyour house
+p863
+aVthe kitchen
+p864
+asVCapableOf
+p865
+(lp866
+Vcook food very quickly
+p867
+aVheat leftover pizza
+p868
+aVheat food
+p869
+aVheat foods
+p870
+asVDerivedFrom
+p871
+(lp872
+Vmicrowave oven
+p873
+asVFormOf
+p874
+(lp875
+Vmicrowave oven
+p876
+asVExternalURL
+p877
+(lp878
+VQ127956
+p879
+aVMicrowaveOven
+p880
+aVMicrowave oven
+p881
+asVSynonym
+p882
+(lp883
+Vmicrowave oven
+p884
+aVmicrowave
+p885
+asVIsA
+p886
+(lp887
+Vkitchen tool
+p888
+aVoven
+p889
+aVelectrical household appliance
+p890
+assVnecktie
+p891
+(dp892
+VSynonym
+p893
+(lp894
+Vnecktie
+p895
+asVIsA
+p896
+(lp897
+Vneckwear
+p898
+aVnecktie
+p899
+assVmirror
+p900
+(dp901
+VMannerOf
+p902
+(lp903
+Vreflect
+p904
+asVRelatedTo
+p905
+(lp906
+Vmirror
+p907
+aVikon
+p908
+asVAtLocation
+p909
+(lp910
+Vthe purse
+p911
+aVa bedroom
+p912
+aVa car
+p913
+aVa mirror
+p914
+asVUsedFor
+p915
+(lp916
+Vsee yourself
+p917
+asVCapableOf
+p918
+(lp919
+Vreflect images
+p920
+asVHasProperty
+p921
+(lp922
+Vreflective
+p923
+asVSynonym
+p924
+(lp925
+Vmirror
+p926
+asVIsA
+p927
+(lp928
+Vmirror
+p929
+aVdepicting
+p930
+aVa surface
+p931
+assVfire_extinguisher
+p932
+(dp933
+VAtLocation
+p934
+(lp935
+Va house
+p936
+aVa building
+p937
+asVIsA
+p938
+(lp939
+Vdevice
+p940
+asVSynonym
+p941
+(lp942
+Vfire extinguisher
+p943
+asVUsedFor
+p944
+(lp945
+Vputting out fires
+p946
+assVhair_pin
+p947
+(dp948
+VFormOf
+p949
+(lp950
+Vhair pin
+p951
+aVhairpin
+p952
+asVExternalURL
+p953
+(lp954
+Vhair pin
+p955
+asVEtymologicallyRelatedTo
+p956
+(lp957
+Vhair pin
+p958
+asVSynonym
+p959
+(lp960
+Vhair pin
+p961
+assVgarage_door
+p962
+(dp963
+VFormOf
+p964
+(lp965
+Vgarage door
+p966
+asVRelatedTo
+p967
+(lp968
+Vvehicle
+p969
+aVgarage door
+p970
+asVExternalURL
+p971
+(lp972
+VGarageDoor
+p973
+aVgarage door
+p974
+asVSynonym
+p975
+(lp976
+Vgarage door
+p977
+asVIsA
+p978
+(lp979
+Vexterior door
+p980
+assVcow
+p981
+(dp982
+VRelatedTo
+p983
+(lp984
+Vmilk
+p985
+aVbeef
+p986
+aVbull
+p987
+aVfarm
+p988
+aVanimal
+p989
+aVudders
+p990
+aVmammal
+p991
+aVcow
+p992
+aVcattle
+p993
+aVmilk animal
+p994
+aVudder
+p995
+aVmoo
+p996
+aVfarm animal
+p997
+aVbovine
+p998
+asVAtLocation
+p999
+(lp1000
+Va cow
+p1001
+aVthe countryside
+p1002
+aVhamburger
+p1003
+aVa slaughter house
+p1004
+aVstable
+p1005
+assVcell_phone
+p1006
+(dp1007
+VMannerOf
+p1008
+(lp1009
+Vcall
+p1010
+asVRelatedTo
+p1011
+(lp1012
+Vcell phone
+p1013
+asVDerivedFrom
+p1014
+(lp1015
+Vcellular telephone
+p1016
+asVFormOf
+p1017
+(lp1018
+Vcell phone
+p1019
+asVHasContext
+p1020
+(lp1021
+Vtelephone
+p1022
+asVSynonym
+p1023
+(lp1024
+Vcellular telephone
+p1025
+aVmobile
+p1026
+aVmobile phone
+p1027
+aVcell phone
+p1028
+asVIsA
+p1029
+(lp1030
+Va telephone
+p1031
+assVrotisserie
+p1032
+(dp1033
+VRelatedTo
+p1034
+(lp1035
+Vrotisserie
+p1036
+aVcooking
+p1037
+aVroasted
+p1038
+aVrestaurant
+p1039
+asVAtLocation
+p1040
+(lp1041
+Vthe oven
+p1042
+asVFormOf
+p1043
+(lp1044
+Vrotisserie
+p1045
+asVExternalURL
+p1046
+(lp1047
+V104118508-n
+p1048
+aV104118625-n
+p1049
+asVSynonym
+p1050
+(lp1051
+Vrotisserie
+p1052
+asVIsA
+p1053
+(lp1054
+Voven
+p1055
+aVrestaurant
+p1056
+assVdrill_press
+p1057
+(dp1058
+VRelatedTo
+p1059
+(lp1060
+Vtwist drill
+p1061
+aVmachine tool
+p1062
+aVdrill press
+p1063
+asVExternalURL
+p1064
+(lp1065
+V103245595-n
+p1066
+aVDrillPress
+p1067
+asVSynonym
+p1068
+(lp1069
+Vbench drill
+p1070
+aVpedestal drill
+p1071
+aVdrill press
+p1072
+asVPartOf
+p1073
+(lp1074
+Vdrill press
+p1075
+asVIsA
+p1076
+(lp1077
+Vtool
+p1078
+aVstationary tool
+p1079
+aVelectric drill
+p1080
+aVmachine tool
+p1081
+assVkerosene_heater
+p1082
+(dp1083
+VSynonym
+p1084
+(lp1085
+Voil heater
+p1086
+assVchalk
+p1087
+(dp1088
+VMannerOf
+p1089
+(lp1090
+Vdraw
+p1091
+asVRelatedTo
+p1092
+(lp1093
+Vchalk
+p1094
+aVwriter
+p1095
+asVAtLocation
+p1096
+(lp1097
+Va classroom
+p1098
+asVEntails
+p1099
+(lp1100
+Vtrace
+p1101
+asVSynonym
+p1102
+(lp1103
+Vchalk
+p1104
+aVmethamphetamine
+p1105
+asVIsA
+p1106
+(lp1107
+Vwhite
+p1108
+aVcalcite
+p1109
+aVchalk
+p1110
+assVshirt
+p1111
+(dp1112
+VMannerOf
+p1113
+(lp1114
+Vdress
+p1115
+asVRelatedTo
+p1116
+(lp1117
+Vshirt
+p1118
+asVAtLocation
+p1119
+(lp1120
+Vcloset
+p1121
+aVa suitcase
+p1122
+asVDerivedFrom
+p1123
+(lp1124
+Vshirt
+p1125
+asVUsedFor
+p1126
+(lp1127
+Vwearing
+p1128
+asVFormOf
+p1129
+(lp1130
+Vshirt
+p1131
+asVReceivesAction
+p1132
+(lp1133
+Vworn on your upper body
+p1134
+asVSynonym
+p1135
+(lp1136
+Vshirt
+p1137
+asVIsA
+p1138
+(lp1139
+Van item of clothing
+p1140
+aVgarment
+p1141
+aVclothes
+p1142
+aVan article of clothing
+p1143
+aVshirt
+p1144
+assVbutton
+p1145
+(dp1146
+VMannerOf
+p1147
+(lp1148
+Vadd
+p1149
+aVfasten
+p1150
+asVRelatedTo
+p1151
+(lp1152
+Vclothing
+p1153
+aVbutton
+p1154
+asVEntails
+p1155
+(lp1156
+Vsew
+p1157
+asVSynonym
+p1158
+(lp1159
+Vbutton
+p1160
+aVrelease
+p1161
+aVpush button
+p1162
+aVclitoris
+p1163
+asVIsA
+p1164
+(lp1165
+Vfastener
+p1166
+aVfastening
+p1167
+aVplant part
+p1168
+aVartifact
+p1169
+aVbutton
+p1170
+aVbadge
+p1171
+assVlamp
+p1172
+(dp1173
+VRelatedTo
+p1174
+(lp1175
+Vlamp
+p1176
+asVAtLocation
+p1177
+(lp1178
+Vthe office
+p1179
+aVthe corner
+p1180
+aVa store
+p1181
+aVyour house
+p1182
+aVa building
+p1183
+aVa desk
+p1184
+aVa table
+p1185
+aVa bedroom
+p1186
+aVa desktop
+p1187
+asVUsedFor
+p1188
+(lp1189
+Villuminating an area
+p1190
+asVCapableOf
+p1191
+(lp1192
+Villuminate
+p1193
+aVlight up the room
+p1194
+asVSynonym
+p1195
+(lp1196
+Vlamp
+p1197
+asVIsA
+p1198
+(lp1199
+Vlamp
+p1200
+assVbar_of_soap
+p1201
+(dp1202
+VAtLocation
+p1203
+(lp1204
+Va motel
+p1205
+aVa bathtub
+p1206
+aVa hotel
+p1207
+asVDerivedFrom
+p1208
+(lp1209
+Vbar
+p1210
+asVUsedFor
+p1211
+(lp1212
+Vdisinfecting and cleaning
+p1213
+assVbox
+p1214
+(dp1215
+VRelatedTo
+p1216
+(lp1217
+Vcardboard
+p1218
+aVcardboard container
+p1219
+aVbox
+p1220
+aVcube
+p1221
+aVsides
+p1222
+aVstorage
+p1223
+aVsquare
+p1224
+aVcontainer
+p1225
+asVAtLocation
+p1226
+(lp1227
+Va closet
+p1228
+aVa post office
+p1229
+aVany garage
+p1230
+aVa box
+p1231
+asVUsedFor
+p1232
+(lp1233
+Vstoring something in
+p1234
+asVIsA
+p1235
+(lp1236
+Va container
+p1237
+aVa box
+p1238
+assVcredit_card
+p1239
+(dp1240
+VAtLocation
+p1241
+(lp1242
+Vthe purse
+p1243
+asVHasPrerequisite
+p1244
+(lp1245
+Va credit card
+p1246
+asVPartOf
+p1247
+(lp1248
+Vcredit card
+p1249
+asVUsedFor
+p1250
+(lp1251
+Vrenting a car
+p1252
+asVSynonym
+p1253
+(lp1254
+Vcredit card
+p1255
+asVIsA
+p1256
+(lp1257
+Va credit card
+p1258
+aVpositive identification
+p1259
+aVopen-end credit
+p1260
+aVa card
+p1261
+aVcredit card
+p1262
+assVclass_ring
+p1263
+(dp1264
+VFormOf
+p1265
+(lp1266
+Vclass ring
+p1267
+asVRelatedTo
+p1268
+(lp1269
+Vschool
+p1270
+aVfinger
+p1271
+aVshow
+p1272
+aVring
+p1273
+aVgraduation
+p1274
+aVyear
+p1275
+aVattend
+p1276
+aVclass ring
+p1277
+asVExternalURL
+p1278
+(lp1279
+Vclass ring
+p1280
+asVSynonym
+p1281
+(lp1282
+Vluokkasormus
+p1283
+asVDerivedFrom
+p1284
+(lp1285
+Vring
+p1286
+assVcoffee_pot
+p1287
+(dp1288
+VRelatedTo
+p1289
+(lp1290
+Vcoffee pot
+p1291
+aVbrew
+p1292
+asVAtLocation
+p1293
+(lp1294
+Va coffee pot
+p1295
+aVthe kitchen
+p1296
+aVthe office
+p1297
+aVa internet cafe
+p1298
+asVDerivedFrom
+p1299
+(lp1300
+Vpot
+p1301
+aVcoffee
+p1302
+asVFormOf
+p1303
+(lp1304
+Vcoffee pot
+p1305
+asVSynonym
+p1306
+(lp1307
+Vcoffee pot
+p1308
+asVIsA
+p1309
+(lp1310
+Vcoffee pot
+p1311
+assVdoor
+p1312
+(dp1313
+VRelatedTo
+p1314
+(lp1315
+Vhouse
+p1316
+aVwall
+p1317
+aVhandle
+p1318
+aVopening
+p1319
+aVknob
+p1320
+aVexit
+p1321
+aVentrance
+p1322
+aVdoor
+p1323
+aVopen
+p1324
+aVroom
+p1325
+aVentry
+p1326
+aVportal
+p1327
+asVAtLocation
+p1328
+(lp1329
+Vthe wall
+p1330
+aVa door
+p1331
+aVa building
+p1332
+asVReceivesAction
+p1333
+(lp1334
+Vopened
+p1335
+asVHasA
+p1336
+(lp1337
+Va door
+p1338
+asVPartOf
+p1339
+(lp1340
+Va door
+p1341
+assVrug
+p1342
+(dp1343
+VRelatedTo
+p1344
+(lp1345
+Vrug
+p1346
+asVAtLocation
+p1347
+(lp1348
+Vthe table
+p1349
+aVthe rug
+p1350
+aVa desk
+p1351
+asVIsA
+p1352
+(lp1353
+Vrug
+p1354
+asVSynonym
+p1355
+(lp1356
+Vrug
+p1357
+asVUsedFor
+p1358
+(lp1359
+Vwarmth
+p1360
+aVdecoration
+p1361
+aVfloor covering
+p1362
+aVcover the floor
+p1363
+assVflag
+p1364
+(dp1365
+VRelatedTo
+p1366
+(lp1367
+Vnational
+p1368
+aVcloth
+p1369
+aVstars stripes
+p1370
+aVbanner
+p1371
+aVcountry
+p1372
+aVpole
+p1373
+aVcountries
+p1374
+aVsymbol
+p1375
+aVstars
+p1376
+aVstripes
+p1377
+asVAtLocation
+p1378
+(lp1379
+Va country
+p1380
+asVCapableOf
+p1381
+(lp1382
+Vwave in the wind
+p1383
+asVSynonym
+p1384
+(lp1385
+Vflag
+p1386
+asVIsA
+p1387
+(lp1388
+Vflag
+p1389
+assVvacuum_cleaner
+p1390
+(dp1391
+VExternalURL
+p1392
+(lp1393
+VVacuumCleaner
+p1394
+aVQ101674
+p1395
+aVVacuum cleaner
+p1396
+asVRelatedTo
+p1397
+(lp1398
+Vvacuum clean
+p1399
+aVvacuum cleaner
+p1400
+aVaspirateur
+p1401
+asVHasPrerequisite
+p1402
+(lp1403
+Va vacuum cleaner
+p1404
+asVDerivedFrom
+p1405
+(lp1406
+Vvacuum
+p1407
+aVcleaner
+p1408
+asVFormOf
+p1409
+(lp1410
+Vvacuum cleaner
+p1411
+asVCapableOf
+p1412
+(lp1413
+Vshort out
+p1414
+asVSynonym
+p1415
+(lp1416
+Vvacuum
+p1417
+aVvacuum cleaner
+p1418
+aVhoover
+p1419
+assVfax_machine
+p1420
+(dp1421
+VRelatedTo
+p1422
+(lp1423
+Vprint
+p1424
+aVdocument
+p1425
+aVreceive
+p1426
+aVfax machine
+p1427
+aVfax
+p1428
+asVAtLocation
+p1429
+(lp1430
+Vwork
+p1431
+aVthe office
+p1432
+asVFormOf
+p1433
+(lp1434
+Vfax machine
+p1435
+asVExternalURL
+p1436
+(lp1437
+VFaxMachine
+p1438
+asVSynonym
+p1439
+(lp1440
+Vfax machine
+p1441
+asVIsA
+p1442
+(lp1443
+Velectronic device
+p1444
+aVbusiness machine
+p1445
+aVcommunication device
+p1446
+aVconsumer electronics
+p1447
+assVbook
+p1448
+(dp1449
+VRelatedTo
+p1450
+(lp1451
+Vpages
+p1452
+aVreading
+p1453
+aVbook
+p1454
+asVAtLocation
+p1455
+(lp1456
+Vthe shelf
+p1457
+aVa classroom
+p1458
+aVa bookshelf
+p1459
+asVMadeOf
+p1460
+(lp1461
+VPaper
+p1462
+asVPartOf
+p1463
+(lp1464
+Vlibrary
+p1465
+aVa book
+p1466
+asVUsedFor
+p1467
+(lp1468
+Vlearning
+p1469
+asVCreatedBy
+p1470
+(lp1471
+Va writer
+p1472
+asVHasA
+p1473
+(lp1474
+Vknowledge
+p1475
+asVIsA
+p1476
+(lp1477
+Va book
+p1478
+assVmatchbook
+p1479
+(dp1480
+VRelatedTo
+p1481
+(lp1482
+Vcardboard
+p1483
+aVmatchbook
+p1484
+aVmatch
+p1485
+aVmatchbox
+p1486
+aVstriker
+p1487
+asVDerivedFrom
+p1488
+(lp1489
+Vmatch
+p1490
+aVbook
+p1491
+asVFormOf
+p1492
+(lp1493
+Vmatchbook
+p1494
+asVExternalURL
+p1495
+(lp1496
+Vmatchbook
+p1497
+aV103734799-n
+p1498
+asVSynonym
+p1499
+(lp1500
+Vmatchbook
+p1501
+asVIsA
+p1502
+(lp1503
+Vfolder
+p1504
+assVtrimmer
+p1505
+(dp1506
+VExternalURL
+p1507
+(lp1508
+V104490840-n
+p1509
+asVSynonym
+p1510
+(lp1511
+Vpruner
+p1512
+aVtrimmer
+p1513
+asVIsA
+p1514
+(lp1515
+Vcapacitor
+p1516
+aVjoist
+p1517
+aVmachine
+p1518
+assVvase
+p1519
+(dp1520
+VAtLocation
+p1521
+(lp1522
+Va shelf
+p1523
+aVa vase
+p1524
+aVa table
+p1525
+asVCapableOf
+p1526
+(lp1527
+Vhold flower
+p1528
+asVSynonym
+p1529
+(lp1530
+Vvase
+p1531
+asVIsA
+p1532
+(lp1533
+Va container
+p1534
+aVjar
+p1535
+aVvase
+p1536
+assVnail_clippers
+p1537
+(dp1538
+VRelatedTo
+p1539
+(lp1540
+Vnail clippers
+p1541
+aVnail clipper
+p1542
+asVAtLocation
+p1543
+(lp1544
+Va cabinet
+p1545
+aVa drawer
+p1546
+asVDerivedFrom
+p1547
+(lp1548
+V\u92cf
+p1549
+aVnail
+p1550
+asVUsedFor
+p1551
+(lp1552
+Vtrim finger and toe nails
+p1553
+asVFormOf
+p1554
+(lp1555
+Vnail clipper
+p1556
+asVExternalURL
+p1557
+(lp1558
+Vnail clippers
+p1559
+asVSynonym
+p1560
+(lp1561
+Vnail clippers
+p1562
+assVfeather
+p1563
+(dp1564
+VMannerOf
+p1565
+(lp1566
+Vjoin
+p1567
+aVpaddle
+p1568
+aVcover
+p1569
+asVAtLocation
+p1570
+(lp1571
+Va cap
+p1572
+aVa pillow
+p1573
+aVbird
+p1574
+asVIsA
+p1575
+(lp1576
+Vbody covering
+p1577
+aVa feather
+p1578
+aVanimal material
+p1579
+aVfeather
+p1580
+aVrotation
+p1581
+asVHasProperty
+p1582
+(lp1583
+Vlight
+p1584
+asVUsedFor
+p1585
+(lp1586
+Vtickle someone
+p1587
+assVwashcloth
+p1588
+(dp1589
+VAtLocation
+p1590
+(lp1591
+Va linen closet
+p1592
+asVIsA
+p1593
+(lp1594
+Vbath linen
+p1595
+asVSynonym
+p1596
+(lp1597
+Vwashcloth
+p1598
+asVUsedFor
+p1599
+(lp1600
+Vwashing your face
+p1601
+aVwash your face
+p1602
+assVfireplace
+p1603
+(dp1604
+VAtLocation
+p1605
+(lp1606
+Va home
+p1607
+aVthe living room
+p1608
+aVa cabin
+p1609
+aVa fireplace
+p1610
+asVPartOf
+p1611
+(lp1612
+Vchimney
+p1613
+aVfireplace
+p1614
+asVUsedFor
+p1615
+(lp1616
+Vwarmth
+p1617
+asVCapableOf
+p1618
+(lp1619
+Vheat the room
+p1620
+asVSynonym
+p1621
+(lp1622
+Vfireplace
+p1623
+asVIsA
+p1624
+(lp1625
+Vrecess
+p1626
+aVfireplace
+p1627
+assVcouch
+p1628
+(dp1629
+VIsA
+p1630
+(lp1631
+Vbed
+p1632
+aVflat coat
+p1633
+asVAtLocation
+p1634
+(lp1635
+Vyour house
+p1636
+aVa neighbor's house
+p1637
+aVa den
+p1638
+aVthe couch
+p1639
+aVa livingroom
+p1640
+asVCapableOf
+p1641
+(lp1642
+Vbe in the living room
+p1643
+asVSynonym
+p1644
+(lp1645
+Vcouch
+p1646
+aVsofa
+p1647
+aVframe
+p1648
+asVUsedFor
+p1649
+(lp1650
+Vsleeping
+p1651
+aVfurnish your home
+p1652
+assVwine_glass
+p1653
+(dp1654
+VRelatedTo
+p1655
+(lp1656
+Vflute
+p1657
+aVglass
+p1658
+aVwine glass
+p1659
+aVdrunk
+p1660
+aVwine
+p1661
+aVgoblet
+p1662
+asVAtLocation
+p1663
+(lp1664
+Va cupboard
+p1665
+asVCapableOf
+p1666
+(lp1667
+Vbell out
+p1668
+asVFormOf
+p1669
+(lp1670
+Vwine glass
+p1671
+asVExternalURL
+p1672
+(lp1673
+VQ782639
+p1674
+aVThe Wine Glass
+p1675
+asVSynonym
+p1676
+(lp1677
+Vwine glass
+p1678
+asVIsA
+p1679
+(lp1680
+Va dish
+p1681
+assVgauze
+p1682
+(dp1683
+VHasContext
+p1684
+(lp1685
+Vmedicine
+p1686
+asVSynonym
+p1687
+(lp1688
+Vgauze
+p1689
+asVPartOf
+p1690
+(lp1691
+Vbandage
+p1692
+aVsurgical dressing
+p1693
+asVIsA
+p1694
+(lp1695
+Vnet
+p1696
+aVcotton
+p1697
+aVgauze
+p1698
+assVbathtub
+p1699
+(dp1700
+VAtLocation
+p1701
+(lp1702
+Va motel
+p1703
+aVa bathtub
+p1704
+asVHasPrerequisite
+p1705
+(lp1706
+Va bathtub
+p1707
+asVPartOf
+p1708
+(lp1709
+Vbathroom
+p1710
+asVUsedFor
+p1711
+(lp1712
+Vbathing
+p1713
+asVReceivesAction
+p1714
+(lp1715
+Vmade from porcelain
+p1716
+asVSynonym
+p1717
+(lp1718
+Vbathtub
+p1719
+asVIsA
+p1720
+(lp1721
+Vvessel
+p1722
+aVbathtub
+p1723
+assVeyeglasses
+p1724
+(dp1725
+VAtLocation
+p1726
+(lp1727
+Vyour shirt pocket
+p1728
+aVretirement home
+p1729
+aVMichigan
+p1730
+aVa breast pocket
+p1731
+aVeyeglasses
+p1732
+aVtheir case
+p1733
+asVExternalURL
+p1734
+(lp1735
+VEyeglasses
+p1736
+asVDerivedFrom
+p1737
+(lp1738
+Vglass
+p1739
+asVPartOf
+p1740
+(lp1741
+Veyeglasses
+p1742
+asVUsedFor
+p1743
+(lp1744
+Vcorrecting vision
+p1745
+aVimprove vision
+p1746
+asVFormOf
+p1747
+(lp1748
+Veyeglass
+p1749
+asVCapableOf
+p1750
+(lp1751
+Vdouble as eye protectors
+p1752
+aVimproves a person's appearance
+p1753
+asVHasA
+p1754
+(lp1755
+Vtwo lenses
+p1756
+asVSynonym
+p1757
+(lp1758
+Vspectacles
+p1759
+aVeyeglasses
+p1760
+assVhammer
+p1761
+(dp1762
+VRelatedTo
+p1763
+(lp1764
+Vtool
+p1765
+asVAtLocation
+p1766
+(lp1767
+Va hardware store
+p1768
+aVtool box
+p1769
+asVUsedFor
+p1770
+(lp1771
+Vhit a nail
+p1772
+aVdriving nails
+p1773
+aVdrive a nail
+p1774
+aVdrive nails
+p1775
+aVpounding nails
+p1776
+asVCapableOf
+p1777
+(lp1778
+Vbreak a window
+p1779
+aVnail nails
+p1780
+aVstrike nail
+p1781
+aVnail a nail
+p1782
+aVbreak glass
+p1783
+aVdrive in nails
+p1784
+asVHasProperty
+p1785
+(lp1786
+Vhard
+p1787
+asVIsA
+p1788
+(lp1789
+Vhammer
+p1790
+assVrange
+p1791
+(dp1792
+VMannerOf
+p1793
+(lp1794
+Vrange
+p1795
+asVRelatedTo
+p1796
+(lp1797
+Vhome on
+p1798
+aVstove
+p1799
+aVhome
+p1800
+asVHasContext
+p1801
+(lp1802
+Vmathematics
+p1803
+asVSynonym
+p1804
+(lp1805
+Vrange
+p1806
+asVIsA
+p1807
+(lp1808
+Vset
+p1809
+aVassortment
+p1810
+aVfacility
+p1811
+aVgeological formation
+p1812
+aVlimit
+p1813
+aVtract
+p1814
+aVrange
+p1815
+assVflashlight
+p1816
+(dp1817
+VPartOf
+p1818
+(lp1819
+Vflashlight
+p1820
+asVSynonym
+p1821
+(lp1822
+Vtorch
+p1823
+aVflashlight
+p1824
+asVIsA
+p1825
+(lp1826
+Vflashlight
+p1827
+aVelectric lamp
+p1828
+assVelectric_drill
+p1829
+(dp1830
+VRelatedTo
+p1831
+(lp1832
+Velectric drill
+p1833
+asVExternalURL
+p1834
+(lp1835
+VPowerDrill
+p1836
+aV103244843-n
+p1837
+asVSynonym
+p1838
+(lp1839
+Velectric drill
+p1840
+asVPartOf
+p1841
+(lp1842
+Velectric drill
+p1843
+aVdrill press
+p1844
+asVIsA
+p1845
+(lp1846
+Velectric drill
+p1847
+aVelectrical device
+p1848
+aVpower drill
+p1849
+aVdrill
+p1850
+assVhouse
+p1851
+(dp1852
+VRelatedTo
+p1853
+(lp1854
+Vbuilding
+p1855
+aVhouse
+p1856
+aVdwelling
+p1857
+aVliving
+p1858
+aVhome
+p1859
+asVAtLocation
+p1860
+(lp1861
+Vyour house
+p1862
+aVa house
+p1863
+assVorange
+p1864
+(dp1865
+VRelatedTo
+p1866
+(lp1867
+Vcitrus
+p1868
+aVcolor
+p1869
+aVorange
+p1870
+aVfruit
+p1871
+asVHasA
+p1872
+(lp1873
+Vrind
+p1874
+aVa peel
+p1875
+asVHasProperty
+p1876
+(lp1877
+Vsweet
+p1878
+aVorange
+p1879
+asVSynonym
+p1880
+(lp1881
+VOrange
+p1882
+asVIsA
+p1883
+(lp1884
+Va citrus
+p1885
+aVorange
+p1886
+aVa citrus fruit
+p1887
+aVa colour
+p1888
+aVa color
+p1889
+assVstapler
+p1890
+(dp1891
+VAtLocation
+p1892
+(lp1893
+Va stapler
+p1894
+aVan office building
+p1895
+aVwork
+p1896
+aVa desk drawer
+p1897
+aVa desk
+p1898
+aVoffice supply store
+p1899
+aVa desktop
+p1900
+asVUsedFor
+p1901
+(lp1902
+Vattaching papers
+p1903
+asVCapableOf
+p1904
+(lp1905
+Vdouble as a paperweight
+p1906
+asVNotDesires
+p1907
+(lp1908
+Vrun out of staples
+p1909
+asVSynonym
+p1910
+(lp1911
+Vstapler
+p1912
+asVIsA
+p1913
+(lp1914
+Van everyday item
+p1915
+aVmachine
+p1916
+aVa device
+p1917
+aVan office supply
+p1918
+assVcamera
+p1919
+(dp1920
+VRelatedTo
+p1921
+(lp1922
+Vcamera
+p1923
+asVAtLocation
+p1924
+(lp1925
+Vthe camera
+p1926
+aVa suitcase
+p1927
+asVPartOf
+p1928
+(lp1929
+Vcamera
+p1930
+asVUsedFor
+p1931
+(lp1932
+Vtake pictures
+p1933
+asVHasA
+p1934
+(lp1935
+Va flash
+p1936
+asVIsA
+p1937
+(lp1938
+Vcamera
+p1939
+aVa tool for taking pictures
+p1940
+aVphotographic equipment
+p1941
+assVshower_curtain
+p1942
+(dp1943
+VAtLocation
+p1944
+(lp1945
+Va bathtub
+p1946
+aVa department store
+p1947
+aVa shower stall
+p1948
+aVa dime store
+p1949
+aVa shower
+p1950
+aVthe bathroom of a home
+p1951
+aVa hotel
+p1952
+asVDerivedFrom
+p1953
+(lp1954
+Vshower
+p1955
+aVcurtain
+p1956
+asVPartOf
+p1957
+(lp1958
+Vshower stall
+p1959
+asVUsedFor
+p1960
+(lp1961
+Vhave privacy
+p1962
+asVCapableOf
+p1963
+(lp1964
+Vmove
+p1965
+asVSynonym
+p1966
+(lp1967
+Vshower curtain
+p1968
+asVIsA
+p1969
+(lp1970
+Vcurtain
+p1971
+assVocarina
+p1972
+(dp1973
+VExternalURL
+p1974
+(lp1975
+VOcarina
+p1976
+asVDerivedFrom
+p1977
+(lp1978
+Vocarina
+p1979
+asVSynonym
+p1980
+(lp1981
+Vocarina
+p1982
+asVIsA
+p1983
+(lp1984
+Vwind instrument
+p1985
+assVhair_brush
+p1986
+(dp1987
+VRelatedTo
+p1988
+(lp1989
+Vhair brush
+p1990
+aVbrush
+p1991
+aVhair
+p1992
+aVdetangle
+p1993
+aVcomb
+p1994
+asVAtLocation
+p1995
+(lp1996
+Vthe purse
+p1997
+aVa hair brush
+p1998
+aVa suitcase
+p1999
+asVExternalURL
+p2000
+(lp2001
+Vhair-brush
+p2002
+asVDerivedFrom
+p2003
+(lp2004
+Vhair
+p2005
+assVsandglass
+p2006
+(dp2007
+VFormOf
+p2008
+(lp2009
+Vsandglass
+p2010
+asVExternalURL
+p2011
+(lp2012
+V104141715-n
+p2013
+asVDerivedFrom
+p2014
+(lp2015
+Vsand
+p2016
+asVSynonym
+p2017
+(lp2018
+Vsandglass
+p2019
+asVIsA
+p2020
+(lp2021
+Vsandglass
+p2022
+aVtimepiece
+p2023
+assVcookie_jar
+p2024
+(dp2025
+VRelatedTo
+p2026
+(lp2027
+Vcookie jar
+p2028
+aVbrowser
+p2029
+aVcookie
+p2030
+asVAtLocation
+p2031
+(lp2032
+Va cookie jar
+p2033
+aVthe shelf
+p2034
+asVHasContext
+p2035
+(lp2036
+Vinternet
+p2037
+asVDerivedFrom
+p2038
+(lp2039
+Vcookie jar
+p2040
+asVFormOf
+p2041
+(lp2042
+Vcookie jar
+p2043
+asVExternalURL
+p2044
+(lp2045
+V103106315-n
+p2046
+aVCookieJar
+p2047
+asVSynonym
+p2048
+(lp2049
+Vcookie jar
+p2050
+asVIsA
+p2051
+(lp2052
+Vfood storage container
+p2053
+aVjar
+p2054
+aVnon powered device
+p2055
+assVwrench
+p2056
+(dp2057
+VAtLocation
+p2058
+(lp2059
+Vthe repair shop
+p2060
+asVDerivedFrom
+p2061
+(lp2062
+Vwrench
+p2063
+asVSynonym
+p2064
+(lp2065
+Vwrench
+p2066
+asVIsA
+p2067
+(lp2068
+Vwrench
+p2069
+assVrabbit
+p2070
+(dp2071
+VRelatedTo
+p2072
+(lp2073
+Vbugs
+p2074
+aVbunny
+p2075
+aVeaster
+p2076
+aVlong
+p2077
+aVanimal
+p2078
+aVfluffy
+p2079
+aVmammal
+p2080
+aVhare
+p2081
+aVbig
+p2082
+aVbig ears
+p2083
+aVcarrots
+p2084
+aVsmall
+p2085
+aVpet
+p2086
+aVtail
+p2087
+aVlong ears
+p2088
+aVears
+p2089
+aVfurry
+p2090
+aVrodent
+p2091
+asVIsA
+p2092
+(lp2093
+Va mammal
+p2094
+aVan animal
+p2095
+assVempty_bottle
+p2096
+(dp2097
+VReceivesAction
+p2098
+(lp2099
+Vrecycled
+p2100
+asVSynonym
+p2101
+(lp2102
+Vempty bottle
+p2103
+assVcars
+p2104
+(dp2105
+VRelatedTo
+p2106
+(lp2107
+Vcars
+p2108
+asVAtLocation
+p2109
+(lp2110
+Va car show
+p2111
+aVa parking lot
+p2112
+aVa freeway
+p2113
+asVCapableOf
+p2114
+(lp2115
+Vslow down
+p2116
+aVgo fast
+p2117
+asVHasA
+p2118
+(lp2119
+Vwheels
+p2120
+aVtrunks
+p2121
+aVwindows
+p2122
+aVbumpers
+p2123
+asVUsedFor
+p2124
+(lp2125
+Vcars
+p2126
+asVReceivesAction
+p2127
+(lp2128
+Vdriven
+p2129
+asVHasProperty
+p2130
+(lp2131
+Vexpensive
+p2132
+aVvery heavy
+p2133
+asVIsA
+p2134
+(lp2135
+Vautomobiles
+p2136
+assVrobot
+p2137
+(dp2138
+VRelatedTo
+p2139
+(lp2140
+Vrobot
+p2141
+asVAtLocation
+p2142
+(lp2143
+Va garage
+p2144
+aVa robot
+p2145
+aVa science fiction movie
+p2146
+aVan computer game
+p2147
+aVscience fiction
+p2148
+aVthe movies "Star Wars ."
+p2149
+aVa laboratory
+p2150
+aVa manufacturing plant
+p2151
+aVa factory
+p2152
+asVSynonym
+p2153
+(lp2154
+Vrobot
+p2155
+aVautomaton
+p2156
+asVDerivedFrom
+p2157
+(lp2158
+Vrobot
+p2159
+asVIsA
+p2160
+(lp2161
+Va worker
+p2162
+aVone type of a machine
+p2163
+aVmachine
+p2164
+aVan automation
+p2165
+assVtoothpick
+p2166
+(dp2167
+VIsA
+p2168
+(lp2169
+Vpick
+p2170
+aVstrip
+p2171
+asVSynonym
+p2172
+(lp2173
+Vtoothpick
+p2174
+asVDerivedFrom
+p2175
+(lp2176
+Vtooth
+p2177
+asVUsedFor
+p2178
+(lp2179
+Vstab an olive
+p2180
+aVclean between your teeth
+p2181
+aVremove food from between your teeth
+p2182
+assVlime
+p2183
+(dp2184
+VMannerOf
+p2185
+(lp2186
+Vcover
+p2187
+asVRelatedTo
+p2188
+(lp2189
+Vfruit
+p2190
+aVgreen
+p2191
+aVlemon
+p2192
+asVSynonym
+p2193
+(lp2194
+Vlime
+p2195
+aVlinden
+p2196
+aVcalcium oxide
+p2197
+aVcalcium hydroxide
+p2198
+aVbirdlime
+p2199
+asVPartOf
+p2200
+(lp2201
+Vlime
+p2202
+asVIsA
+p2203
+(lp2204
+Vlime
+p2205
+aVcitrus
+p2206
+assVcomic_book
+p2207
+(dp2208
+VPartOf
+p2209
+(lp2210
+Vcomic book
+p2211
+asVSynonym
+p2212
+(lp2213
+Vcomic book
+p2214
+assVrailing
+p2215
+(dp2216
+VRelatedTo
+p2217
+(lp2218
+Vrail
+p2219
+asVAtLocation
+p2220
+(lp2221
+Vthe porch
+p2222
+asVSynonym
+p2223
+(lp2224
+Vrailing
+p2225
+asVPartOf
+p2226
+(lp2227
+Vbannister
+p2228
+aVrailing
+p2229
+asVIsA
+p2230
+(lp2231
+Vbarrier
+p2232
+aVrailing
+p2233
+aVmaterial
+p2234
+assVcellphone
+p2235
+(dp2236
+VRelatedTo
+p2237
+(lp2238
+Vcall
+p2239
+aVcellphone
+p2240
+asVAtLocation
+p2241
+(lp2242
+Va purse
+p2243
+asVDerivedFrom
+p2244
+(lp2245
+Vcellular telephone
+p2246
+asVUsedFor
+p2247
+(lp2248
+Vcommunication
+p2249
+asVFormOf
+p2250
+(lp2251
+Vcell phone
+p2252
+aVcellphone
+p2253
+asVSynonym
+p2254
+(lp2255
+Vcellular telephone
+p2256
+asVIsA
+p2257
+(lp2258
+Vphone
+p2259
+aVelectronic device
+p2260
+assVburglar_alarm
+p2261
+(dp2262
+VFormOf
+p2263
+(lp2264
+Vburglar alarm
+p2265
+asVRelatedTo
+p2266
+(lp2267
+Vburglary
+p2268
+aVdevice
+p2269
+aVburglar alarm
+p2270
+aVsignal
+p2271
+aVwarning
+p2272
+asVExternalURL
+p2273
+(lp2274
+V106816336-n
+p2275
+aV102925140-n
+p2276
+asVSynonym
+p2277
+(lp2278
+Vburglar alarm
+p2279
+asVIsA
+p2280
+(lp2281
+Valarm
+p2282
+assVsofa
+p2283
+(dp2284
+VAtLocation
+p2285
+(lp2286
+Va neighbor's house
+p2287
+aVa house
+p2288
+aVa home
+p2289
+aVthe sofa
+p2290
+aVa sofa
+p2291
+asVUsedFor
+p2292
+(lp2293
+Vlying on
+p2294
+aVrelax
+p2295
+aVlounging
+p2296
+aVsleeping
+p2297
+asVSynonym
+p2298
+(lp2299
+Vsofa
+p2300
+asVIsA
+p2301
+(lp2302
+Va place to sit
+p2303
+aVa chair
+p2304
+aVsofa
+p2305
+aVa comfortable place to sit
+p2306
+aVa piece of furniture
+p2307
+assVpicture
+p2308
+(dp2309
+VRelatedTo
+p2310
+(lp2311
+Vframe
+p2312
+aVphotograph
+p2313
+aVcamera
+p2314
+aVportrait
+p2315
+aVpicture
+p2316
+aVdrawing
+p2317
+aVimage
+p2318
+aVphoto
+p2319
+aVart
+p2320
+aVpainting
+p2321
+aVframed
+p2322
+asVAtLocation
+p2323
+(lp2324
+Va picture
+p2325
+aVthe shelf
+p2326
+aVa wall
+p2327
+aVa desktop
+p2328
+aVan art show
+p2329
+asVHasContext
+p2330
+(lp2331
+Vart
+p2332
+asVDerivedFrom
+p2333
+(lp2334
+Vpicture
+p2335
+assVlion
+p2336
+(dp2337
+VRelatedTo
+p2338
+(lp2339
+Vlion
+p2340
+asVAtLocation
+p2341
+(lp2342
+Vthe veldt
+p2343
+aVafrica
+p2344
+asVHasContext
+p2345
+(lp2346
+Vastrology
+p2347
+asVPartOf
+p2348
+(lp2349
+Vlion
+p2350
+asVDerivedFrom
+p2351
+(lp2352
+Vlion
+p2353
+asVCapableOf
+p2354
+(lp2355
+Vroar
+p2356
+aVhunt zebras
+p2357
+asVIsA
+p2358
+(lp2359
+Vbig cat
+p2360
+aVlion
+p2361
+aVa carnivore
+p2362
+aVperson
+p2363
+aVcelebrity
+p2364
+aVan animal
+p2365
+assVcandlestick
+p2366
+(dp2367
+VSynonym
+p2368
+(lp2369
+Vcandlestick
+p2370
+asVPartOf
+p2371
+(lp2372
+Vcandlestick
+p2373
+asVIsA
+p2374
+(lp2375
+Vcandlestick
+p2376
+aVholder
+p2377
+assVglow_stick
+p2378
+(dp2379
+VFormOf
+p2380
+(lp2381
+Vglow stick
+p2382
+asVRelatedTo
+p2383
+(lp2384
+Vcombine
+p2385
+aVplastic
+p2386
+aVisolate
+p2387
+aVglow stick
+p2388
+aVtranslucent
+p2389
+aVsubstance
+p2390
+aVtube
+p2391
+aVelectrical
+p2392
+aVlight
+p2393
+aVchemoluminescence
+p2394
+aVchemical reaction
+p2395
+aVpower source
+p2396
+asVExternalURL
+p2397
+(lp2398
+VQ691533
+p2399
+aVGlow stick
+p2400
+asVSynonym
+p2401
+(lp2402
+Vglow stick
+p2403
+assVclothes_washer
+p2404
+(dp2405
+VAtLocation
+p2406
+(lp2407
+Vthe garage
+p2408
+assVsalt_shaker
+p2409
+(dp2410
+VRelatedTo
+p2411
+(lp2412
+Vfacilitate
+p2413
+aVcontainer
+p2414
+aVsalt shaker
+p2415
+asVAtLocation
+p2416
+(lp2417
+Va fast-food restaurant
+p2418
+aVa table
+p2419
+asVDerivedFrom
+p2420
+(lp2421
+Vshaker
+p2422
+asVFormOf
+p2423
+(lp2424
+Vsalt shaker
+p2425
+asVExternalURL
+p2426
+(lp2427
+VSaltShaker
+p2428
+asVHasA
+p2429
+(lp2430
+Vthousands of grains of salt
+p2431
+asVSynonym
+p2432
+(lp2433
+Vsaltshaker
+p2434
+aVsalt shaker
+p2435
+asVIsA
+p2436
+(lp2437
+Va small container for table salt
+p2438
+aVshaker
+p2439
+aVkitchenware
+p2440
+assVquartz_crystal
+p2441
+(dp2442
+VRelatedTo
+p2443
+(lp2444
+Vquartz crystal
+p2445
+asVExternalURL
+p2446
+(lp2447
+V104039186-n
+p2448
+asVDerivedFrom
+p2449
+(lp2450
+Vquartz
+p2451
+asVSynonym
+p2452
+(lp2453
+Vquartz crystal
+p2454
+asVIsA
+p2455
+(lp2456
+Vquartz
+p2457
+assVsoap
+p2458
+(dp2459
+VRelatedTo
+p2460
+(lp2461
+Vsoap
+p2462
+aVwashing
+p2463
+aVbar
+p2464
+aVshower
+p2465
+aVcleansing
+p2466
+aVclean
+p2467
+aVsuds
+p2468
+aVcleanser
+p2469
+aVcleaning
+p2470
+aVwash
+p2471
+aVbubbles
+p2472
+aVcleaner
+p2473
+aVdetergent
+p2474
+asVAtLocation
+p2475
+(lp2476
+Vthe supermarket
+p2477
+asVUsedFor
+p2478
+(lp2479
+Vclean something
+p2480
+aVwash your hands
+p2481
+aVwashing yourself
+p2482
+aVget clean
+p2483
+aVwashing the dishes
+p2484
+aVcleaning
+p2485
+assVgrocery_list
+p2486
+(dp2487
+VRelatedTo
+p2488
+(lp2489
+Vgrocery list
+p2490
+aVpurchase
+p2491
+aVmental
+p2492
+aVitems
+p2493
+aVwritten
+p2494
+asVExternalURL
+p2495
+(lp2496
+VGroceryList
+p2497
+aV106503362-n
+p2498
+aV106503268-n
+p2499
+asVDerivedFrom
+p2500
+(lp2501
+Vlist
+p2502
+asVSynonym
+p2503
+(lp2504
+Vostoslista
+p2505
+aVinköpslista
+p2506
+aVgrocery list
+p2507
+asVIsA
+p2508
+(lp2509
+Vdocument
+p2510
+aVlist
+p2511
+aVshopping list
+p2512
+assVcups
+p2513
+(dp2514
+VRelatedTo
+p2515
+(lp2516
+Vsuit
+p2517
+aVcups
+p2518
+aVchalice
+p2519
+aVminor arcana
+p2520
+aVtarot
+p2521
+aVcup
+p2522
+asVAtLocation
+p2523
+(lp2524
+Va water fountain
+p2525
+aVa fast-food restaurant
+p2526
+asVExternalURL
+p2527
+(lp2528
+VQ868171
+p2529
+aVCUPS
+p2530
+asVUsedFor
+p2531
+(lp2532
+Vdrink from
+p2533
+asVFormOf
+p2534
+(lp2535
+Vcup
+p2536
+asVReceivesAction
+p2537
+(lp2538
+Vdropped
+p2539
+aVstored in cabinets
+p2540
+aVmade from plastic
+p2541
+asVCapableOf
+p2542
+(lp2543
+Vmeasure liquid
+p2544
+aVmeasure volume
+p2545
+aVhold liquids
+p2546
+asVHasPrerequisite
+p2547
+(lp2548
+Vcups
+p2549
+assVelectric_razor
+p2550
+(dp2551
+VAtLocation
+p2552
+(lp2553
+Va medicine cabinet
+p2554
+aVa bathroom
+p2555
+aVK-Mart
+p2556
+aVwal-mart
+p2557
+aVa man's suitcase
+p2558
+asVHasPrerequisite
+p2559
+(lp2560
+Velectricity to run
+p2561
+asVUsedFor
+p2562
+(lp2563
+Vremove unwanted hair
+p2564
+aVshaving
+p2565
+aVshave
+p2566
+aVtrimming a beard
+p2567
+asVIsA
+p2568
+(lp2569
+Vrazor
+p2570
+aVelectrical household appliance
+p2571
+asVExternalURL
+p2572
+(lp2573
+VElectricShaver
+p2574
+asVHasA
+p2575
+(lp2576
+Va power switch
+p2577
+asVSynonym
+p2578
+(lp2579
+Velectric razor
+p2580
+aVshaver
+p2581
+asVHasProperty
+p2582
+(lp2583
+Vmore convenient than a disposable razor
+p2584
+assVwindow
+p2585
+(dp2586
+VRelatedTo
+p2587
+(lp2588
+Vhouse
+p2589
+aVwall
+p2590
+aVpane
+p2591
+aVwindow
+p2592
+aVopening
+p2593
+aVglass
+p2594
+aVsee
+p2595
+aVthrough
+p2596
+aVlooking
+p2597
+aVdoor
+p2598
+aVpanes
+p2599
+aVclear
+p2600
+asVAtLocation
+p2601
+(lp2602
+Va window
+p2603
+aVthe window
+p2604
+aVany house
+p2605
+aVa building
+p2606
+asVPartOf
+p2607
+(lp2608
+Va window
+p2609
+aVa building
+p2610
+asVUsedFor
+p2611
+(lp2612
+Vlook outside
+p2613
+assVegg
+p2614
+(dp2615
+VRelatedTo
+p2616
+(lp2617
+Vfood
+p2618
+aVchicken
+p2619
+aVoval
+p2620
+aVround
+p2621
+aVegg
+p2622
+aVshell
+p2623
+aVproduct
+p2624
+aVyolk
+p2625
+aVlays
+p2626
+aVbreakfast
+p2627
+aVwhite
+p2628
+aVbaby
+p2629
+aVhen
+p2630
+aVbird
+p2631
+aVchickens
+p2632
+asVAtLocation
+p2633
+(lp2634
+Va grocery store
+p2635
+aVa nest
+p2636
+asVIsA
+p2637
+(lp2638
+Va egg
+p2639
+assVfood_processor
+p2640
+(dp2641
+VPartOf
+p2642
+(lp2643
+Vfood processor
+p2644
+asVDerivedFrom
+p2645
+(lp2646
+Vfood
+p2647
+aVprocessor
+p2648
+asVFormOf
+p2649
+(lp2650
+Vfood processor
+p2651
+asVExternalURL
+p2652
+(lp2653
+VFoodProcessor
+p2654
+aV103383020-n
+p2655
+asVSynonym
+p2656
+(lp2657
+Vfood processor
+p2658
+asVIsA
+p2659
+(lp2660
+Vkitchen tool
+p2661
+aVfood processor
+p2662
+aVkitchen appliance
+p2663
+aVelectrical household appliance
+p2664
+assVcard
+p2665
+(dp2666
+VRelatedTo
+p2667
+(lp2668
+Vhallmark
+p2669
+aVcredit
+p2670
+aVnote
+p2671
+aVgame
+p2672
+aVace
+p2673
+aVcard
+p2674
+aVpaper
+p2675
+aVpoker
+p2676
+aVdeck
+p2677
+aVgreeting
+p2678
+aVjack
+p2679
+aVplaying
+p2680
+aVbirthday
+p2681
+aVking
+p2682
+asVAtLocation
+p2683
+(lp2684
+Va deck
+p2685
+asVUsedFor
+p2686
+(lp2687
+VPlaying games with
+p2688
+aVyour birthday
+p2689
+aVplaying poker
+p2690
+aVidentification
+p2691
+aVchristmas
+p2692
+assVconditioner
+p2693
+(dp2694
+VCapableOf
+p2695
+(lp2696
+Vcondition that hair
+p2697
+asVSynonym
+p2698
+(lp2699
+Vconditioner
+p2700
+asVIsA
+p2701
+(lp2702
+Vcoach
+p2703
+aVcardiopulmonary exercise
+p2704
+aVsoftener
+p2705
+assVpencil_holder
+p2706
+(dp2707
+VRelatedTo
+p2708
+(lp2709
+Vpencil holder
+p2710
+asVAtLocation
+p2711
+(lp2712
+Va desk
+p2713
+aVa pencil holder
+p2714
+assVspice_bottle
+p2715
+(dp2716
+VAtLocation
+p2717
+(lp2718
+Va shelf
+p2719
+assVoven
+p2720
+(dp2721
+VRelatedTo
+p2722
+(lp2723
+Vstove
+p2724
+asVAtLocation
+p2725
+(lp2726
+Vthe oven
+p2727
+aVan oven
+p2728
+asVHasPrerequisite
+p2729
+(lp2730
+Van oven
+p2731
+asVUsedFor
+p2732
+(lp2733
+Vcooking
+p2734
+aVbake cookies
+p2735
+asVCapableOf
+p2736
+(lp2737
+Vbrown chicken
+p2738
+asVHasProperty
+p2739
+(lp2740
+Vvery hot
+p2741
+assVbinoculars
+p2742
+(dp2743
+VRelatedTo
+p2744
+(lp2745
+Vbinoculars
+p2746
+asVAtLocation
+p2747
+(lp2748
+Va suitcase
+p2749
+aVa sporting goods store
+p2750
+aVa backpack
+p2751
+asVHasPrerequisite
+p2752
+(lp2753
+Vbinoculars
+p2754
+asVExternalURL
+p2755
+(lp2756
+VBinoculars
+p2757
+aVQ102626
+p2758
+asVSynonym
+p2759
+(lp2760
+Vfield glasses
+p2761
+aVbinoculars
+p2762
+aVbinocular
+p2763
+asVIsA
+p2764
+(lp2765
+Veasier to use than a telescope
+p2766
+aVvision aid
+p2767
+aVsensory enhancement device visual
+p2768
+aVsingle user device
+p2769
+assVsoccer_ball
+p2770
+(dp2771
+VAtLocation
+p2772
+(lp2773
+Va field
+p2774
+aVthe lawn
+p2775
+asVReceivesAction
+p2776
+(lp2777
+Vpurchased from a sports equipment store
+p2778
+asVMadeOf
+p2779
+(lp2780
+Vleather
+p2781
+asVSynonym
+p2782
+(lp2783
+Vsoccer ball
+p2784
+asVIsA
+p2785
+(lp2786
+Vball
+p2787
+assVhelmet
+p2788
+(dp2789
+VRelatedTo
+p2790
+(lp2791
+Vhead
+p2792
+asVSynonym
+p2793
+(lp2794
+Vhelmet
+p2795
+asVPartOf
+p2796
+(lp2797
+Vhelmet
+p2798
+aVbody armor
+p2799
+asVIsA
+p2800
+(lp2801
+Vhelmet
+p2802
+aVhat
+p2803
+aVarmor plate
+p2804
+aVheaddress
+p2805
+assVpail
+p2806
+(dp2807
+VAtLocation
+p2808
+(lp2809
+Vthe garage
+p2810
+asVIsA
+p2811
+(lp2812
+Vcontainerful
+p2813
+aVa bucket
+p2814
+asVSynonym
+p2815
+(lp2816
+Vpail
+p2817
+aVbucket
+p2818
+asVUsedFor
+p2819
+(lp2820
+Vcarrying water
+p2821
+assVword_search
+p2822
+(dp2823
+VFormOf
+p2824
+(lp2825
+Vword search
+p2826
+asVRelatedTo
+p2827
+(lp2828
+Vword search
+p2829
+aVword game
+p2830
+asVHasContext
+p2831
+(lp2832
+Vgames
+p2833
+asVSynonym
+p2834
+(lp2835
+Vmots muchis
+p2836
+aVosmism\u011brka
+p2837
+aVsopa de lletres
+p2838
+aVmot caché
+p2839
+aVsopa de letras
+p2840
+aVsanalaatikko
+p2841
+aVchwilair
+p2842
+aVword search
+p2843
+aVwonderword
+p2844
+aVparole intrecciate
+p2845
+aVwörtersuchspiel
+p2846
+assViron
+p2847
+(dp2848
+VRelatedTo
+p2849
+(lp2850
+Viron
+p2851
+aVclothes
+p2852
+aVsteel
+p2853
+aVmetal
+p2854
+asVHasA
+p2855
+(lp2856
+Viron
+p2857
+asVReceivesAction
+p2858
+(lp2859
+Vmagnetized
+p2860
+asVMadeOf
+p2861
+(lp2862
+Viron
+p2863
+asVUsedFor
+p2864
+(lp2865
+Vironing your clothes
+p2866
+aVpressing cloth
+p2867
+asVCapableOf
+p2868
+(lp2869
+Vpress clothes
+p2870
+aVrust
+p2871
+aVpress your pants
+p2872
+asVAtLocation
+p2873
+(lp2874
+Va house
+p2875
+aVa laundry room
+p2876
+asVSynonym
+p2877
+(lp2878
+Viron
+p2879
+asVIsA
+p2880
+(lp2881
+Va metal
+p2882
+aVan element
+p2883
+assVeye_liner
+p2884
+(dp2885
+VSynonym
+p2886
+(lp2887
+Veye liner
+p2888
+assVfrying_pan
+p2889
+(dp2890
+VAtLocation
+p2891
+(lp2892
+Va kitchen cabinet
+p2893
+asVIsA
+p2894
+(lp2895
+Vfrying pan
+p2896
+aVpan
+p2897
+asVSynonym
+p2898
+(lp2899
+Vfrying pan
+p2900
+aVpan
+p2901
+asVPartOf
+p2902
+(lp2903
+Vfrying pan
+p2904
+asVUsedFor
+p2905
+(lp2906
+Vcooking
+p2907
+assVnotepad
+p2908
+(dp2909
+VAtLocation
+p2910
+(lp2911
+Vyour desk
+p2912
+aVa meeting
+p2913
+asVIsA
+p2914
+(lp2915
+Vpad
+p2916
+aVnotepad
+p2917
+asVSynonym
+p2918
+(lp2919
+Vnotepad
+p2920
+asVUsedFor
+p2921
+(lp2922
+Vdoodle
+p2923
+aVwriting notes
+p2924
+assValarm_clock
+p2925
+(dp2926
+VRelatedTo
+p2927
+(lp2928
+Vsleeper
+p2929
+aVtime
+p2930
+asVSynonym
+p2931
+(lp2932
+Valarm clock
+p2933
+assVglue
+p2934
+(dp2935
+VMannerOf
+p2936
+(lp2937
+Vglue
+p2938
+asVRelatedTo
+p2939
+(lp2940
+Vglue
+p2941
+asVAtLocation
+p2942
+(lp2943
+Vschool
+p2944
+aVa tube
+p2945
+aVa desk drawer
+p2946
+asVUsedFor
+p2947
+(lp2948
+Vstick thing together
+p2949
+asVCapableOf
+p2950
+(lp2951
+Vstick two things together
+p2952
+aVstick paper
+p2953
+aVstick to anything
+p2954
+aVhold things together
+p2955
+asVHasProperty
+p2956
+(lp2957
+Vsticky
+p2958
+asVIsA
+p2959
+(lp2960
+Vglue
+p2961
+aVa substance
+p2962
+aVan adhesive
+p2963
+aVa glue
+p2964
+aVcement
+p2965
+assVblender
+p2966
+(dp2967
+VAtLocation
+p2968
+(lp2969
+Vthe kitchen
+p2970
+asVSynonym
+p2971
+(lp2972
+Vblender
+p2973
+asVIsA
+p2974
+(lp2975
+Vmixer
+p2976
+assVtelevision
+p2977
+(dp2978
+VAtLocation
+p2979
+(lp2980
+Va living room
+p2981
+aVa television
+p2982
+aVtelevision
+p2983
+asVHasPrerequisite
+p2984
+(lp2985
+Va television
+p2986
+asVHasProperty
+p2987
+(lp2988
+Ventertaining
+p2989
+asVSynonym
+p2990
+(lp2991
+Vtelevision
+p2992
+asVIsA
+p2993
+(lp2994
+Va good way to spend time
+p2995
+aVan appliance
+p2996
+assVtoothpaste
+p2997
+(dp2998
+VAtLocation
+p2999
+(lp3000
+Va tube
+p3001
+aVmy medicine cabinet
+p3002
+asVIsA
+p3003
+(lp3004
+Vdentifrice
+p3005
+asVDerivedFrom
+p3006
+(lp3007
+Vtooth
+p3008
+asVSynonym
+p3009
+(lp3010
+Vtoothpaste
+p3011
+asVUsedFor
+p3012
+(lp3013
+Vcleaning teeth
+p3014
+assVcrow
+p3015
+(dp3016
+VMannerOf
+p3017
+(lp3018
+Vutter
+p3019
+asVRelatedTo
+p3020
+(lp3021
+Vblack
+p3022
+aVbird
+p3023
+asVSynonym
+p3024
+(lp3025
+Vgloat
+p3026
+aVCorvus
+p3027
+aVbrag
+p3028
+aVcrow
+p3029
+asVIsA
+p3030
+(lp3031
+Vcorvine bird
+p3032
+aVcry
+p3033
+aVSiouan
+p3034
+aVbird
+p3035
+aVcrow
+p3036
+assVwashing_machine
+p3037
+(dp3038
+VExternalURL
+p3039
+(lp3040
+VWashing machine
+p3041
+asVAtLocation
+p3042
+(lp3043
+Vyour house
+p3044
+aVthe washing machine
+p3045
+aVa laundromat
+p3046
+aVthe cellar
+p3047
+aVa washing machine
+p3048
+asVHasPrerequisite
+p3049
+(lp3050
+Va washing machine
+p3051
+asVDerivedFrom
+p3052
+(lp3053
+Vwashing machine
+p3054
+asVUsedFor
+p3055
+(lp3056
+Vwashing clothes
+p3057
+asVCapableOf
+p3058
+(lp3059
+Vwash my clothes
+p3060
+aVclean dishes
+p3061
+asVSynonym
+p3062
+(lp3063
+Vwasher
+p3064
+aVwashing machine
+p3065
+asVIsA
+p3066
+(lp3067
+Vmachine
+p3068
+assVturtle
+p3069
+(dp3070
+VRelatedTo
+p3071
+(lp3072
+Vturtle
+p3073
+aVshell
+p3074
+aVtortoise
+p3075
+asVHasA
+p3076
+(lp3077
+Va hard shell
+p3078
+asVDerivedFrom
+p3079
+(lp3080
+Vturtle
+p3081
+asVCapableOf
+p3082
+(lp3083
+Vlive a long time
+p3084
+asVSynonym
+p3085
+(lp3086
+Vturtle
+p3087
+asVIsA
+p3088
+(lp3089
+Vturtle
+p3090
+assVhood
+p3091
+(dp3092
+VMannerOf
+p3093
+(lp3094
+Vcover
+p3095
+asVHasContext
+p3096
+(lp3097
+Vfalconry
+p3098
+aVzoology
+p3099
+asVPartOf
+p3100
+(lp3101
+Vhood
+p3102
+aVplant
+p3103
+aVcar
+p3104
+aVairplane
+p3105
+asVIsA
+p3106
+(lp3107
+Vcriminal
+p3108
+aVprotective covering
+p3109
+aVcovering
+p3110
+aVroof
+p3111
+aVneighborhood
+p3112
+aVvicinity
+p3113
+aVexternal body part
+p3114
+aVhood
+p3115
+aVheaddress
+p3116
+assVboat
+p3117
+(dp3118
+VRelatedTo
+p3119
+(lp3120
+Vsailing
+p3121
+aVvehicle
+p3122
+aVfloating
+p3123
+aVwater
+p3124
+aVsmall
+p3125
+aVship
+p3126
+aVvessel
+p3127
+aVboat
+p3128
+asVAtLocation
+p3129
+(lp3130
+Va lake
+p3131
+aVthe water
+p3132
+aVa boat
+p3133
+asVIsA
+p3134
+(lp3135
+Va boat
+p3136
+aVa form of transportation
+p3137
+asVUsedFor
+p3138
+(lp3139
+Vtravel on the water
+p3140
+aVsailing
+p3141
+aVfishing
+p3142
+aVfloating on the water
+p3143
+assVsquirt_gun
+p3144
+(dp3145
+VRelatedTo
+p3146
+(lp3147
+Vsquirt gun
+p3148
+aVtoy
+p3149
+aVshoot
+p3150
+asVAtLocation
+p3151
+(lp3152
+Va toy store
+p3153
+asVDerivedFrom
+p3154
+(lp3155
+Vgun
+p3156
+asVFormOf
+p3157
+(lp3158
+Vsquirt gun
+p3159
+asVExternalURL
+p3160
+(lp3161
+Vsquirt gun
+p3162
+asVSynonym
+p3163
+(lp3164
+Vwater pistol
+p3165
+aVst\u0159íkací pistole
+p3166
+aVwater gun
+p3167
+aVpistolet à eau
+p3168
+aVsquirt gun
+p3169
+assVmoney
+p3170
+(dp3171
+VRelatedTo
+p3172
+(lp3173
+Vmoney
+p3174
+aVcurrency
+p3175
+aVcash
+p3176
+asVAtLocation
+p3177
+(lp3178
+Va wallet
+p3179
+aVa pocket
+p3180
+aVa bank
+p3181
+asVHasPrerequisite
+p3182
+(lp3183
+Vmoney
+p3184
+asVMotivatedByGoal
+p3185
+(lp3186
+Vmoney
+p3187
+assVwindow_frame
+p3188
+(dp3189
+VRelatedTo
+p3190
+(lp3191
+Vwindow frame
+p3192
+asVDerivedFrom
+p3193
+(lp3194
+Vframe
+p3195
+aVwindow
+p3196
+asVPartOf
+p3197
+(lp3198
+Vwindow frame
+p3199
+aVwindow
+p3200
+asVFormOf
+p3201
+(lp3202
+Vwindow frame
+p3203
+asVExternalURL
+p3204
+(lp3205
+V104596896-n
+p3206
+asVSynonym
+p3207
+(lp3208
+Vwindow frame
+p3209
+asVIsA
+p3210
+(lp3211
+Vframework
+p3212
+assVdoorbell
+p3213
+(dp3214
+VAtLocation
+p3215
+(lp3216
+Vthe front door
+p3217
+asVSynonym
+p3218
+(lp3219
+Vdoorbell
+p3220
+asVIsA
+p3221
+(lp3222
+Vdoorbell
+p3223
+aVpush button
+p3224
+assVtoaster
+p3225
+(dp3226
+VRelatedTo
+p3227
+(lp3228
+Vbread
+p3229
+asVCapableOf
+p3230
+(lp3231
+Vbrown toast
+p3232
+asVSynonym
+p3233
+(lp3234
+Vtoaster
+p3235
+asVIsA
+p3236
+(lp3237
+Va machine
+p3238
+aVsupporter
+p3239
+aVkitchen appliance
+p3240
+assVcatalogue
+p3241
+(dp3242
+VMannerOf
+p3243
+(lp3244
+Vclassify
+p3245
+aVcompose
+p3246
+asVSynonym
+p3247
+(lp3248
+Vcatalogue
+p3249
+aVcatalog
+p3250
+assVmagazine
+p3251
+(dp3252
+VAtLocation
+p3253
+(lp3254
+Vthe bed
+p3255
+aVa library
+p3256
+aVa magazine
+p3257
+asVHasA
+p3258
+(lp3259
+Varticles
+p3260
+asVIsA
+p3261
+(lp3262
+Va Magazine
+p3263
+aVmagazine
+p3264
+aVstorehouse
+p3265
+aVpublisher
+p3266
+aVa magazine
+p3267
+aVpress
+p3268
+aVpublication
+p3269
+aVsupply chamber
+p3270
+aVproduct
+p3271
+aVbook
+p3272
+assVshirt_button
+p3273
+(dp3274
+VRelatedTo
+p3275
+(lp3276
+Vbutton
+p3277
+aVshirt
+p3278
+asVPartOf
+p3279
+(lp3280
+Vshirt
+p3281
+asVDerivedFrom
+p3282
+(lp3283
+Vshirt
+p3284
+asVFormOf
+p3285
+(lp3286
+Vshirt button
+p3287
+asVExternalURL
+p3288
+(lp3289
+V104204824-n
+p3290
+aVshirt-button
+p3291
+asVSynonym
+p3292
+(lp3293
+Vshirt button
+p3294
+asVIsA
+p3295
+(lp3296
+Vbutton
+p3297
+assVbottle_cap
+p3298
+(dp3299
+VFormOf
+p3300
+(lp3301
+Vbottle cap
+p3302
+asVRelatedTo
+p3303
+(lp3304
+Vclosure
+p3305
+aVcork
+p3306
+aVseal
+p3307
+aVbottle cap
+p3308
+aVstopper
+p3309
+asVDerivedFrom
+p3310
+(lp3311
+Vbottle
+p3312
+asVSynonym
+p3313
+(lp3314
+Vbottle cap
+p3315
+assVlighter
+p3316
+(dp3317
+VMannerOf
+p3318
+(lp3319
+Vtransport
+p3320
+asVRelatedTo
+p3321
+(lp3322
+Vfire
+p3323
+asVSynonym
+p3324
+(lp3325
+Vbarge
+p3326
+aVigniter
+p3327
+aVlighter
+p3328
+asVIsA
+p3329
+(lp3330
+Vdevice
+p3331
+aVtool
+p3332
+aVlighter
+p3333
+assVcandy_bar
+p3334
+(dp3335
+VAtLocation
+p3336
+(lp3337
+Va candy bar
+p3338
+asVDerivedFrom
+p3339
+(lp3340
+Vcandy
+p3341
+asVFormOf
+p3342
+(lp3343
+Vcandy bar
+p3344
+asVExternalURL
+p3345
+(lp3346
+V107613827-n
+p3347
+aVCandyBar
+p3348
+asVDefinedAs
+p3349
+(lp3350
+Vsingular form of candy bars
+p3351
+asVSynonym
+p3352
+(lp3353
+Vcandy bar
+p3354
+asVIsA
+p3355
+(lp3356
+Va sweet treat, often with chocolate
+p3357
+aVa candy bar
+p3358
+aVcandy bar
+p3359
+aVcandy
+p3360
+assVpostage_stamp
+p3361
+(dp3362
+VRelatedTo
+p3363
+(lp3364
+Vpostage stamp
+p3365
+asVHasA
+p3366
+(lp3367
+Vadhesive on its back
+p3368
+asVHasPrerequisite
+p3369
+(lp3370
+Va postage stamp
+p3371
+asVDerivedFrom
+p3372
+(lp3373
+Vpostage
+p3374
+asVFormOf
+p3375
+(lp3376
+Vpostage stamp
+p3377
+asVReceivesAction
+p3378
+(lp3379
+Vrequired to mail a letter
+p3380
+asVExternalURL
+p3381
+(lp3382
+VPostage stamp
+p3383
+aVQ37930
+p3384
+aVPostageStamp
+p3385
+asVSynonym
+p3386
+(lp3387
+Vpostage stamp
+p3388
+aVpostage
+p3389
+asVIsA
+p3390
+(lp3391
+Vsticker
+p3392
+aVpostage
+p3393
+aVofficial document
+p3394
+assVsyrup
+p3395
+(dp3396
+VAtLocation
+p3397
+(lp3398
+Va waffle
+p3399
+asVSynonym
+p3400
+(lp3401
+Vsyrup
+p3402
+asVIsA
+p3403
+(lp3404
+Vsweetening
+p3405
+aVsyrup
+p3406
+assVcarrots
+p3407
+(dp3408
+VDesires
+p3409
+(lp3410
+Vcarrots
+p3411
+asVRelatedTo
+p3412
+(lp3413
+Vcarrots
+p3414
+asVAtLocation
+p3415
+(lp3416
+Vthe farmer's market
+p3417
+aVsalad
+p3418
+aVthe supermarket
+p3419
+aVthe fridge
+p3420
+aVa store
+p3421
+aVthe refrigerator
+p3422
+aVa market
+p3423
+aVthe cellar
+p3424
+asVReceivesAction
+p3425
+(lp3426
+Vsliced
+p3427
+aVcooked
+p3428
+asVHasA
+p3429
+(lp3430
+Va particular taste
+p3431
+asVFormOf
+p3432
+(lp3433
+Vcarrot
+p3434
+asVCapableOf
+p3435
+(lp3436
+Vbe choped
+p3437
+asVHasProperty
+p3438
+(lp3439
+Vonly one kind of root vegetables
+p3440
+aVorange
+p3441
+asVIsA
+p3442
+(lp3443
+Vcarrots
+p3444
+aVrinsed in sinks
+p3445
+assVchocolate
+p3446
+(dp3447
+VRelatedTo
+p3448
+(lp3449
+Vcandy
+p3450
+asVAtLocation
+p3451
+(lp3452
+Va candy store
+p3453
+aVa Christmas stocking
+p3454
+aVa box
+p3455
+asVReceivesAction
+p3456
+(lp3457
+Vmade from cocoa beans
+p3458
+aVeaten
+p3459
+asVCreatedBy
+p3460
+(lp3461
+Vmixing sugar, cocoa butter  and cocoa liquor
+p3462
+asVCapableOf
+p3463
+(lp3464
+Vmelt
+p3465
+asVIsA
+p3466
+(lp3467
+Vfood
+p3468
+aVa favorite food of some people
+p3469
+aVcandy
+p3470
+aVchocolate
+p3471
+assVwhite_out
+p3472
+(dp3473
+VMannerOf
+p3474
+(lp3475
+Vlose
+p3476
+aVcover
+p3477
+aVwiden
+p3478
+asVAtLocation
+p3479
+(lp3480
+Va desk
+p3481
+asVExternalURL
+p3482
+(lp3483
+V200547478-v
+p3484
+aVCorrectionFluid
+p3485
+aV200304587-v
+p3486
+asVDerivedFrom
+p3487
+(lp3488
+Vwhite
+p3489
+asVHasContext
+p3490
+(lp3491
+Vprinting
+p3492
+asVSynonym
+p3493
+(lp3494
+Vwhite-out
+p3495
+aVwhite out
+p3496
+assVthread
+p3497
+(dp3498
+VMannerOf
+p3499
+(lp3500
+Vextract
+p3501
+aVguide
+p3502
+asVRelatedTo
+p3503
+(lp3504
+Vthread
+p3505
+asVSynonym
+p3506
+(lp3507
+Vthread
+p3508
+asVIsA
+p3509
+(lp3510
+Vthread
+p3511
+aVcord
+p3512
+assVstring
+p3513
+(dp3514
+VIsA
+p3515
+(lp3516
+Vsequence
+p3517
+aVseries
+p3518
+aVfiber
+p3519
+aVcollection
+p3520
+aVstring
+p3521
+aVcord
+p3522
+asVMannerOf
+p3523
+(lp3524
+Vadd
+p3525
+aVadvance
+p3526
+aVarrange
+p3527
+aVstring
+p3528
+asVAtLocation
+p3529
+(lp3530
+Va guitar
+p3531
+asVHasPrerequisite
+p3532
+(lp3533
+Vstring
+p3534
+asVUsedFor
+p3535
+(lp3536
+Vtie
+p3537
+assVceiling_fan
+p3538
+(dp3539
+VFormOf
+p3540
+(lp3541
+Vceiling fan
+p3542
+asVRelatedTo
+p3543
+(lp3544
+Vceiling
+p3545
+aVceiling fan
+p3546
+aVbuilt in
+p3547
+aVfan
+p3548
+aVlight
+p3549
+aVfixture
+p3550
+asVDerivedFrom
+p3551
+(lp3552
+Vfan
+p3553
+asVSynonym
+p3554
+(lp3555
+Vkattotuuletin
+p3556
+aV\u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0442\u043e\u0440
+p3557
+aVceiling fan
+p3558
+aVpervane
+p3559
+aVdeckenventilator
+p3560
+aVoverhead fan
+p3561
+aV\u540a\u6247
+p3562
+assVwaffle_iron
+p3563
+(dp3564
+VRelatedTo
+p3565
+(lp3566
+Vwaffle
+p3567
+aVindented
+p3568
+aVcooking
+p3569
+aVwaffle iron
+p3570
+aVmetal
+p3571
+aVappliance
+p3572
+aVhinged
+p3573
+aVplate
+p3574
+asVDerivedFrom
+p3575
+(lp3576
+Vwaffle
+p3577
+aViron
+p3578
+asVFormOf
+p3579
+(lp3580
+Vwaffle iron
+p3581
+asVExternalURL
+p3582
+(lp3583
+VWaffleMaker
+p3584
+aV104550229-n
+p3585
+asVSynonym
+p3586
+(lp3587
+Vwaffle iron
+p3588
+asVIsA
+p3589
+(lp3590
+Vpan
+p3591
+aVkitchen appliance
+p3592
+assVchain
+p3593
+(dp3594
+VHasA
+p3595
+(lp3596
+Vlinks
+p3597
+aVa chain
+p3598
+asVHasContext
+p3599
+(lp3600
+Vcommercial enterprise
+p3601
+aVchemistry
+p3602
+asVAtLocation
+p3603
+(lp3604
+Va gear shift
+p3605
+aVa hardware store
+p3606
+aVthe garage
+p3607
+asVIsA
+p3608
+(lp3609
+Vnecklace
+p3610
+aVligament
+p3611
+aVseries
+p3612
+aVbusiness
+p3613
+aVlinear unit
+p3614
+aVunit
+p3615
+aVchain
+p3616
+aVrestraint
+p3617
+assVsand_paper
+p3618
+(dp3619
+VRelatedTo
+p3620
+(lp3621
+Vsand paper
+p3622
+asVAtLocation
+p3623
+(lp3624
+Va cabinet
+p3625
+assVharmonica
+p3626
+(dp3627
+VUsedFor
+p3628
+(lp3629
+Vmaking music
+p3630
+asVHasProperty
+p3631
+(lp3632
+Vannoying
+p3633
+asVSynonym
+p3634
+(lp3635
+Vharmonica
+p3636
+asVIsA
+p3637
+(lp3638
+Van instrument
+p3639
+aVa musical instrument
+p3640
+aVfree-reed instrument
+p3641
+assVcalculator
+p3642
+(dp3643
+VIsA
+p3644
+(lp3645
+Vmachine
+p3646
+aVexpert
+p3647
+aVcalculator
+p3648
+asVAtLocation
+p3649
+(lp3650
+Va wristwatch
+p3651
+aVan accountant's table
+p3652
+aVa calculator
+p3653
+aVan office
+p3654
+aVyour desk
+p3655
+aVa desktop
+p3656
+asVHasPrerequisite
+p3657
+(lp3658
+Vcalculator
+p3659
+asVSynonym
+p3660
+(lp3661
+Vcalculator
+p3662
+asVUsedFor
+p3663
+(lp3664
+Vadding numbers
+p3665
+aVadd numbers
+p3666
+aVdo math
+p3667
+assVfishing_hook
+p3668
+(dp3669
+VRelatedTo
+p3670
+(lp3671
+Vbarbed
+p3672
+aVfishing hook
+p3673
+asVAtLocation
+p3674
+(lp3675
+Va backpack
+p3676
+asVDerivedFrom
+p3677
+(lp3678
+Vfishing
+p3679
+asVFormOf
+p3680
+(lp3681
+Vfishing hook
+p3682
+asVExternalURL
+p3683
+(lp3684
+Vfishing hook
+p3685
+asVSynonym
+p3686
+(lp3687
+Vfishhook
+p3688
+aVfishing hook
+p3689
+assVsunscreen
+p3690
+(dp3691
+VAtLocation
+p3692
+(lp3693
+Va backpack
+p3694
+aVthe beach
+p3695
+asVCapableOf
+p3696
+(lp3697
+Vhelp prevent sunburn
+p3698
+asVSynonym
+p3699
+(lp3700
+Vsunscreen
+p3701
+asVIsA
+p3702
+(lp3703
+Vcream
+p3704
+assVpickles
+p3705
+(dp3706
+VFormOf
+p3707
+(lp3708
+Vpickle
+p3709
+asVRelatedTo
+p3710
+(lp3711
+Vpickles
+p3712
+aVpickle
+p3713
+asVAtLocation
+p3714
+(lp3715
+Va jar
+p3716
+aVa pickle barrel
+p3717
+aVthe fridge
+p3718
+aVpickles
+p3719
+aVthe refrigerator
+p3720
+asVSynonym
+p3721
+(lp3722
+Vpickles
+p3723
+asVIsA
+p3724
+(lp3725
+Va cat
+p3726
+assVglass
+p3727
+(dp3728
+VRelatedTo
+p3729
+(lp3730
+Vwindow
+p3731
+aVsand
+p3732
+aVglass
+p3733
+aVmaterial
+p3734
+aVwindows
+p3735
+aVdrinking
+p3736
+aVcup
+p3737
+aVclear
+p3738
+aVtransparent
+p3739
+asVAtLocation
+p3740
+(lp3741
+Va glass
+p3742
+aVthe cabinet
+p3743
+asVCapableOf
+p3744
+(lp3745
+Vbreak easily
+p3746
+aVhold liquid
+p3747
+asVUsedFor
+p3748
+(lp3749
+Vholding liquid
+p3750
+aVdrinking
+p3751
+asVReceivesAction
+p3752
+(lp3753
+Vrecycled
+p3754
+aVbroken
+p3755
+asVHasProperty
+p3756
+(lp3757
+Vclear
+p3758
+aVrecyclable
+p3759
+assVtop
+p3760
+(dp3761
+VRelatedTo
+p3762
+(lp3763
+Vtop
+p3764
+asVAntonym
+p3765
+(lp3766
+Vtop
+p3767
+aVbottom
+p3768
+asVDistinctFrom
+p3769
+(lp3770
+Vtop
+p3771
+aVbottom
+p3772
+asVIsA
+p3773
+(lp3774
+Vtop
+p3775
+assVmp3_player
+p3776
+(dp3777
+VRelatedTo
+p3778
+(lp3779
+Velectronic
+p3780
+aVradio
+p3781
+aVmp3
+p3782
+aVmp3 player
+p3783
+asVUsedFor
+p3784
+(lp3785
+Vlisten to music
+p3786
+asVFormOf
+p3787
+(lp3788
+Vmp3 player
+p3789
+asVExternalURL
+p3790
+(lp3791
+VMP3Player
+p3792
+aVMP3Player Generic
+p3793
+asVSynonym
+p3794
+(lp3795
+V\u0645\u0634\u063a\u0644 mp3
+p3796
+aV\u0645\u0634\u063a\u0644 \u0627\u0645 \u0628\u064a \u062b\u0631\u064a
+p3797
+aVmp3 player
+p3798
+asVIsA
+p3799
+(lp3800
+Vnon agentive artifact
+p3801
+aVdigital audio file player
+p3802
+aVMP3 Player
+p3803
+aVmp3 player
+p3804
+assVpills
+p3805
+(dp3806
+VRelatedTo
+p3807
+(lp3808
+Vpill
+p3809
+aVpills
+p3810
+asVAtLocation
+p3811
+(lp3812
+Vpills
+p3813
+asVReceivesAction
+p3814
+(lp3815
+Vtaken orally
+p3816
+asVFormOf
+p3817
+(lp3818
+Vpill
+p3819
+asVIsA
+p3820
+(lp3821
+Vsmaller than potatoes
+p3822
+aVpills
+p3823
+aVa form of medication
+p3824
+aVmedicines
+p3825
+asVHasProperty
+p3826
+(lp3827
+Vsmall enough to swallow
+p3828
+asVSynonym
+p3829
+(lp3830
+Vpills
+p3831
+asVCausesDesire
+p3832
+(lp3833
+Vsleep
+p3834
+aVgo to sleep
+p3835
+assVcd
+p3836
+(dp3837
+VRelatedTo
+p3838
+(lp3839
+Vcd
+p3840
+asVAtLocation
+p3841
+(lp3842
+Va cd player
+p3843
+aVa CD
+p3844
+asVUsedFor
+p3845
+(lp3846
+Vstoring data
+p3847
+aVlistening to music
+p3848
+aVstoring information
+p3849
+asVHasA
+p3850
+(lp3851
+Va number of songs on it
+p3852
+asVSynonym
+p3853
+(lp3854
+Vcd
+p3855
+aVcadmium
+p3856
+aVcandle
+p3857
+aVcompact disk
+p3858
+aVcertificate of deposit
+p3859
+aV400
+p3860
+asVIsA
+p3861
+(lp3862
+Va medium
+p3863
+aVan abbreviation for "compact disc"
+p3864
+aVa disc
+p3865
+aVoptical disk
+p3866
+aVa round flat disk
+p3867
+assVspring
+p3868
+(dp3869
+VMannerOf
+p3870
+(lp3871
+Vdisclose
+p3872
+aVgrow
+p3873
+asVRelatedTo
+p3874
+(lp3875
+Vspring
+p3876
+asVMadeOf
+p3877
+(lp3878
+Vmetal
+p3879
+asVDerivedFrom
+p3880
+(lp3881
+Vspring
+p3882
+asVPartOf
+p3883
+(lp3884
+Vspring
+p3885
+asVIsA
+p3886
+(lp3887
+Vgeological formation
+p3888
+aVspring
+p3889
+aVelastic device
+p3890
+aVbeginning
+p3891
+assVtoilet
+p3892
+(dp3893
+VAtLocation
+p3894
+(lp3895
+Va house
+p3896
+aVa toilet
+p3897
+aVan apartment
+p3898
+aVa rest area
+p3899
+aVa motel room
+p3900
+aVa hospital
+p3901
+aVa stadium
+p3902
+aVthe toilet
+p3903
+aVa bathroom
+p3904
+asVCapableOf
+p3905
+(lp3906
+Vsmell bad
+p3907
+aVflush
+p3908
+asVUsedFor
+p3909
+(lp3910
+Vpoop
+p3911
+aVurinate
+p3912
+aVpeeing
+p3913
+asVReceivesAction
+p3914
+(lp3915
+Vfound in a bathroom
+p3916
+asVSynonym
+p3917
+(lp3918
+Vtoilet
+p3919
+asVIsA
+p3920
+(lp3921
+Vtoilet
+p3922
+assVsmoke_detector
+p3923
+(dp3924
+VRelatedTo
+p3925
+(lp3926
+Vsmoke detector
+p3927
+aVsmoke
+p3928
+aValarm
+p3929
+asVAtLocation
+p3930
+(lp3931
+Van apartment
+p3932
+asVDerivedFrom
+p3933
+(lp3934
+Vsmoke
+p3935
+aVdetector
+p3936
+asVFormOf
+p3937
+(lp3938
+Vsmoke detector
+p3939
+asVExternalURL
+p3940
+(lp3941
+VSmokeAlarm
+p3942
+asVSynonym
+p3943
+(lp3944
+Vsmoke detector
+p3945
+asVIsA
+p3946
+(lp3947
+Vchemoreceptor
+p3948
+aVdefense system
+p3949
+aVelectrical household appliance
+p3950
+aVfire alarm
+p3951
+assVballoon
+p3952
+(dp3953
+VMannerOf
+p3954
+(lp3955
+Vballoon
+p3956
+aVfly
+p3957
+aVexpand
+p3958
+asVAtLocation
+p3959
+(lp3960
+Vsky
+p3961
+aVa balloon
+p3962
+asVPartOf
+p3963
+(lp3964
+Vballoon
+p3965
+asVUsedFor
+p3966
+(lp3967
+Vdecoration
+p3968
+asVSynonym
+p3969
+(lp3970
+Vspeech bubble
+p3971
+aVballoon
+p3972
+asVIsA
+p3973
+(lp3974
+Vlighter-than-air craft
+p3975
+aVplaything
+p3976
+aVballoon
+p3977
+assVtea_cup
+p3978
+(dp3979
+VRelatedTo
+p3980
+(lp3981
+Vtea cup
+p3982
+asVAtLocation
+p3983
+(lp3984
+Vthe cupboard
+p3985
+asVFormOf
+p3986
+(lp3987
+Vteacup
+p3988
+asVExternalURL
+p3989
+(lp3990
+Vtea-cup
+p3991
+aVtea cup
+p3992
+aVTeacup
+p3993
+asVSynonym
+p3994
+(lp3995
+Vtea cup
+p3996
+asVIsA
+p3997
+(lp3998
+Vcup
+p3999
+aVmug
+p4000
+assVscarf
+p4001
+(dp4002
+VMannerOf
+p4003
+(lp4004
+Vjoin
+p4005
+aVmasturbate
+p4006
+aVwear
+p4007
+asVSynonym
+p4008
+(lp4009
+Vscarf joint
+p4010
+aVscarf
+p4011
+asVIsA
+p4012
+(lp4013
+Vgarment
+p4014
+aVscarf
+p4015
+assVelectric_fan
+p4016
+(dp4017
+VAtLocation
+p4018
+(lp4019
+Vhot room
+p4020
+asVIsA
+p4021
+(lp4022
+Vfan
+p4023
+asVSynonym
+p4024
+(lp4025
+Velectric fan
+p4026
+asVPartOf
+p4027
+(lp4028
+Velectric fan
+p4029
+asVUsedFor
+p4030
+(lp4031
+Vcooling
+p4032
+aVcool down a room
+p4033
+assVeraser
+p4034
+(dp4035
+VRelatedTo
+p4036
+(lp4037
+Verase
+p4038
+asVAtLocation
+p4039
+(lp4040
+Va pencil
+p4041
+aVschools
+p4042
+aVa pencil box
+p4043
+aVa desk
+p4044
+asVSynonym
+p4045
+(lp4046
+Veraser
+p4047
+asVIsA
+p4048
+(lp4049
+Veraser
+p4050
+aVimplement
+p4051
+assVkeys
+p4052
+(dp4053
+VRelatedTo
+p4054
+(lp4055
+Vkeys
+p4056
+asVAtLocation
+p4057
+(lp4058
+Vyour front pocket
+p4059
+aVa piano
+p4060
+aVthe table
+p4061
+aVa shelf
+p4062
+aVthe purse
+p4063
+aVa pocket
+p4064
+aVa keyboard
+p4065
+aVa cabinet
+p4066
+asVPartOf
+p4067
+(lp4068
+Vpiano
+p4069
+asVFormOf
+p4070
+(lp4071
+Vkey
+p4072
+asVCapableOf
+p4073
+(lp4074
+Vrest on the table
+p4075
+aVopen locks
+p4076
+aVopen doors
+p4077
+aVbreak in a lock
+p4078
+asVHasA
+p4079
+(lp4080
+Vkeys
+p4081
+assVjewelry
+p4082
+(dp4083
+VDesires
+p4084
+(lp4085
+Vjewelry
+p4086
+asVRelatedTo
+p4087
+(lp4088
+Vjewelry
+p4089
+asVAtLocation
+p4090
+(lp4091
+Vsafe
+p4092
+aVjewelry box
+p4093
+asVPartOf
+p4094
+(lp4095
+Vjewelry
+p4096
+asVUsedFor
+p4097
+(lp4098
+Vdecoration
+p4099
+aVdecorate your body
+p4100
+asVIsA
+p4101
+(lp4102
+Vadornment
+p4103
+aVjewelry
+p4104
+assVtile
+p4105
+(dp4106
+VMannerOf
+p4107
+(lp4108
+Vcover
+p4109
+aVtile
+p4110
+asVRelatedTo
+p4111
+(lp4112
+Vtile
+p4113
+asVAtLocation
+p4114
+(lp4115
+Vthe roof
+p4116
+asVPartOf
+p4117
+(lp4118
+Vtile roof
+p4119
+asVUsedFor
+p4120
+(lp4121
+Vflooring
+p4122
+aVcovering the wall
+p4123
+asVSynonym
+p4124
+(lp4125
+Vtile
+p4126
+asVIsA
+p4127
+(lp4128
+Vroofing material
+p4129
+aVslab
+p4130
+aVman
+p4131
+aVtile
+p4132
+assVbrush
+p4133
+(dp4134
+VRelatedTo
+p4135
+(lp4136
+Vbrush
+p4137
+asVAtLocation
+p4138
+(lp4139
+Va brush
+p4140
+asVHasPrerequisite
+p4141
+(lp4142
+Va brush
+p4143
+asVEntails
+p4144
+(lp4145
+Vbrush
+p4146
+asVDerivedFrom
+p4147
+(lp4148
+Vbrush
+p4149
+asVUsedFor
+p4150
+(lp4151
+Vpainting
+p4152
+asVIsA
+p4153
+(lp4154
+Vfight
+p4155
+aVimplement
+p4156
+aVvegetation
+p4157
+aVdental care
+p4158
+aVcontact
+p4159
+aVtouch
+p4160
+aVtail
+p4161
+aVbrush
+p4162
+aVelectrical device
+p4163
+aVhair care
+p4164
+assVtree
+p4165
+(dp4166
+VRelatedTo
+p4167
+(lp4168
+Vleaves
+p4169
+aVplant
+p4170
+aVbranches
+p4171
+aVtree
+p4172
+asVAtLocation
+p4173
+(lp4174
+Va tree
+p4175
+asVCapableOf
+p4176
+(lp4177
+Vshade the lawn
+p4178
+aVgrow leaves
+p4179
+aVgrow
+p4180
+asVPartOf
+p4181
+(lp4182
+Va forest
+p4183
+aVa tree
+p4184
+aVtree
+p4185
+assVbookmark
+p4186
+(dp4187
+VSynonym
+p4188
+(lp4189
+Vbookmark
+p4190
+asVIsA
+p4191
+(lp4192
+Vmarker
+p4193
+assVpicture_frame
+p4194
+(dp4195
+VCapableOf
+p4196
+(lp4197
+Vhang on a wall
+p4198
+asVSynonym
+p4199
+(lp4200
+Vpicture frame
+p4201
+asVPartOf
+p4202
+(lp4203
+Vpicture frame
+p4204
+asVIsA
+p4205
+(lp4206
+Vframework
+p4207
+assVfork
+p4208
+(dp4209
+VMannerOf
+p4210
+(lp4211
+Vattack
+p4212
+asVRelatedTo
+p4213
+(lp4214
+Vfork
+p4215
+asVAtLocation
+p4216
+(lp4217
+Vthe kitchen
+p4218
+aVa plane
+p4219
+aVa plate
+p4220
+aVdrawer
+p4221
+aVa kitchen drawer
+p4222
+aVthe road
+p4223
+aVa table
+p4224
+asVHasContext
+p4225
+(lp4226
+Vchess
+p4227
+asVUsedFor
+p4228
+(lp4229
+Veating food
+p4230
+asVCapableOf
+p4231
+(lp4232
+Vmove the food to your mouth
+p4233
+asVHasA
+p4234
+(lp4235
+Vprongs
+p4236
+asVIsA
+p4237
+(lp4238
+Vcutlery
+p4239
+aVeating utensil
+p4240
+aVfork
+p4241
+aVtool
+p4242
+assVdice
+p4243
+(dp4244
+VMannerOf
+p4245
+(lp4246
+Vgamble
+p4247
+asVHasA
+p4248
+(lp4249
+Vsix sides
+p4250
+asVSynonym
+p4251
+(lp4252
+Vdice
+p4253
+aVcube
+p4254
+asVIsA
+p4255
+(lp4256
+Vdice
+p4257
+aVcube
+p4258
+assVneedle
+p4259
+(dp4260
+VMannerOf
+p4261
+(lp4262
+Vprickle
+p4263
+aVharass
+p4264
+asVRelatedTo
+p4265
+(lp4266
+Vneedle
+p4267
+asVAtLocation
+p4268
+(lp4269
+Vthe doctor
+p4270
+aVa sewing shop
+p4271
+aVa sewing kit
+p4272
+asVHasPrerequisite
+p4273
+(lp4274
+Va needle
+p4275
+asVPartOf
+p4276
+(lp4277
+Vneedle
+p4278
+asVUsedFor
+p4279
+(lp4280
+Vsewing
+p4281
+aVsew
+p4282
+asVIsA
+p4283
+(lp4284
+Vpointer
+p4285
+aVneedle
+p4286
+aVimplement
+p4287
+asVHasContext
+p4288
+(lp4289
+Vsewing
+p4290
+asVHasA
+p4291
+(lp4292
+Va sharp point
+p4293
+asVHasProperty
+p4294
+(lp4295
+Vsmall
+p4296
+aVsharp
+p4297
+assVfloor
+p4298
+(dp4299
+VRelatedTo
+p4300
+(lp4301
+Vcarpet
+p4302
+aVwalking
+p4303
+aVhouse
+p4304
+aVunder
+p4305
+aVbottom
+p4306
+aVground
+p4307
+aVfloor
+p4308
+aVroom
+p4309
+aVsurface
+p4310
+asVAtLocation
+p4311
+(lp4312
+Vyour bed
+p4313
+aVthe carpet
+p4314
+aVthe floor
+p4315
+aVthe closet
+p4316
+aVfloor
+p4317
+aVthe table
+p4318
+aVa desk
+p4319
+asVDistinctFrom
+p4320
+(lp4321
+Vceiling
+p4322
+asVUsedFor
+p4323
+(lp4324
+Vwalk
+p4325
+assVsketch_pad
+p4326
+(dp4327
+VFormOf
+p4328
+(lp4329
+Vsketch pad
+p4330
+asVRelatedTo
+p4331
+(lp4332
+Vblank
+p4333
+aVpad
+p4334
+aVsketchbook
+p4335
+aVsketching
+p4336
+aVpage
+p4337
+aVsketch pad
+p4338
+aVbook
+p4339
+asVExternalURL
+p4340
+(lp4341
+Vsketch pad
+p4342
+asVSynonym
+p4343
+(lp4344
+Vsketch pad
+p4345
+aVsketchbook
+p4346
+assVpuddle
+p4347
+(dp4348
+VMannerOf
+p4349
+(lp4350
+Vpack
+p4351
+aVplant
+p4352
+aVputter
+p4353
+aVshape
+p4354
+aVwade
+p4355
+aVspatter
+p4356
+asVAtLocation
+p4357
+(lp4358
+Va puddle
+p4359
+asVSynonym
+p4360
+(lp4361
+Vaddle
+p4362
+aVmuddle
+p4363
+aVmake
+p4364
+aVpuddle
+p4365
+aVpool
+p4366
+asVIsA
+p4367
+(lp4368
+Vcovering material
+p4369
+assVblowdryer
+p4370
+(dp4371
+VRelatedTo
+p4372
+(lp4373
+Vblowdryer
+p4374
+aVblow dryer
+p4375
+asVAtLocation
+p4376
+(lp4377
+Va dressing room
+p4378
+aVa ladies locker room
+p4379
+aVa salon
+p4380
+aVthe bathroom
+p4381
+asVHasContext
+p4382
+(lp4383
+Vus
+p4384
+asVDerivedFrom
+p4385
+(lp4386
+Vblow dry
+p4387
+asVUsedFor
+p4388
+(lp4389
+Vdrying something
+p4390
+asVFormOf
+p4391
+(lp4392
+Vblowdryer
+p4393
+aVblow dryer
+p4394
+asVCapableOf
+p4395
+(lp4396
+Vdry wet hair
+p4397
+asVHasA
+p4398
+(lp4399
+Vdifferent heat settings
+p4400
+assVletter_opener
+p4401
+(dp4402
+VAtLocation
+p4403
+(lp4404
+Va martyr's chest
+p4405
+aVa dek
+p4406
+aVa office
+p4407
+aVan office supply store
+p4408
+aVa stationery store
+p4409
+aVa rich household
+p4410
+asVIsA
+p4411
+(lp4412
+Vknife
+p4413
+asVDerivedFrom
+p4414
+(lp4415
+Vletter
+p4416
+asVSynonym
+p4417
+(lp4418
+Vletter opener
+p4419
+asVUsedFor
+p4420
+(lp4421
+Vopening envelopes
+p4422
+assVlace
+p4423
+(dp4424
+VMannerOf
+p4425
+(lp4426
+Vweave
+p4427
+aVlace
+p4428
+aVtie
+p4429
+asVEntails
+p4430
+(lp4431
+Vfasten
+p4432
+asVPartOf
+p4433
+(lp4434
+Vshoe
+p4435
+asVHasContext
+p4436
+(lp4437
+Vhandicraft
+p4438
+asVSynonym
+p4439
+(lp4440
+Vintertwine
+p4441
+aVbraid
+p4442
+aVlace
+p4443
+aVspike
+p4444
+asVIsA
+p4445
+(lp4446
+Vfabric
+p4447
+aVlace
+p4448
+aVcord
+p4449
+assVelectric_blanket
+p4450
+(dp4451
+VAtLocation
+p4452
+(lp4453
+Van electric blanket
+p4454
+aVa cold climate
+p4455
+aVyour closet
+p4456
+aVa hall closet
+p4457
+aVsomeone's house
+p4458
+aVa cold bedroom
+p4459
+aVa bedroom
+p4460
+aVa bedroom, in a cold climate
+p4461
+asVExternalURL
+p4462
+(lp4463
+VElectricBlanket
+p4464
+asVDerivedFrom
+p4465
+(lp4466
+Vblanket
+p4467
+asVCapableOf
+p4468
+(lp4469
+Vheat you while you sleep
+p4470
+asVHasA
+p4471
+(lp4472
+Va cord
+p4473
+asVSynonym
+p4474
+(lp4475
+Velectric blanket
+p4476
+assVsocks
+p4477
+(dp4478
+VRelatedTo
+p4479
+(lp4480
+Vsocks
+p4481
+asVAtLocation
+p4482
+(lp4483
+Vyour bed
+p4484
+aVshoes
+p4485
+aVthe gym
+p4486
+aVthe bureau
+p4487
+aVa drawer
+p4488
+aVa suitcase
+p4489
+aVthe sock drawer
+p4490
+aVsocks
+p4491
+aVa sporting goods store
+p4492
+asVReceivesAction
+p4493
+(lp4494
+Vworn over feet
+p4495
+aVfound in a drawer
+p4496
+aVworn inside shoes
+p4497
+aVworn on feet
+p4498
+asVSynonym
+p4499
+(lp4500
+Vsocks
+p4501
+assVplate
+p4502
+(dp4503
+VRelatedTo
+p4504
+(lp4505
+Vfood
+p4506
+aVdish
+p4507
+aVbowl
+p4508
+aVround
+p4509
+aVeating
+p4510
+aVchina
+p4511
+aVeat
+p4512
+aVflat
+p4513
+aVcrockery
+p4514
+aVserving
+p4515
+aVsurface
+p4516
+aVtable
+p4517
+aVcircle
+p4518
+aVutensil
+p4519
+aVceramic
+p4520
+aVdinnerware
+p4521
+aVsaucer
+p4522
+aVdinner
+p4523
+asVAtLocation
+p4524
+(lp4525
+Vthe kitchen
+p4526
+aVthe table
+p4527
+assVdinner_plates
+p4528
+(dp4529
+VFormOf
+p4530
+(lp4531
+Vdinner plate
+p4532
+asVAtLocation
+p4533
+(lp4534
+Va cabinet
+p4535
+asVExternalURL
+p4536
+(lp4537
+Vdinner plates
+p4538
+assVkey
+p4539
+(dp4540
+VIsA
+p4541
+(lp4542
+Vkey
+p4543
+asVAtLocation
+p4544
+(lp4545
+Vthe purse
+p4546
+aVa pocket
+p4547
+aVkeychain
+p4548
+aVa keyhole
+p4549
+asVCapableOf
+p4550
+(lp4551
+Vopen a lock
+p4552
+aVstart car
+p4553
+aVopen doors
+p4554
+asVHasContext
+p4555
+(lp4556
+Vbasketball
+p4557
+aVmusic
+p4558
+asVUsedFor
+p4559
+(lp4560
+Vopening things
+p4561
+aVlocking a door
+p4562
+aVopening doors
+p4563
+aVopen a door
+p4564
+aVopen a lock
+p4565
+aVunlocking
+p4566
+aVopening a door
+p4567
+aVopening a lock
+p4568
+assVegg_timer
+p4569
+(dp4570
+VRelatedTo
+p4571
+(lp4572
+Vmouse
+p4573
+aVkitchen timer
+p4574
+aVboiling
+p4575
+aVegg
+p4576
+aVhourglass
+p4577
+aValarm
+p4578
+aVegg timer
+p4579
+asVHasContext
+p4580
+(lp4581
+Vcomputing
+p4582
+asVDerivedFrom
+p4583
+(lp4584
+Vtimer
+p4585
+asVFormOf
+p4586
+(lp4587
+Vegg timer
+p4588
+asVExternalURL
+p4589
+(lp4590
+V103271531-n
+p4591
+asVSynonym
+p4592
+(lp4593
+Vegg timer
+p4594
+asVIsA
+p4595
+(lp4596
+Vsandglass
+p4597
+aVhourglass
+p4598
+aVkitchen timer
+p4599
+assVbasketball
+p4600
+(dp4601
+VRelatedTo
+p4602
+(lp4603
+Vbasketball
+p4604
+asVAtLocation
+p4605
+(lp4606
+Va basketball court
+p4607
+aVa basketball game
+p4608
+asVHasContext
+p4609
+(lp4610
+Vbasketball
+p4611
+asVUsedFor
+p4612
+(lp4613
+Vthrow
+p4614
+asVReceivesAction
+p4615
+(lp4616
+Vfilled with air
+p4617
+asVHasProperty
+p4618
+(lp4619
+Vround
+p4620
+asVSynonym
+p4621
+(lp4622
+Vbasketball
+p4623
+asVIsA
+p4624
+(lp4625
+Va fast and physically demanding sport
+p4626
+aVa subset of sports
+p4627
+assVmicrophone
+p4628
+(dp4629
+VSynonym
+p4630
+(lp4631
+Vmicrophone
+p4632
+aVmike
+p4633
+asVIsA
+p4634
+(lp4635
+Velectro-acoustic transducer
+p4636
+aVmicrophone
+p4637
+assVcrayons
+p4638
+(dp4639
+VExternalURL
+p4640
+(lp4641
+Vcrayons
+p4642
+asVRelatedTo
+p4643
+(lp4644
+Vcrayons
+p4645
+asVHasPrerequisite
+p4646
+(lp4647
+Vcrayons
+p4648
+asVDistinctFrom
+p4649
+(lp4650
+Vcrayons
+p4651
+asVUsedFor
+p4652
+(lp4653
+Vcolor on paper
+p4654
+aVcolour with
+p4655
+aVdraw
+p4656
+asVFormOf
+p4657
+(lp4658
+Vcrayon
+p4659
+asVCapableOf
+p4660
+(lp4661
+Vmelt
+p4662
+asVIsA
+p4663
+(lp4664
+Vpigment and wax
+p4665
+aVcolorful sticks of wax
+p4666
+assVwire
+p4667
+(dp4668
+VMannerOf
+p4669
+(lp4670
+Vequip
+p4671
+aVwire
+p4672
+aVfasten
+p4673
+aVstring
+p4674
+asVSynonym
+p4675
+(lp4676
+Vwire
+p4677
+asVIsA
+p4678
+(lp4679
+Vconductor
+p4680
+aVfinishing line
+p4681
+aVwire
+p4682
+aVligament
+p4683
+assVmilk
+p4684
+(dp4685
+VRelatedTo
+p4686
+(lp4687
+Vmilk
+p4688
+aVdrink
+p4689
+aVcow juice
+p4690
+aVjuice
+p4691
+aVcow
+p4692
+aVliquid
+p4693
+aVwhite
+p4694
+aVwhite liquid
+p4695
+aVdairy
+p4696
+aVcows
+p4697
+aVproduct
+p4698
+asVAtLocation
+p4699
+(lp4700
+Va container
+p4701
+aVthe fridge
+p4702
+aVthe refrigerator
+p4703
+asVHasProperty
+p4704
+(lp4705
+Vwhite
+p4706
+asVHasA
+p4707
+(lp4708
+Vcalcium
+p4709
+asVIsA
+p4710
+(lp4711
+Va dairy product
+p4712
+aVa liquid
+p4713
+assVtrucks
+p4714
+(dp4715
+VRelatedTo
+p4716
+(lp4717
+Vlawn billiards
+p4718
+aVtrucks
+p4719
+asVAtLocation
+p4720
+(lp4721
+Va rest area
+p4722
+aVa freeway
+p4723
+asVFormOf
+p4724
+(lp4725
+Vtruck
+p4726
+asVCapableOf
+p4727
+(lp4728
+Vdeliver computers
+p4729
+aVbe backing up
+p4730
+aVmove goods to markets
+p4731
+aVship goods
+p4732
+aVcarry some small ships
+p4733
+aVpull cars
+p4734
+aVback up
+p4735
+aVpull trailors with cargo in them
+p4736
+aVcarry cars
+p4737
+asVHasA
+p4738
+(lp4739
+Vmudflaps attached above the tires
+p4740
+asVIsA
+p4741
+(lp4742
+Vbigger than cars
+p4743
+aVlarger than cars
+p4744
+aVbig cars
+p4745
+assVfood
+p4746
+(dp4747
+VRelatedTo
+p4748
+(lp4749
+Vfood
+p4750
+asVAtLocation
+p4751
+(lp4752
+Vthe kitchen
+p4753
+aVthe supermarket
+p4754
+aVthe fridge
+p4755
+aVthe oven
+p4756
+aVthe refrigerator
+p4757
+aVa table
+p4758
+asVReceivesAction
+p4759
+(lp4760
+Veaten
+p4761
+asVIsA
+p4762
+(lp4763
+Va food
+p4764
+aVfood
+p4765
+assVwooden_spoon
+p4766
+(dp4767
+VHasContext
+p4768
+(lp4769
+Vcambridge university
+p4770
+aVUnited Kingdom
+p4771
+asVDerivedFrom
+p4772
+(lp4773
+Vwooden spoon
+p4774
+aVspoon
+p4775
+asVFormOf
+p4776
+(lp4777
+Vwooden spoon
+p4778
+asVExternalURL
+p4779
+(lp4780
+V104605240-n
+p4781
+aVWoodenSpoon
+p4782
+aV104605337-n
+p4783
+asVSynonym
+p4784
+(lp4785
+Vwooden spoon
+p4786
+asVIsA
+p4787
+(lp4788
+Vwoodenware
+p4789
+aVbooby prize
+p4790
+assVdeck
+p4791
+(dp4792
+VMannerOf
+p4793
+(lp4794
+Vbeat
+p4795
+asVRelatedTo
+p4796
+(lp4797
+Vdeck
+p4798
+asVAtLocation
+p4799
+(lp4800
+Va boat
+p4801
+aVa deck
+p4802
+asVSynonym
+p4803
+(lp4804
+Vdeck
+p4805
+asVIsA
+p4806
+(lp4807
+Vporch
+p4808
+aVdeck
+p4809
+aVpacket
+p4810
+assVtoe_ring
+p4811
+(dp4812
+VFormOf
+p4813
+(lp4814
+Vtoe ring
+p4815
+asVRelatedTo
+p4816
+(lp4817
+Vtoe
+p4818
+aVmetal
+p4819
+aVtoe ring
+p4820
+asVAntonym
+p4821
+(lp4822
+Vtoe ring
+p4823
+asVSynonym
+p4824
+(lp4825
+V\u092c\u093f\u091b\u093f\u092f\u093e
+p4826
+aV\u0938\u0941\u0939\u093e\u0917 \u091a\u093f\u0939\u094d\u0928
+p4827
+aVanello per alluce
+p4828
+aVzehenring
+p4829
+aV\u092c\u093f\u091b\u0941\u0906
+p4830
+aVvarvassormus
+p4831
+aV\u0928\u0939\u093f\u0905\u0928
+p4832
+aVvarvasrengas
+p4833
+aVbague d orteil
+p4834
+asVDerivedFrom
+p4835
+(lp4836
+Vtoe
+p4837
+aVring
+p4838
+assVacorn
+p4839
+(dp4840
+VSynonym
+p4841
+(lp4842
+Vacorn
+p4843
+asVRelatedTo
+p4844
+(lp4845
+Vacorn
+p4846
+asVAtLocation
+p4847
+(lp4848
+Va tree
+p4849
+asVPartOf
+p4850
+(lp4851
+Vacorn
+p4852
+aVoak
+p4853
+asVDerivedFrom
+p4854
+(lp4855
+Vacorn
+p4856
+assVperfume
+p4857
+(dp4858
+VMannerOf
+p4859
+(lp4860
+Vodorize
+p4861
+aVgroom
+p4862
+asVRelatedTo
+p4863
+(lp4864
+Vperfume
+p4865
+aVsmell
+p4866
+asVSynonym
+p4867
+(lp4868
+Vperfume
+p4869
+aVaroma
+p4870
+asVIsA
+p4871
+(lp4872
+Vperfume
+p4873
+aVtoiletry
+p4874
+assVlip_gloss
+p4875
+(dp4876
+VRelatedTo
+p4877
+(lp4878
+Vlipstick
+p4879
+aVlip gloss
+p4880
+asVDerivedFrom
+p4881
+(lp4882
+Vlip
+p4883
+asVFormOf
+p4884
+(lp4885
+Vlip gloss
+p4886
+asVExternalURL
+p4887
+(lp4888
+V103681413-n
+p4889
+asVSynonym
+p4890
+(lp4891
+Vlip-gloss
+p4892
+aVlip gloss
+p4893
+asVIsA
+p4894
+(lp4895
+Vmakeup
+p4896
+assVtoaster_oven
+p4897
+(dp4898
+VRelatedTo
+p4899
+(lp4900
+Vtoast
+p4901
+aVoven
+p4902
+aVrack
+p4903
+aVcountertop
+p4904
+asVFormOf
+p4905
+(lp4906
+Vtoaster oven
+p4907
+asVSimilarTo
+p4908
+(lp4909
+Vtoaster oven
+p4910
+asVExternalURL
+p4911
+(lp4912
+VToasterOven
+p4913
+aV104449575-n
+p4914
+aVtoaster oven
+p4915
+asVSynonym
+p4916
+(lp4917
+Vtoaster oven
+p4918
+asVIsA
+p4919
+(lp4920
+Voven
+p4921
+aVcountertop oven
+p4922
+aVtoaster
+p4923
+aVkitchen appliance
+p4924
+assVseat_belt
+p4925
+(dp4926
+VRelatedTo
+p4927
+(lp4928
+Vseat belt
+p4929
+asVAtLocation
+p4930
+(lp4931
+Vthe backseat of a car
+p4932
+aVa plane
+p4933
+asVPartOf
+p4934
+(lp4935
+Vplane seat
+p4936
+aVcar seat
+p4937
+asVFormOf
+p4938
+(lp4939
+Vseat belt
+p4940
+asVSynonym
+p4941
+(lp4942
+Vseat belt
+p4943
+asVIsA
+p4944
+(lp4945
+Vsafety belt
+p4946
+assVgarden_spade
+p4947
+(dp4948
+VExternalURL
+p4949
+(lp4950
+V103423068-n
+p4951
+asVSynonym
+p4952
+(lp4953
+Vgarden spade
+p4954
+asVIsA
+p4955
+(lp4956
+Vspade
+p4957
+assVpressure_cooker
+p4958
+(dp4959
+VRelatedTo
+p4960
+(lp4961
+Vpressure cooker
+p4962
+asVHasContext
+p4963
+(lp4964
+Vcookware
+p4965
+aVcuisine
+p4966
+asVDerivedFrom
+p4967
+(lp4968
+Vcooker
+p4969
+aVpressure
+p4970
+asVFormOf
+p4971
+(lp4972
+Vpressure cooker
+p4973
+asVExternalURL
+p4974
+(lp4975
+V104007623-n
+p4976
+asVSynonym
+p4977
+(lp4978
+Vpressure cooker
+p4979
+asVIsA
+p4980
+(lp4981
+Vautoclave
+p4982
+assVleg_warmers
+p4983
+(dp4984
+VFormOf
+p4985
+(lp4986
+Vleg warmer
+p4987
+asVRelatedTo
+p4988
+(lp4989
+Vleg warmers
+p4990
+aVleg warmer
+p4991
+asVExternalURL
+p4992
+(lp4993
+Vleg warmers
+p4994
+aVleg-warmers
+p4995
+asVSynonym
+p4996
+(lp4997
+Vleg warmers
+p4998
+assVpercolator
+p4999
+(dp5000
+VRelatedTo
+p5001
+(lp5002
+Vapparatus
+p5003
+aVpercolator
+p5004
+asVDerivedFrom
+p5005
+(lp5006
+Vpercolator
+p5007
+asVFormOf
+p5008
+(lp5009
+Vpercolator
+p5010
+asVExternalURL
+p5011
+(lp5012
+V103921237-n
+p5013
+asVSynonym
+p5014
+(lp5015
+Vpercolator
+p5016
+asVIsA
+p5017
+(lp5018
+Vcoffee pot
+p5019
+aVcoffeepot
+p5020
+aVan appliance for making coffee
+p5021
+assVclothes_pin
+p5022
+(dp5023
+VRelatedTo
+p5024
+(lp5025
+Vclothes pin
+p5026
+asVDerivedFrom
+p5027
+(lp5028
+Vpin
+p5029
+asVSynonym
+p5030
+(lp5031
+Vclothespin
+p5032
+aVclothes pin
+p5033
+assVflyswatter
+p5034
+(dp5035
+VFormOf
+p5036
+(lp5037
+Vflyswatter
+p5038
+asVRelatedTo
+p5039
+(lp5040
+Vinsects
+p5041
+aVflyswatter
+p5042
+aVkill
+p5043
+aVshoo
+p5044
+aVswatting
+p5045
+aVflies
+p5046
+asVCapableOf
+p5047
+(lp5048
+Vkill a fly
+p5049
+asVDerivedFrom
+p5050
+(lp5051
+Vfly
+p5052
+asVSynonym
+p5053
+(lp5054
+Vswatter
+p5055
+assVpearl_necklace
+p5056
+(dp5057
+VFormOf
+p5058
+(lp5059
+Vpearl necklace
+p5060
+asVRelatedTo
+p5061
+(lp5062
+Vcollier
+p5063
+aVnecklace
+p5064
+aVpearl
+p5065
+aVpearl necklace
+p5066
+aVaction
+p5067
+aVéjaculer
+p5068
+aVperle
+p5069
+aVsein
+p5070
+aVhomme
+p5071
+aVpoitrine
+p5072
+asVExternalURL
+p5073
+(lp5074
+Vpearl necklace
+p5075
+asVSynonym
+p5076
+(lp5077
+Vhelminauha
+p5078
+aV\u0436\u0435\u043c\u0447\u0443\u0436\u043d\u043e\u0435 \u043e\u0436\u0435\u0440\u0435\u043b\u044c\u0435
+p5079
+aV\u0441\u0443\u0432\u0434\u0430\u043d \u0437\u04af\u04af\u043b\u0442
+p5080
+asVDerivedFrom
+p5081
+(lp5082
+Vnecklace
+p5083
+aVpearl
+p5084
+assVhanger
+p5085
+(dp5086
+VAtLocation
+p5087
+(lp5088
+Va hanger
+p5089
+aVthe closet
+p5090
+asVSynonym
+p5091
+(lp5092
+Vhanger
+p5093
+asVIsA
+p5094
+(lp5095
+Vsupport
+p5096
+aVhanger
+p5097
+aVworker
+p5098
+assVedger
+p5099
+(dp5100
+VRelatedTo
+p5101
+(lp5102
+Vtool
+p5103
+aVlawn
+p5104
+aVedger
+p5105
+aVedge
+p5106
+aVtrim
+p5107
+asVAtLocation
+p5108
+(lp5109
+Va garage
+p5110
+asVFormOf
+p5111
+(lp5112
+Vedger
+p5113
+asVExternalURL
+p5114
+(lp5115
+V110064571-n
+p5116
+aV103269817-n
+p5117
+aVedger
+p5118
+asVSynonym
+p5119
+(lp5120
+Vedger
+p5121
+asVIsA
+p5122
+(lp5123
+Vgarden tool
+p5124
+aVneedleworker
+p5125
+assVbananas
+p5126
+(dp5127
+VNotCapableOf
+p5128
+(lp5129
+Vplay poker
+p5130
+asVAtLocation
+p5131
+(lp5132
+Va store
+p5133
+asVReceivesAction
+p5134
+(lp5135
+Vcurved
+p5136
+aVeaten
+p5137
+asVHasA
+p5138
+(lp5139
+Vpeels
+p5140
+aVpotassium
+p5141
+aVa peel
+p5142
+asVMadeOf
+p5143
+(lp5144
+Vbananas
+p5145
+asVDerivedFrom
+p5146
+(lp5147
+Vbananas
+p5148
+aVbanana
+p5149
+asVRelatedTo
+p5150
+(lp5151
+Vbananas
+p5152
+asVFormOf
+p5153
+(lp5154
+Vbanana
+p5155
+asVExternalURL
+p5156
+(lp5157
+VBananas!*
+p5158
+aVQ806087
+p5159
+asVHasProperty
+p5160
+(lp5161
+Vbananas
+p5162
+aVnutritious
+p5163
+aVyellow
+p5164
+aVrich in potassium
+p5165
+assVdrawer
+p5166
+(dp5167
+VAtLocation
+p5168
+(lp5169
+Va drawer
+p5170
+aVdrawer
+p5171
+aVthe drawer
+p5172
+aVyour drawer
+p5173
+asVIsA
+p5174
+(lp5175
+Va container
+p5176
+asVUsedFor
+p5177
+(lp5178
+Vstoring socks
+p5179
+aVstoring things
+p5180
+assVcomputer
+p5181
+(dp5182
+VAtLocation
+p5183
+(lp5184
+Va house
+p5185
+aVthe office
+p5186
+aVa building
+p5187
+aVany school
+p5188
+aVa computer
+p5189
+aVa table
+p5190
+asVHasPrerequisite
+p5191
+(lp5192
+Va computer
+p5193
+asVPartOf
+p5194
+(lp5195
+Vcomputer
+p5196
+aVa computer
+p5197
+aVthe computer
+p5198
+asVUsedFor
+p5199
+(lp5200
+Vwork
+p5201
+aVcalculating
+p5202
+aVplay games
+p5203
+aVcommunication
+p5204
+asVCapableOf
+p5205
+(lp5206
+Vprocess information
+p5207
+asVIsA
+p5208
+(lp5209
+Van electronic device
+p5210
+aVcomputer
+p5211
+assVpen
+p5212
+(dp5213
+VRelatedTo
+p5214
+(lp5215
+Vpen
+p5216
+asVAtLocation
+p5217
+(lp5218
+Va drawer
+p5219
+aVthe purse
+p5220
+aVa pocket
+p5221
+aVan office
+p5222
+aVan office supply store
+p5223
+asVHasPrerequisite
+p5224
+(lp5225
+Va pen
+p5226
+asVUsedFor
+p5227
+(lp5228
+Vwriting letters
+p5229
+asVHasA
+p5230
+(lp5231
+Vink
+p5232
+asVIsA
+p5233
+(lp5234
+Vpen
+p5235
+aVan object
+p5236
+assVcomb
+p5237
+(dp5238
+VMannerOf
+p5239
+(lp5240
+Vsearch
+p5241
+aVgroom
+p5242
+asVAtLocation
+p5243
+(lp5244
+Vthe purse
+p5245
+aVa pocket
+p5246
+asVUsedFor
+p5247
+(lp5248
+Vhair
+p5249
+aVgrooming
+p5250
+asVCapableOf
+p5251
+(lp5252
+Vpart your hair
+p5253
+asVHasA
+p5254
+(lp5255
+Vmany teeth
+p5256
+aVa comb
+p5257
+asVIsA
+p5258
+(lp5259
+Vcrest
+p5260
+aVtool
+p5261
+aVa tool
+p5262
+aVcomb
+p5263
+aVdevice
+p5264
+aVhair care
+p5265
+aVplate
+p5266
+assVlocket
+p5267
+(dp5268
+VFormOf
+p5269
+(lp5270
+Vlocket
+p5271
+asVRelatedTo
+p5272
+(lp5273
+Vcoat
+p5274
+aVscabbard
+p5275
+aVphotograph
+p5276
+aVlocket
+p5277
+aVmarking
+p5278
+aVpendant
+p5279
+asVExternalURL
+p5280
+(lp5281
+V103689321-n
+p5282
+asVSynonym
+p5283
+(lp5284
+Vlocket
+p5285
+asVIsA
+p5286
+(lp5287
+Vcase
+p5288
+assVoutlet
+p5289
+(dp5290
+VSynonym
+p5291
+(lp5292
+Voutlet
+p5293
+aVexit
+p5294
+aVmercantile establishment
+p5295
+aVrelease
+p5296
+aVwall socket
+p5297
+assVhand_fan
+p5298
+(dp5299
+VFormOf
+p5300
+(lp5301
+Vhand fan
+p5302
+asVRelatedTo
+p5303
+(lp5304
+Vcooling
+p5305
+aVhand held
+p5306
+aVwaved
+p5307
+aVdevice
+p5308
+aVairflow
+p5309
+aVhand fan
+p5310
+aVback and forth
+p5311
+asVExternalURL
+p5312
+(lp5313
+VQ193220
+p5314
+aVHand fan
+p5315
+asVSynonym
+p5316
+(lp5317
+V\u0570\u0578\u057e\u0570\u0561\u0580
+p5318
+aVfan
+p5319
+aVv\u0113deklis
+p5320
+aV\u0432\u0435\u0435\u0440
+p5321
+aVhand fan
+p5322
+assVplastic_bag
+p5323
+(dp5324
+VFormOf
+p5325
+(lp5326
+Vplastic bag
+p5327
+asVAtLocation
+p5328
+(lp5329
+Va plastic bag
+p5330
+asVExternalURL
+p5331
+(lp5332
+VPlasticBag
+p5333
+aVPlastic bag
+p5334
+aV103964521-n
+p5335
+aVQ498439
+p5336
+asVSynonym
+p5337
+(lp5338
+Vplastic bag
+p5339
+asVIsA
+p5340
+(lp5341
+Vsack
+p5342
+aVplastic film
+p5343
+aVbag
+p5344
+aVplastic bag
+p5345
+assVmasking_tape
+p5346
+(dp5347
+VRelatedTo
+p5348
+(lp5349
+Vmasking tape
+p5350
+asVAtLocation
+p5351
+(lp5352
+Va grocery store
+p5353
+asVExternalURL
+p5354
+(lp5355
+V103730846-n
+p5356
+asVDerivedFrom
+p5357
+(lp5358
+Vtape
+p5359
+aVmasking
+p5360
+asVFormOf
+p5361
+(lp5362
+Vmasking tape
+p5363
+asVCapableOf
+p5364
+(lp5365
+Vreinforce boxes
+p5366
+asVSynonym
+p5367
+(lp5368
+Vmasking tape
+p5369
+asVIsA
+p5370
+(lp5371
+Vadhesive tape
+p5372
+assVextension_cord
+p5373
+(dp5374
+VRelatedTo
+p5375
+(lp5376
+Vextension cord
+p5377
+aVpowerboard
+p5378
+aVpower strip
+p5379
+aVpower board
+p5380
+aVcord
+p5381
+asVHasContext
+p5382
+(lp5383
+Velectronics
+p5384
+asVDerivedFrom
+p5385
+(lp5386
+Vcord
+p5387
+asVFormOf
+p5388
+(lp5389
+Vextension cord
+p5390
+asVExternalURL
+p5391
+(lp5392
+VPowerCordExtension
+p5393
+aV103311982-n
+p5394
+asVSynonym
+p5395
+(lp5396
+Vextension cord
+p5397
+asVIsA
+p5398
+(lp5399
+Vexternally powered device
+p5400
+aVhardware
+p5401
+aVhousewares
+p5402
+aVcord
+p5403
+assVfreezer
+p5404
+(dp5405
+VAtLocation
+p5406
+(lp5407
+Va garage
+p5408
+aVthe freezer
+p5409
+asVSynonym
+p5410
+(lp5411
+Vdeep-freeze
+p5412
+asVDerivedFrom
+p5413
+(lp5414
+Vfreezer
+p5415
+asVUsedFor
+p5416
+(lp5417
+Vmaking ice cubes
+p5418
+assVcowboy_hat
+p5419
+(dp5420
+VFormOf
+p5421
+(lp5422
+Vcowboy hat
+p5423
+asVRelatedTo
+p5424
+(lp5425
+Vcowboy
+p5426
+aVbrim
+p5427
+aVten gallon hat
+p5428
+asVExternalURL
+p5429
+(lp5430
+VCowboyHat
+p5431
+aV103128821-n
+p5432
+asVSynonym
+p5433
+(lp5434
+Vcowboy hat
+p5435
+asVIsA
+p5436
+(lp5437
+Vcasualness
+p5438
+aVhat
+p5439
+assVscrew
+p5440
+(dp5441
+VMannerOf
+p5442
+(lp5443
+Vscrew
+p5444
+aVtighten
+p5445
+aVrevolve
+p5446
+asVAtLocation
+p5447
+(lp5448
+Vthe hinges of a door
+p5449
+aVa motorcycle
+p5450
+asVDerivedFrom
+p5451
+(lp5452
+Vscrew
+p5453
+asVIsA
+p5454
+(lp5455
+Vfastener
+p5456
+aVinclined plane
+p5457
+aVscrew
+p5458
+aVpropeller
+p5459
+aVa simple machine
+p5460
+aVan inclined plane
+p5461
+assVjuice
+p5462
+(dp5463
+VRelatedTo
+p5464
+(lp5465
+Vjuice
+p5466
+asVAtLocation
+p5467
+(lp5468
+Vthe fridge
+p5469
+aVthe refrigerator
+p5470
+asVSynonym
+p5471
+(lp5472
+Vjuice
+p5473
+asVIsA
+p5474
+(lp5475
+Vfoodstuff
+p5476
+aVjuice
+p5477
+aVcurrent
+p5478
+aVenergy
+p5479
+aVliquid body substance
+p5480
+assVkeyboard
+p5481
+(dp5482
+VAtLocation
+p5483
+(lp5484
+Van office
+p5485
+aVyour desk
+p5486
+aVa keyboard
+p5487
+asVDerivedFrom
+p5488
+(lp5489
+Vkeyboard
+p5490
+asVPartOf
+p5491
+(lp5492
+Vkeyboard
+p5493
+aVa computer
+p5494
+aVa piano
+p5495
+aVa computer system
+p5496
+asVUsedFor
+p5497
+(lp5498
+Vplaying music
+p5499
+aVtyping
+p5500
+asVHasA
+p5501
+(lp5502
+Va keyboard
+p5503
+aVkeys
+p5504
+asVSynonym
+p5505
+(lp5506
+Vkeyboard
+p5507
+asVIsA
+p5508
+(lp5509
+Vdevice
+p5510
+aVkeyboard
+p5511
+aVholder
+p5512
+aVa keyboard
+p5513
+assVshampoo
+p5514
+(dp5515
+VMannerOf
+p5516
+(lp5517
+Vshampoo
+p5518
+aVwash
+p5519
+asVRelatedTo
+p5520
+(lp5521
+Vshampoo
+p5522
+asVAtLocation
+p5523
+(lp5524
+Vthe supermarket
+p5525
+aVhair
+p5526
+aVa shower
+p5527
+aVa bottle
+p5528
+asVSynonym
+p5529
+(lp5530
+Vshampoo
+p5531
+asVIsA
+p5532
+(lp5533
+Vcleansing agent
+p5534
+aVhair care
+p5535
+assVchocolates
+p5536
+(dp5537
+VFormOf
+p5538
+(lp5539
+Vchocolate
+p5540
+asVRelatedTo
+p5541
+(lp5542
+Vchocolates
+p5543
+aVchocolate
+p5544
+asVAtLocation
+p5545
+(lp5546
+Va box
+p5547
+asVExternalURL
+p5548
+(lp5549
+Vchocolates
+p5550
+assVdog
+p5551
+(dp5552
+VDesires
+p5553
+(lp5554
+Vbe petted
+p5555
+aVa bone
+p5556
+asVRelatedTo
+p5557
+(lp5558
+Vpet
+p5559
+aVanimal
+p5560
+aVcanine
+p5561
+aVdog
+p5562
+asVAtLocation
+p5563
+(lp5564
+Vthe table
+p5565
+aVa park
+p5566
+aVa kennel
+p5567
+asVUsedFor
+p5568
+(lp5569
+Vcompanionship
+p5570
+asVCapableOf
+p5571
+(lp5572
+Vbe a pet
+p5573
+aVbark
+p5574
+aVguard your house
+p5575
+aVguide a blind person
+p5576
+aVrun
+p5577
+asVHasA
+p5578
+(lp5579
+Vfour legs
+p5580
+asVIsA
+p5581
+(lp5582
+Vpet
+p5583
+aVa loyal friend
+p5584
+aVmammal
+p5585
+aVa canine
+p5586
+assVrecord_player
+p5587
+(dp5588
+VRelatedTo
+p5589
+(lp5590
+Vrecord player
+p5591
+asVSynonym
+p5592
+(lp5593
+Vphonograph
+p5594
+aVrecord player
+p5595
+asVPartOf
+p5596
+(lp5597
+Vaudio system
+p5598
+aVrecord player
+p5599
+asVIsA
+p5600
+(lp5601
+Vmachine
+p5602
+aVrecord player
+p5603
+assVice_cube
+p5604
+(dp5605
+VAtLocation
+p5606
+(lp5607
+Va ice cube
+p5608
+asVExternalURL
+p5609
+(lp5610
+VIceCube
+p5611
+aVIce Cube
+p5612
+aVQ173637
+p5613
+asVDerivedFrom
+p5614
+(lp5615
+Vcube
+p5616
+aVice
+p5617
+asVSynonym
+p5618
+(lp5619
+Vice cube
+p5620
+asVIsA
+p5621
+(lp5622
+Vcube
+p5623
+assVladle
+p5624
+(dp5625
+VMannerOf
+p5626
+(lp5627
+Vladle
+p5628
+aVput
+p5629
+aVremove
+p5630
+asVSynonym
+p5631
+(lp5632
+Vladle
+p5633
+asVPartOf
+p5634
+(lp5635
+Vladle
+p5636
+asVIsA
+p5637
+(lp5638
+Vladle
+p5639
+aVvessel
+p5640
+assVrubber_gloves
+p5641
+(dp5642
+VSynonym
+p5643
+(lp5644
+Vrubber gloves
+p5645
+assVfish
+p5646
+(dp5647
+VHasSubevent
+p5648
+(lp5649
+Vyou catch fish
+p5650
+asVRelatedTo
+p5651
+(lp5652
+Vswimming
+p5653
+aVocean
+p5654
+aVanimal
+p5655
+aVcreature
+p5656
+aVwater
+p5657
+aVsea
+p5658
+asVAtLocation
+p5659
+(lp5660
+Va lake
+p5661
+aVa river
+p5662
+aVwater
+p5663
+aVa pond
+p5664
+aVan aquarium
+p5665
+aVthe ocean
+p5666
+asVHasPrerequisite
+p5667
+(lp5668
+Vgo to the lake
+p5669
+asVCapableOf
+p5670
+(lp5671
+Vlive underwater
+p5672
+asVIsA
+p5673
+(lp5674
+Va fish
+p5675
+aVan animal
+p5676
+aVfish
+p5677
+assVsoldier
+p5678
+(dp5679
+VAtLocation
+p5680
+(lp5681
+Vharms way
+p5682
+aVthe white house
+p5683
+aVa battle
+p5684
+aVa tent
+p5685
+aVa battlefield
+p5686
+aVa war zone
+p5687
+asVHasPrerequisite
+p5688
+(lp5689
+Vto be a soldier
+p5690
+asVPartOf
+p5691
+(lp5692
+Van army
+p5693
+asVUsedFor
+p5694
+(lp5695
+Vprotecting a country
+p5696
+aVkilling the enemy
+p5697
+asVCapableOf
+p5698
+(lp5699
+Vfight a battle
+p5700
+aVwait for orders
+p5701
+aVstorm a beach
+p5702
+aVstep on a land mine
+p5703
+aVfight in a battle
+p5704
+aVfire a gun
+p5705
+aVkill the enemies
+p5706
+aVbattle another solider
+p5707
+asVHasA
+p5708
+(lp5709
+Va proud profession
+p5710
+asVIsA
+p5711
+(lp5712
+Va person
+p5713
+assVtwister
+p5714
+(dp5715
+VRelatedTo
+p5716
+(lp5717
+Vparty game
+p5718
+aVcrook
+p5719
+aVtwister
+p5720
+aVdust devil
+p5721
+aVgirder
+p5722
+asVDerivedFrom
+p5723
+(lp5724
+Vtwist
+p5725
+aVtwister
+p5726
+asVFormOf
+p5727
+(lp5728
+Vtwister
+p5729
+asVHasContext
+p5730
+(lp5731
+Vbritish
+p5732
+aVcarpentry
+p5733
+aVmétéorologie
+p5734
+asVSynonym
+p5735
+(lp5736
+Vtornado
+p5737
+aVcruller
+p5738
+aVtwister
+p5739
+asVIsA
+p5740
+(lp5741
+Va film about tornadoes
+p5742
+aVa good movie
+p5743
+aVa name
+p5744
+assVrusty_nail
+p5745
+(dp5746
+VFormOf
+p5747
+(lp5748
+Vrusty nail
+p5749
+asVRelatedTo
+p5750
+(lp5751
+Vscotch
+p5752
+aVdrambuie
+p5753
+aVcocktail
+p5754
+aVrusty nail
+p5755
+asVExternalURL
+p5756
+(lp5757
+Vrusty nail
+p5758
+asVSynonym
+p5759
+(lp5760
+V\u0440\u0436\u0430\u0432\u044b\u0439 \u0433\u0432\u043e\u0437\u0434\u044c
+p5761
+aVrusty nail
+p5762
+asVDerivedFrom
+p5763
+(lp5764
+Vrusty
+p5765
+aVnail
+p5766
+assVrubber_stamp
+p5767
+(dp5768
+VAtLocation
+p5769
+(lp5770
+Van art class
+p5771
+aVIndiana
+p5772
+aVan office
+p5773
+aVa craft store
+p5774
+aVthe store
+p5775
+aVa desk
+p5776
+asVDerivedFrom
+p5777
+(lp5778
+Vstamp
+p5779
+asVUsedFor
+p5780
+(lp5781
+Vmark something
+p5782
+asVFormOf
+p5783
+(lp5784
+Vrubber stamp
+p5785
+asVCapableOf
+p5786
+(lp5787
+Vsave time of repetitive writing
+p5788
+asVHasProperty
+p5789
+(lp5790
+Vopaque
+p5791
+asVSynonym
+p5792
+(lp5793
+Vhandstamp
+p5794
+aVrubber stamp
+p5795
+asVIsA
+p5796
+(lp5797
+Vauthorization
+p5798
+assVtongs
+p5799
+(dp5800
+VSynonym
+p5801
+(lp5802
+Vtongs
+p5803
+asVIsA
+p5804
+(lp5805
+Vdevice
+p5806
+aVtongs
+p5807
+assVrat
+p5808
+(dp5809
+VMannerOf
+p5810
+(lp5811
+Vcapture
+p5812
+aVpad
+p5813
+aVdefect
+p5814
+aVhire
+p5815
+asVRelatedTo
+p5816
+(lp5817
+Vmouse
+p5818
+aVrat
+p5819
+aVrodent
+p5820
+asVAtLocation
+p5821
+(lp5822
+Va laboratory
+p5823
+asVPartOf
+p5824
+(lp5825
+Vhairdo
+p5826
+asVHasContext
+p5827
+(lp5828
+Vindustry
+p5829
+asVSynonym
+p5830
+(lp5831
+Vrat
+p5832
+asVIsA
+p5833
+(lp5834
+Vpad
+p5835
+aVa rodent
+p5836
+aVrat
+p5837
+assVthimble
+p5838
+(dp5839
+VRelatedTo
+p5840
+(lp5841
+Vsewing
+p5842
+asVSynonym
+p5843
+(lp5844
+Vthimble
+p5845
+asVIsA
+p5846
+(lp5847
+Vcontainerful
+p5848
+aVcap
+p5849
+aVcontainer
+p5850
+assVscale
+p5851
+(dp5852
+VRelatedTo
+p5853
+(lp5854
+Vmeasuring
+p5855
+aVscale
+p5856
+aVweight
+p5857
+aVweighing
+p5858
+aVmeasure
+p5859
+aVfish
+p5860
+aVdevice
+p5861
+aVweigh
+p5862
+aVmeasurement
+p5863
+asVAtLocation
+p5864
+(lp5865
+Vthe doctor
+p5866
+aVthe post office
+p5867
+aVbathroom
+p5868
+asVUsedFor
+p5869
+(lp5870
+Vdetermining weight
+p5871
+aVweigh objects
+p5872
+aVmeasuring weight
+p5873
+aVmeasure weight
+p5874
+asVHasContext
+p5875
+(lp5876
+Vmusic
+p5877
+asVSynonym
+p5878
+(lp5879
+Vscale
+p5880
+asVIsA
+p5881
+(lp5882
+Vscale
+p5883
+assVfurnace
+p5884
+(dp5885
+VRelatedTo
+p5886
+(lp5887
+Vfurnace
+p5888
+asVAtLocation
+p5889
+(lp5890
+Va house
+p5891
+aVthe cellar
+p5892
+aVthe basement
+p5893
+asVCapableOf
+p5894
+(lp5895
+Vheat a home
+p5896
+aVheat a house
+p5897
+aVheat a building
+p5898
+asVIsA
+p5899
+(lp5900
+Vfurnace
+p5901
+aVchamber
+p5902
+assVtea_pot
+p5903
+(dp5904
+VRelatedTo
+p5905
+(lp5906
+Vtea pot
+p5907
+assVoil
+p5908
+(dp5909
+VRelatedTo
+p5910
+(lp5911
+Vblack
+p5912
+aVgasoline
+p5913
+aVcooking
+p5914
+aVcars
+p5915
+aVgrease
+p5916
+aVcar
+p5917
+aVfuel
+p5918
+aVlubricant
+p5919
+aVcrude
+p5920
+aVliquid
+p5921
+aVblack gold
+p5922
+aVoil
+p5923
+aVpetroleum
+p5924
+aVgas
+p5925
+aVgold
+p5926
+aVenergy
+p5927
+aVolive
+p5928
+aVexpensive
+p5929
+asVAtLocation
+p5930
+(lp5931
+Vthe ground
+p5932
+aVan engine
+p5933
+assVthermometer
+p5934
+(dp5935
+VRelatedTo
+p5936
+(lp5937
+Vthermometer
+p5938
+aVtemperature
+p5939
+asVAtLocation
+p5940
+(lp5941
+Vthe doctor
+p5942
+asVCapableOf
+p5943
+(lp5944
+Vmeasure temperature
+p5945
+asVDerivedFrom
+p5946
+(lp5947
+Vthermometer
+p5948
+asVIsA
+p5949
+(lp5950
+Vthermometer
+p5951
+assVlight_bulb
+p5952
+(dp5953
+VRelatedTo
+p5954
+(lp5955
+Vlight bulb
+p5956
+asVCauses
+p5957
+(lp5958
+Villumination
+p5959
+asVDerivedFrom
+p5960
+(lp5961
+Vlight bulb
+p5962
+asVPartOf
+p5963
+(lp5964
+Vlight bulb
+p5965
+asVCapableOf
+p5966
+(lp5967
+Vburn out
+p5968
+asVSynonym
+p5969
+(lp5970
+Vlight bulb
+p5971
+asVIsA
+p5972
+(lp5973
+Va light source
+p5974
+aVelectric lamp
+p5975
+assVcanvas
+p5976
+(dp5977
+VMannerOf
+p5978
+(lp5979
+Vcover
+p5980
+asVAtLocation
+p5981
+(lp5982
+Van art gallery
+p5983
+aVart store
+p5984
+asVHasPrerequisite
+p5985
+(lp5986
+Va canvas
+p5987
+asVPartOf
+p5988
+(lp5989
+Vring
+p5990
+asVUsedFor
+p5991
+(lp5992
+Vpainting on
+p5993
+asVSynonym
+p5994
+(lp5995
+Vcanvas
+p5996
+aVcanvas tent
+p5997
+aVsail
+p5998
+asVIsA
+p5999
+(lp6000
+Vsetting
+p6001
+aVcanvas
+p6002
+aVfabric
+p6003
+aVoil painting
+p6004
+aVmat
+p6005
+assVsun_glasses
+p6006
+(dp6007
+VRelatedTo
+p6008
+(lp6009
+Vsun glasses
+p6010
+asVAtLocation
+p6011
+(lp6012
+Va suitcase
+p6013
+aVa sporting goods store
+p6014
+aVa backpack
+p6015
+asVSynonym
+p6016
+(lp6017
+Vsun glasses
+p6018
+assVtiger
+p6019
+(dp6020
+VAtLocation
+p6021
+(lp6022
+Vthe zoo
+p6023
+asVCapableOf
+p6024
+(lp6025
+Veat
+p6026
+asVSynonym
+p6027
+(lp6028
+Vtiger
+p6029
+asVIsA
+p6030
+(lp6031
+Vperson
+p6032
+aVtiger
+p6033
+aVan animal
+p6034
+aVbig cat
+p6035
+assVmobile_phone
+p6036
+(dp6037
+VExternalURL
+p6038
+(lp6039
+VQ17517
+p6040
+aVMobile phone
+p6041
+asVRelatedTo
+p6042
+(lp6043
+Vmobile phone
+p6044
+asVAntonym
+p6045
+(lp6046
+Vmobile phone
+p6047
+asVHasContext
+p6048
+(lp6049
+Vtéléphonie
+p6050
+aVfrance
+p6051
+aVsuisse
+p6052
+asVDerivedFrom
+p6053
+(lp6054
+Vphone
+p6055
+aVmobile
+p6056
+asVFormOf
+p6057
+(lp6058
+Vmobile phone
+p6059
+asVCapableOf
+p6060
+(lp6061
+Vdisturb your privacy
+p6062
+asVSynonym
+p6063
+(lp6064
+Vmobile phone
+p6065
+aVcellular telephone
+p6066
+aVmobile
+p6067
+aVcell phone
+p6068
+assVribbon
+p6069
+(dp6070
+VAtLocation
+p6071
+(lp6072
+Vsomeone's hair
+p6073
+aVa gallery opening
+p6074
+asVPartOf
+p6075
+(lp6076
+Vtypewriter
+p6077
+asVUsedFor
+p6078
+(lp6079
+Vmaking a bow
+p6080
+asVCapableOf
+p6081
+(lp6082
+Vbe any color
+p6083
+asVSynonym
+p6084
+(lp6085
+Vdecoration
+p6086
+aVribbon
+p6087
+asVIsA
+p6088
+(lp6089
+Vobject
+p6090
+aVnotion
+p6091
+aVribbon
+p6092
+aVstrip
+p6093
+assVdog_house
+p6094
+(dp6095
+VRelatedTo
+p6096
+(lp6097
+Vdog house
+p6098
+asVAtLocation
+p6099
+(lp6100
+Vdog house
+p6101
+aVa dog house
+p6102
+asVDerivedFrom
+p6103
+(lp6104
+Vdog
+p6105
+asVFormOf
+p6106
+(lp6107
+Vdog house
+p6108
+aVdoghouse
+p6109
+asVExternalURL
+p6110
+(lp6111
+Vdog house
+p6112
+asVSynonym
+p6113
+(lp6114
+Vkennel
+p6115
+aVdog house
+p6116
+asVIsA
+p6117
+(lp6118
+Va dog's home
+p6119
+assVleaf_blower
+p6120
+(dp6121
+VRelatedTo
+p6122
+(lp6123
+Vmotorised
+p6124
+aVgarden
+p6125
+aVdebris
+p6126
+aVleaf
+p6127
+aVtool
+p6128
+aVleaf blower
+p6129
+aVair
+p6130
+aVpropel
+p6131
+aVnozzle
+p6132
+asVDerivedFrom
+p6133
+(lp6134
+Vleaf
+p6135
+asVUsedFor
+p6136
+(lp6137
+Vblowing leaves
+p6138
+asVFormOf
+p6139
+(lp6140
+Vleaf blower
+p6141
+asVExternalURL
+p6142
+(lp6143
+Vleaf blower
+p6144
+asVSynonym
+p6145
+(lp6146
+Vlaubbläser
+p6147
+aVleaf blower
+p6148
+assVmodel_car
+p6149
+(dp6150
+VExternalURL
+p6151
+(lp6152
+VModel car
+p6153
+asVSynonym
+p6154
+(lp6155
+Vmodel car
+p6156
+asVIsA
+p6157
+(lp6158
+Vmodel
+p6159
+assVcan_opener
+p6160
+(dp6161
+VRelatedTo
+p6162
+(lp6163
+Vcan opener
+p6164
+asVDerivedFrom
+p6165
+(lp6166
+Vopener
+p6167
+asVFormOf
+p6168
+(lp6169
+Vcan opener
+p6170
+asVCapableOf
+p6171
+(lp6172
+Vopen a can
+p6173
+asVSynonym
+p6174
+(lp6175
+Vcan opener
+p6176
+asVIsA
+p6177
+(lp6178
+Vcan opener
+p6179
+assVmop
+p6180
+(dp6181
+VExternalURL
+p6182
+(lp6183
+VMop
+p6184
+asVAtLocation
+p6185
+(lp6186
+Van apartment
+p6187
+asVHasPrerequisite
+p6188
+(lp6189
+Va mop
+p6190
+aVmop
+p6191
+asVHasContext
+p6192
+(lp6193
+Vbritish
+p6194
+aVdialect
+p6195
+asVDerivedFrom
+p6196
+(lp6197
+Vmop
+p6198
+aVmuriate
+p6199
+asVFormOf
+p6200
+(lp6201
+Vmop
+p6202
+asVCapableOf
+p6203
+(lp6204
+Vclean the floor
+p6205
+asVSynonym
+p6206
+(lp6207
+Vswab
+p6208
+aVmop
+p6209
+aVwipe up
+p6210
+aVpout
+p6211
+assVvideo_camera
+p6212
+(dp6213
+VRelatedTo
+p6214
+(lp6215
+Vvideo camera
+p6216
+asVDerivedFrom
+p6217
+(lp6218
+Vcamera
+p6219
+asVFormOf
+p6220
+(lp6221
+Vvideo camera
+p6222
+asVExternalURL
+p6223
+(lp6224
+VQ313614
+p6225
+aVVideo camera
+p6226
+aVVideoCamera
+p6227
+asVSynonym
+p6228
+(lp6229
+Vvideo camera
+p6230
+asVIsA
+p6231
+(lp6232
+Vvideo camera
+p6233
+aVelectronic device
+p6234
+aVconsumer electronics
+p6235
+aVcamera
+p6236
+assVhandcuffs
+p6237
+(dp6238
+VSynonym
+p6239
+(lp6240
+Vhandcuffs
+p6241
+asVIsA
+p6242
+(lp6243
+Vshackle
+p6244
+assVdishwasher
+p6245
+(dp6246
+VAtLocation
+p6247
+(lp6248
+Va dishwasher
+p6249
+aVa kitchen
+p6250
+asVSynonym
+p6251
+(lp6252
+Vvaatwasmachine
+p6253
+aVdishwasher
+p6254
+asVIsA
+p6255
+(lp6256
+Vlaborer
+p6257
+aVwhite goods
+p6258
+assVrubber_band
+p6259
+(dp6260
+VSynonym
+p6261
+(lp6262
+Vrubber band
+p6263
+asVIsA
+p6264
+(lp6265
+Velastic device
+p6266
+aVband
+p6267
+assVpinecone
+p6268
+(dp6269
+VSynonym
+p6270
+(lp6271
+Vpinecone
+p6272
+asVPartOf
+p6273
+(lp6274
+Vpine
+p6275
+asVIsA
+p6276
+(lp6277
+Vcone
+p6278
+assVwedding_ring
+p6279
+(dp6280
+VAtLocation
+p6281
+(lp6282
+Va friend's wedding
+p6283
+aVa church
+p6284
+asVMadeOf
+p6285
+(lp6286
+Vgold
+p6287
+asVSynonym
+p6288
+(lp6289
+Vwedding ring
+p6290
+assVsticky_note
+p6291
+(dp6292
+VRelatedTo
+p6293
+(lp6294
+Vpad
+p6295
+aVpadded
+p6296
+aVreminder
+p6297
+aVgluey
+p6298
+aVsticky note
+p6299
+aVchit
+p6300
+aVgummy
+p6301
+asVExternalURL
+p6302
+(lp6303
+Vsticky-note
+p6304
+aVsticky note
+p6305
+asVDerivedFrom
+p6306
+(lp6307
+Vsticky
+p6308
+asVFormOf
+p6309
+(lp6310
+Vsticky note
+p6311
+asVHasContext
+p6312
+(lp6313
+Vus
+p6314
+aVslang
+p6315
+asVSynonym
+p6316
+(lp6317
+Vsticky note
+p6318
+aVpost it note
+p6319
+assVtomato
+p6320
+(dp6321
+VRelatedTo
+p6322
+(lp6323
+Vred
+p6324
+asVAtLocation
+p6325
+(lp6326
+Vthe farmer's market
+p6327
+aVthe refrigerator
+p6328
+asVSynonym
+p6329
+(lp6330
+Vtomato
+p6331
+asVPartOf
+p6332
+(lp6333
+Vtomato
+p6334
+asVIsA
+p6335
+(lp6336
+Vsolanaceous vegetable
+p6337
+aVa fruit, not a vegetable
+p6338
+aVtomato
+p6339
+aVherb
+p6340
+assVcoffee_mug
+p6341
+(dp6342
+VAtLocation
+p6343
+(lp6344
+Va shelf
+p6345
+aVa cupboard
+p6346
+aVthe kitchen
+p6347
+aVa desktop
+p6348
+asVPartOf
+p6349
+(lp6350
+Va coffee mug
+p6351
+asVUsedFor
+p6352
+(lp6353
+Vdrinking coffee
+p6354
+asVExternalURL
+p6355
+(lp6356
+V103067602-n
+p6357
+asVSynonym
+p6358
+(lp6359
+Vcoffee mug
+p6360
+asVIsA
+p6361
+(lp6362
+Vmug
+p6363
+assVsidewalk
+p6364
+(dp6365
+VAtLocation
+p6366
+(lp6367
+Vthe sidewalk
+p6368
+asVUsedFor
+p6369
+(lp6370
+Vwalking the dog
+p6371
+asVSynonym
+p6372
+(lp6373
+Vsidewalk
+p6374
+aVpavement
+p6375
+aVfootway
+p6376
+aVfootpath
+p6377
+asVIsA
+p6378
+(lp6379
+Vwalkway
+p6380
+aVwalk
+p6381
+aVa concrete path
+p6382
+aVnot for sex
+p6383
+assVheadphones
+p6384
+(dp6385
+VRelatedTo
+p6386
+(lp6387
+Vheadphones
+p6388
+asVAtLocation
+p6389
+(lp6390
+Vheadphones
+p6391
+asVExternalURL
+p6392
+(lp6393
+VQ186819
+p6394
+aVHeadphones
+p6395
+asVHasContext
+p6396
+(lp6397
+Vheadphones
+p6398
+asVDerivedFrom
+p6399
+(lp6400
+Vhead
+p6401
+asVUsedFor
+p6402
+(lp6403
+Vlisten to mushc
+p6404
+asVFormOf
+p6405
+(lp6406
+Vheadphone
+p6407
+asVCapableOf
+p6408
+(lp6409
+Vproduce sound
+p6410
+asVSynonym
+p6411
+(lp6412
+Vheadphones
+p6413
+asVIsA
+p6414
+(lp6415
+Vaudio device
+p6416
+assVbread
+p6417
+(dp6418
+VRelatedTo
+p6419
+(lp6420
+Vdough
+p6421
+aVfood
+p6422
+aVgrain
+p6423
+aVsandwich
+p6424
+aVflour
+p6425
+aVyeast
+p6426
+aVwheat
+p6427
+aVloaf
+p6428
+aVbaked
+p6429
+aVbread
+p6430
+aVsandwiches
+p6431
+asVAtLocation
+p6432
+(lp6433
+Va store
+p6434
+aVthe supermarket
+p6435
+aVa market
+p6436
+aVdinner
+p6437
+aVbreadbox
+p6438
+asVReceivesAction
+p6439
+(lp6440
+Vmade from flour
+p6441
+asVHasA
+p6442
+(lp6443
+Vyeast
+p6444
+asVUsedFor
+p6445
+(lp6446
+Veating
+p6447
+assVchair
+p6448
+(dp6449
+VRelatedTo
+p6450
+(lp6451
+Vsitting furniture
+p6452
+aVlegs
+p6453
+aVchair
+p6454
+aVseat
+p6455
+aVfurniture
+p6456
+aVsit
+p6457
+aVtable
+p6458
+aVfour
+p6459
+aVsitting
+p6460
+aVseating
+p6461
+asVAtLocation
+p6462
+(lp6463
+Va cubicle
+p6464
+aVa chair
+p6465
+aVthe office
+p6466
+aVthe porch
+p6467
+aVa desk
+p6468
+asVHasPrerequisite
+p6469
+(lp6470
+Va chair
+p6471
+asVUsedFor
+p6472
+(lp6473
+Vresting
+p6474
+asVIsA
+p6475
+(lp6476
+Va chair
+p6477
+assVprinter
+p6478
+(dp6479
+VAtLocation
+p6480
+(lp6481
+Va printer
+p6482
+aVan office
+p6483
+asVHasContext
+p6484
+(lp6485
+Vcomputer science
+p6486
+asVIsA
+p6487
+(lp6488
+Vskilled worker
+p6489
+aVprinter
+p6490
+aVmachine
+p6491
+aVperipheral
+p6492
+assVshovel
+p6493
+(dp6494
+VIsA
+p6495
+(lp6496
+Vcontainerful
+p6497
+aVhand tool
+p6498
+aVfire iron
+p6499
+aVshovel
+p6500
+asVMannerOf
+p6501
+(lp6502
+Vdig
+p6503
+asVCapableOf
+p6504
+(lp6505
+Vdig a hole
+p6506
+asVSynonym
+p6507
+(lp6508
+Vpower shovel
+p6509
+aVshovel
+p6510
+asVUsedFor
+p6511
+(lp6512
+Vdigging a hole
+p6513
+aVdig a grave
+p6514
+assVshawl
+p6515
+(dp6516
+VSynonym
+p6517
+(lp6518
+Vshawl
+p6519
+asVIsA
+p6520
+(lp6521
+Vshawl
+p6522
+aVcloak
+p6523
+assVtrash_compactor
+p6524
+(dp6525
+VExternalURL
+p6526
+(lp6527
+VTrashCompactor
+p6528
+asVIsA
+p6529
+(lp6530
+Vgarbage container
+p6531
+aVtrash compactor
+p6532
+aVexternally powered device
+p6533
+aVelectrical device
+p6534
+aVmechanical device
+p6535
+assVsnowglobe
+p6536
+(dp6537
+VFormOf
+p6538
+(lp6539
+Vsnowglobe
+p6540
+aVsnow globe
+p6541
+asVRelatedTo
+p6542
+(lp6543
+Vsnowglobe
+p6544
+asVExternalURL
+p6545
+(lp6546
+Vsnowglobe
+p6547
+asVDerivedFrom
+p6548
+(lp6549
+Vglobe
+p6550
+assVzipper
+p6551
+(dp6552
+VFormOf
+p6553
+(lp6554
+Vzipper
+p6555
+asVRelatedTo
+p6556
+(lp6557
+Vteeth
+p6558
+aVmetal
+p6559
+aVpants
+p6560
+aVclosing
+p6561
+aVclothes
+p6562
+aVclothing
+p6563
+aVclosure
+p6564
+aVjeans
+p6565
+asVHasA
+p6566
+(lp6567
+Va zipper
+p6568
+asVSynonym
+p6569
+(lp6570
+Vzipper
+p6571
+aVzip
+p6572
+aVzip fastener
+p6573
+aVzip up
+p6574
+aVslide fastener
+p6575
+assVcat
+p6576
+(dp6577
+VDesires
+p6578
+(lp6579
+Vmilk to drink
+p6580
+asVRelatedTo
+p6581
+(lp6582
+Vcat
+p6583
+aVanimal
+p6584
+aVpet
+p6585
+aVfeline
+p6586
+asVAtLocation
+p6587
+(lp6588
+Vmy lap
+p6589
+aVa chair
+p6590
+aVa bed
+p6591
+aVthe windowsill
+p6592
+aVa table
+p6593
+aVa vet
+p6594
+asVDistinctFrom
+p6595
+(lp6596
+Vcat
+p6597
+asVCapableOf
+p6598
+(lp6599
+Vcorner a mouse
+p6600
+aVdrink water
+p6601
+aVlook at a king
+p6602
+aVclimb up a tree
+p6603
+aVcatch a mouse
+p6604
+aVhunt mice
+p6605
+asVHasA
+p6606
+(lp6607
+Vfour legs
+p6608
+asVHasProperty
+p6609
+(lp6610
+Va feline
+p6611
+assVhair_clippers
+p6612
+(dp6613
+VRelatedTo
+p6614
+(lp6615
+Vhair clippers
+p6616
+asVSynonym
+p6617
+(lp6618
+Vhair clippers
+p6619
+assVspatula
+p6620
+(dp6621
+VAtLocation
+p6622
+(lp6623
+Vthe kitchen
+p6624
+asVSynonym
+p6625
+(lp6626
+Vspatula
+p6627
+asVPartOf
+p6628
+(lp6629
+Vspatula
+p6630
+asVIsA
+p6631
+(lp6632
+Vturner
+p6633
+aVspatula
+p6634
+aVhand tool
+p6635
+assVclay_pot
+p6636
+(dp6637
+VAtLocation
+p6638
+(lp6639
+Va clay pot
+p6640
+assVsheep
+p6641
+(dp6642
+VRelatedTo
+p6643
+(lp6644
+Vram
+p6645
+aVlambs
+p6646
+aVfarm
+p6647
+aVanimal
+p6648
+aVewe
+p6649
+aVfluffy
+p6650
+aVmammal
+p6651
+aVwooly animal
+p6652
+aVwhite
+p6653
+aVsheep
+p6654
+aVwooly
+p6655
+aVlamb
+p6656
+aVbaa
+p6657
+aVwoolly
+p6658
+aVfur
+p6659
+aVfarm animal
+p6660
+aVwool
+p6661
+aVwool animal
+p6662
+aVgoat
+p6663
+asVCapableOf
+p6664
+(lp6665
+Vgraze
+p6666
+assVsquirrel
+p6667
+(dp6668
+VRelatedTo
+p6669
+(lp6670
+Vrat
+p6671
+aVtrees
+p6672
+aVbushy tail
+p6673
+aVeats
+p6674
+aVanimal
+p6675
+aVnut
+p6676
+aVmammal
+p6677
+aVtree rat
+p6678
+aVeater
+p6679
+aVacorn
+p6680
+aVsmall
+p6681
+aVacorns
+p6682
+aVchipmunk
+p6683
+aVtail
+p6684
+aVbushy
+p6685
+aVtree rodent
+p6686
+aVrodent
+p6687
+aVfurry
+p6688
+aVnuts
+p6689
+aVtree
+p6690
+assVflowers
+p6691
+(dp6692
+VDesires
+p6693
+(lp6694
+Vflowers
+p6695
+asVRelatedTo
+p6696
+(lp6697
+Vflowers
+p6698
+asVAtLocation
+p6699
+(lp6700
+Va vase
+p6701
+aVa friend's wedding
+p6702
+aVa wedding
+p6703
+aVa table
+p6704
+aVthe countryside
+p6705
+aVthe park
+p6706
+asVHasA
+p6707
+(lp6708
+Vthorny stems
+p6709
+aVflowers
+p6710
+asVCapableOf
+p6711
+(lp6712
+Vbe many colors
+p6713
+aVsmell nice
+p6714
+asVHasProperty
+p6715
+(lp6716
+Vfragrant
+p6717
+aVyellow
+p6718
+aVpink
+p6719
+aVred
+p6720
+asVIsA
+p6721
+(lp6722
+Vflowers
+p6723
+assVpocketwatch
+p6724
+(dp6725
+VFormOf
+p6726
+(lp6727
+Vpocket watch
+p6728
+aVpocketwatch
+p6729
+asVRelatedTo
+p6730
+(lp6731
+Vpocketwatch
+p6732
+asVExternalURL
+p6733
+(lp6734
+Vpocketwatch
+p6735
+assVlawn_mower
+p6736
+(dp6737
+VRelatedTo
+p6738
+(lp6739
+Vlawnmower
+p6740
+asVAtLocation
+p6741
+(lp6742
+Va shed
+p6743
+aVthe garage
+p6744
+asVPartOf
+p6745
+(lp6746
+Vlawn mower
+p6747
+asVFormOf
+p6748
+(lp6749
+Vlawn mower
+p6750
+asVSynonym
+p6751
+(lp6752
+Vlawn mower
+p6753
+asVIsA
+p6754
+(lp6755
+Vgarden tool
+p6756
+aVlawn mower
+p6757
+assVink
+p6758
+(dp6759
+VMannerOf
+p6760
+(lp6761
+Vfill
+p6762
+aVmark
+p6763
+asVRelatedTo
+p6764
+(lp6765
+Vink
+p6766
+aVpen
+p6767
+asVHasA
+p6768
+(lp6769
+Vink
+p6770
+asVIsA
+p6771
+(lp6772
+Vink
+p6773
+aVliquid body substance
+p6774
+aVa liquid
+p6775
+asVUsedFor
+p6776
+(lp6777
+Vdrawing
+p6778
+asVCapableOf
+p6779
+(lp6780
+Vstain cloth
+p6781
+asVAtLocation
+p6782
+(lp6783
+Va printer
+p6784
+aVa squid
+p6785
+aVa fountain pen
+p6786
+asVHasProperty
+p6787
+(lp6788
+Vblack
+p6789
+assVstereo
+p6790
+(dp6791
+VAtLocation
+p6792
+(lp6793
+Va car
+p6794
+asVAntonym
+p6795
+(lp6796
+Vmonophonic
+p6797
+aVmonaural
+p6798
+aVmono
+p6799
+asVSynonym
+p6800
+(lp6801
+Vstereo
+p6802
+aVstereophonic
+p6803
+asVPartOf
+p6804
+(lp6805
+Vstereo
+p6806
+asVIsA
+p6807
+(lp6808
+Vstereo
+p6809
+aVreproducer
+p6810
+aVpicture
+p6811
+assVsafety_pin
+p6812
+(dp6813
+VAtLocation
+p6814
+(lp6815
+Vthe purse
+p6816
+asVIsA
+p6817
+(lp6818
+Vfastener
+p6819
+aVpin
+p6820
+asVSynonym
+p6821
+(lp6822
+Vsafety pin
+p6823
+aValfinete de ama
+p6824
+asVUsedFor
+p6825
+(lp6826
+Vholding fabric together
+p6827
+assVearrings
+p6828
+(dp6829
+VRelatedTo
+p6830
+(lp6831
+Vearring
+p6832
+aVearrings
+p6833
+asVAtLocation
+p6834
+(lp6835
+Vyour ear
+p6836
+aVa jewelry box
+p6837
+asVExternalURL
+p6838
+(lp6839
+Vearrings
+p6840
+asVFormOf
+p6841
+(lp6842
+Vearring
+p6843
+asVReceivesAction
+p6844
+(lp6845
+Vworn by girls and boys
+p6846
+asVSynonym
+p6847
+(lp6848
+Vearrings
+p6849
+assVhair_tie
+p6850
+(dp6851
+VFormOf
+p6852
+(lp6853
+Vhair tie
+p6854
+asVRelatedTo
+p6855
+(lp6856
+Velastic
+p6857
+aVhair tie
+p6858
+aVhair
+p6859
+aVcircular
+p6860
+aVhold
+p6861
+aVplace
+p6862
+asVExternalURL
+p6863
+(lp6864
+VHair tie
+p6865
+aVQ384775
+p6866
+asVSynonym
+p6867
+(lp6868
+Vgumi\u010dka
+p6869
+aVhair tie
+p6870
+aVbobble
+p6871
+aVhair elastic
+p6872
+aVhairband
+p6873
+assVmusic_cd
+p6874
+(dp6875
+VRelatedTo
+p6876
+(lp6877
+Vmusic cd
+p6878
+asVSynonym
+p6879
+(lp6880
+Vmusic cd
+p6881
+assVconvection_oven
+p6882
+(dp6883
+VRelatedTo
+p6884
+(lp6885
+Voven
+p6886
+aVconvection oven
+p6887
+asVDerivedFrom
+p6888
+(lp6889
+Vconvection oven
+p6890
+asVFormOf
+p6891
+(lp6892
+Vconvection oven
+p6893
+asVSimilarTo
+p6894
+(lp6895
+Vmicrowave oven
+p6896
+aVconvection oven
+p6897
+aVinduction oven
+p6898
+aVconventional oven
+p6899
+asVExternalURL
+p6900
+(lp6901
+Vconvection oven
+p6902
+asVSynonym
+p6903
+(lp6904
+Vconvection oven
+p6905
+assVbow_tie
+p6906
+(dp6907
+VFormOf
+p6908
+(lp6909
+Vbowtie
+p6910
+asVSynonym
+p6911
+(lp6912
+Vbow tie
+p6913
+asVIsA
+p6914
+(lp6915
+Vbow tie
+p6916
+aVnecktie
+p6917
+assVheater
+p6918
+(dp6919
+VIsA
+p6920
+(lp6921
+Vdevice
+p6922
+aVheater
+p6923
+asVAtLocation
+p6924
+(lp6925
+Va house
+p6926
+asVCapableOf
+p6927
+(lp6928
+Vheat a room
+p6929
+asVSynonym
+p6930
+(lp6931
+Vfastball
+p6932
+aVheater
+p6933
+asVUsedFor
+p6934
+(lp6935
+Vheating
+p6936
+assVtelephone
+p6937
+(dp6938
+VRelatedTo
+p6939
+(lp6940
+Vtelephone
+p6941
+asVAtLocation
+p6942
+(lp6943
+Vthe office
+p6944
+aVyour desk
+p6945
+aVa desktop
+p6946
+aVa friend's house
+p6947
+aVa phone booth
+p6948
+aVa hotel
+p6949
+asVHasPrerequisite
+p6950
+(lp6951
+Va telephone
+p6952
+asVDerivedFrom
+p6953
+(lp6954
+Vtelephone
+p6955
+asVUsedFor
+p6956
+(lp6957
+Vcommunicating
+p6958
+aVcommunicate
+p6959
+aVtalking to someone
+p6960
+asVCapableOf
+p6961
+(lp6962
+Vring loudly
+p6963
+asVSynonym
+p6964
+(lp6965
+Vtelephone
+p6966
+aVcall
+p6967
+asVIsA
+p6968
+(lp6969
+Va telephone
+p6970
+aVa communication device
+p6971
+assVhair_dryer
+p6972
+(dp6973
+VRelatedTo
+p6974
+(lp6975
+Vhair dryer
+p6976
+asVAtLocation
+p6977
+(lp6978
+Va beauty salon
+p6979
+aVsomeone's bathroom
+p6980
+aVa college dormitory
+p6981
+aVa drug store
+p6982
+aVa box
+p6983
+asVDerivedFrom
+p6984
+(lp6985
+Vdryer
+p6986
+aVhair
+p6987
+asVUsedFor
+p6988
+(lp6989
+Vstyle your hair
+p6990
+aVdrying wet hair
+p6991
+aVdrying hair
+p6992
+aVdry your hair
+p6993
+asVFormOf
+p6994
+(lp6995
+Vhair dryer
+p6996
+asVCapableOf
+p6997
+(lp6998
+Vdry your hair
+p6999
+asVSynonym
+p7000
+(lp7001
+Vhand blower
+p7002
+aVblow dryer
+p7003
+aVhair dryer
+p7004
+assVgrid_paper
+p7005
+(dp7006
+VRelatedTo
+p7007
+(lp7008
+Vgrid paper
+p7009
+asVSynonym
+p7010
+(lp7011
+Vgrid paper
+p7012
+assVcanteen
+p7013
+(dp7014
+VAtLocation
+p7015
+(lp7016
+Va backpack
+p7017
+asVSynonym
+p7018
+(lp7019
+Vcanteen
+p7020
+asVIsA
+p7021
+(lp7022
+Vrecreation room
+p7023
+aVflask
+p7024
+aVshop
+p7025
+aVrestaurant
+p7026
+assVbowl
+p7027
+(dp7028
+VRelatedTo
+p7029
+(lp7030
+Vbowl
+p7031
+asVAtLocation
+p7032
+(lp7033
+Va bowl
+p7034
+aVbowl
+p7035
+aVthe cupboard
+p7036
+asVHasContext
+p7037
+(lp7038
+Vcricket
+p7039
+aVbowling
+p7040
+asVDistinctFrom
+p7041
+(lp7042
+Vbowl
+p7043
+asVIsA
+p7044
+(lp7045
+Vdish
+p7046
+aVbowl
+p7047
+aVcontainerful
+p7048
+aVconcave shape
+p7049
+aVball
+p7050
+aVcontainer
+p7051
+aVvessel
+p7052
+assVstick
+p7053
+(dp7054
+VFormOf
+p7055
+(lp7056
+Vstick
+p7057
+asVRelatedTo
+p7058
+(lp7059
+Vwalking
+p7060
+aVtwig
+p7061
+aVpole
+p7062
+aVlong
+p7063
+aVglue
+p7064
+aVbranch
+p7065
+aVcane
+p7066
+aVstick
+p7067
+aVsmall
+p7068
+aVwooden
+p7069
+aVpiece
+p7070
+aVrod
+p7071
+aVwood
+p7072
+aVtree
+p7073
+asVAtLocation
+p7074
+(lp7075
+Va forest
+p7076
+asVHasContext
+p7077
+(lp7078
+Vfield hockey
+p7079
+aVpolo
+p7080
+aVice hockey
+p7081
+assVsponge
+p7082
+(dp7083
+VMannerOf
+p7084
+(lp7085
+Verase
+p7086
+aVwipe
+p7087
+aVwipe up
+p7088
+aVgather
+p7089
+asVRelatedTo
+p7090
+(lp7091
+Vsponge
+p7092
+asVAtLocation
+p7093
+(lp7094
+Vthe bottom of the sea
+p7095
+asVSynonym
+p7096
+(lp7097
+Vsponge
+p7098
+aVmooch
+p7099
+aVquick study
+p7100
+aVleech
+p7101
+asVIsA
+p7102
+(lp7103
+Vsponge
+p7104
+aVinvertebrate
+p7105
+aVabsorbent material
+p7106
+assVplane
+p7107
+(dp7108
+VAtLocation
+p7109
+(lp7110
+Vthe runway
+p7111
+aVthe sky
+p7112
+aVa plane
+p7113
+aVthe air
+p7114
+asVCapableOf
+p7115
+(lp7116
+Varrive at an airport
+p7117
+aVland on an runway
+p7118
+aVland airport
+p7119
+asVUsedFor
+p7120
+(lp7121
+Vtravel
+p7122
+asVSynonym
+p7123
+(lp7124
+Vplane
+p7125
+asVIsA
+p7126
+(lp7127
+Va machine
+p7128
+aVa vehicle
+p7129
+assVbeef
+p7130
+(dp7131
+VRelatedTo
+p7132
+(lp7133
+Vbeef
+p7134
+asVAtLocation
+p7135
+(lp7136
+Va plate
+p7137
+asVPartOf
+p7138
+(lp7139
+Vbeef
+p7140
+aVcattle
+p7141
+asVDerivedFrom
+p7142
+(lp7143
+Vbeef
+p7144
+asVSynonym
+p7145
+(lp7146
+Vbeef
+p7147
+asVIsA
+p7148
+(lp7149
+Vbeef
+p7150
+aVmeat
+p7151
+aVcattle
+p7152
+assVcarpet
+p7153
+(dp7154
+VRelatedTo
+p7155
+(lp7156
+Vfloor
+p7157
+aVrug
+p7158
+aVcarpet
+p7159
+asVAtLocation
+p7160
+(lp7161
+Va house
+p7162
+aVyour bed
+p7163
+aVthe carpet
+p7164
+aVa church
+p7165
+aVthe closet
+p7166
+aVthe office
+p7167
+aVa building
+p7168
+aVa desk
+p7169
+aVa bedroom
+p7170
+aVa room
+p7171
+asVIsA
+p7172
+(lp7173
+Va carpet
+p7174
+asVUsedFor
+p7175
+(lp7176
+Vwalking on
+p7177
+assVwristwatch
+p7178
+(dp7179
+VAtLocation
+p7180
+(lp7181
+Va wristwatch
+p7182
+aVa jewelry store
+p7183
+asVIsA
+p7184
+(lp7185
+Vwatch
+p7186
+aVa portable clock
+p7187
+asVSynonym
+p7188
+(lp7189
+Vwristwatch
+p7190
+asVUsedFor
+p7191
+(lp7192
+Vtelling the time
+p7193
+aVkeeping time
+p7194
+aVtell time
+p7195
+assVelectric_pencil_sharpener
+p7196
+(dp7197
+VIsA
+p7198
+(lp7199
+Vbusiness machine
+p7200
+asVReceivesAction
+p7201
+(lp7202
+Vfound in offices
+p7203
+asVAtLocation
+p7204
+(lp7205
+Van office building
+p7206
+aVclass room
+p7207
+aVa workshop
+p7208
+aVan office
+p7209
+aVan office of lazy people
+p7210
+aVa drafting office
+p7211
+aVan office cubicle
+p7212
+aVan office supply store
+p7213
+aVa desk
+p7214
+aVan architects office
+p7215
+asVExternalURL
+p7216
+(lp7217
+VElectricPencilSharpener
+p7218
+asVUsedFor
+p7219
+(lp7220
+Va busy office
+p7221
+aVpencils
+p7222
+aVgrind up a pencil
+p7223
+aVa classroom with many students
+p7224
+aVfaster pencil sharpening
+p7225
+aVkeep pencils working
+p7226
+assVmousetrap
+p7227
+(dp7228
+VHasContext
+p7229
+(lp7230
+VAmerican football
+p7231
+asVSynonym
+p7232
+(lp7233
+Vmousetrap
+p7234
+asVIsA
+p7235
+(lp7236
+Vmaneuver
+p7237
+aVtrap
+p7238
+assVice_pick
+p7239
+(dp7240
+VRelatedTo
+p7241
+(lp7242
+Vice pick
+p7243
+asVDerivedFrom
+p7244
+(lp7245
+Vice
+p7246
+asVFormOf
+p7247
+(lp7248
+Vicepick
+p7249
+aVice pick
+p7250
+asVExternalURL
+p7251
+(lp7252
+VIcepick
+p7253
+aVice pick
+p7254
+asVSynonym
+p7255
+(lp7256
+Vicepick
+p7257
+aVice pick
+p7258
+asVIsA
+p7259
+(lp7260
+Vrigid portable object
+p7261
+aVpick
+p7262
+assVpanda
+p7263
+(dp7264
+VRelatedTo
+p7265
+(lp7266
+Vpanda
+p7267
+asVLocatedNear
+p7268
+(lp7269
+Va bamboo forest
+p7270
+asVMadeOf
+p7271
+(lp7272
+Vcells
+p7273
+asVDerivedFrom
+p7274
+(lp7275
+Vpanda
+p7276
+asVFormOf
+p7277
+(lp7278
+Vpanda
+p7279
+asVHasContext
+p7280
+(lp7281
+Vuk
+p7282
+aVhinduism
+p7283
+asVHasProperty
+p7284
+(lp7285
+Vquiet
+p7286
+asVSynonym
+p7287
+(lp7288
+Vlesser panda
+p7289
+aVpanda
+p7290
+aVgiant panda
+p7291
+asVIsA
+p7292
+(lp7293
+Va bear-looking black and white mammal
+p7294
+assVelectric_guitar
+p7295
+(dp7296
+VSynonym
+p7297
+(lp7298
+Velectric guitar
+p7299
+assVnovel
+p7300
+(dp7301
+VRelatedTo
+p7302
+(lp7303
+Vnovel
+p7304
+aVbook
+p7305
+asVAtLocation
+p7306
+(lp7307
+Va bookstore
+p7308
+asVSynonym
+p7309
+(lp7310
+Vnovel
+p7311
+asVIsA
+p7312
+(lp7313
+Va book
+p7314
+aVbook
+p7315
+aVfiction
+p7316
+aVnovel
+p7317
+aVa story
+p7318
+assVbandana
+p7319
+(dp7320
+VFormOf
+p7321
+(lp7322
+Vbandana
+p7323
+asVRelatedTo
+p7324
+(lp7325
+Vbandana
+p7326
+aVdye
+p7327
+aVkerchief
+p7328
+aVcalico
+p7329
+aVprint
+p7330
+aVhandkerchief
+p7331
+aVsweatband
+p7332
+aVheadgear
+p7333
+aVbikini
+p7334
+aVneckerchief
+p7335
+asVExternalURL
+p7336
+(lp7337
+VBandana
+p7338
+asVSynonym
+p7339
+(lp7340
+Vbandana
+p7341
+aVbandanna
+p7342
+asVIsA
+p7343
+(lp7344
+Vcasualness
+p7345
+aVscarf
+p7346
+assVwhale
+p7347
+(dp7348
+VMannerOf
+p7349
+(lp7350
+Vhunt
+p7351
+asVAtLocation
+p7352
+(lp7353
+Vthe ocean
+p7354
+asVSynonym
+p7355
+(lp7356
+Vgiant
+p7357
+aVwhale
+p7358
+aVballena
+p7359
+asVDerivedFrom
+p7360
+(lp7361
+Vwhale
+p7362
+asVIsA
+p7363
+(lp7364
+Va marine mammal
+p7365
+aVa whale
+p7366
+aVwhale
+p7367
+aVmammal
+p7368
+assVcheck_book
+p7369
+(dp7370
+VAtLocation
+p7371
+(lp7372
+Va check book
+p7373
+asVHasPrerequisite
+p7374
+(lp7375
+Va check book
+p7376
+assVwater
+p7377
+(dp7378
+VRelatedTo
+p7379
+(lp7380
+Vwater
+p7381
+aVliquid
+p7382
+asVAtLocation
+p7383
+(lp7384
+Va lake
+p7385
+aVthe water
+p7386
+aVriver
+p7387
+aVa waterfall
+p7388
+aVwater
+p7389
+aVa pool
+p7390
+asVUsedFor
+p7391
+(lp7392
+Vdrink
+p7393
+asVHasProperty
+p7394
+(lp7395
+Vliquid
+p7396
+asVIsA
+p7397
+(lp7398
+Vwater
+p7399
+assVwater_heater
+p7400
+(dp7401
+VAtLocation
+p7402
+(lp7403
+Vthe cellar
+p7404
+aVthe basement
+p7405
+asVSynonym
+p7406
+(lp7407
+Vwater heater
+p7408
+asVIsA
+p7409
+(lp7410
+Vwater heater
+p7411
+aVtank
+p7412
+aVheater
+p7413
+assVpencil
+p7414
+(dp7415
+VRelatedTo
+p7416
+(lp7417
+Vpencil
+p7418
+asVAtLocation
+p7419
+(lp7420
+Va drawer
+p7421
+aVa pocket
+p7422
+aVa pencil-case
+p7423
+aVa desk drawer
+p7424
+aVa classroom
+p7425
+aVa cup
+p7426
+aVa pencil
+p7427
+aVa backpack
+p7428
+aVa desktop
+p7429
+asVReceivesAction
+p7430
+(lp7431
+Vmade from graphite
+p7432
+asVUsedFor
+p7433
+(lp7434
+Vwrite something on paper
+p7435
+aVdoing math
+p7436
+asVCapableOf
+p7437
+(lp7438
+Vlast for awhile
+p7439
+aVshade a sketch
+p7440
+aVmark a paper
+p7441
+asVSynonym
+p7442
+(lp7443
+Vpencil
+p7444
+assVbag_of_popcorn
+p7445
+(dp7446
+VAtLocation
+p7447
+(lp7448
+Vthe movies
+p7449
+assVbaking_soda
+p7450
+(dp7451
+VRelatedTo
+p7452
+(lp7453
+Vbaking soda
+p7454
+asVAtLocation
+p7455
+(lp7456
+Vbaking soda
+p7457
+aVthe shelf
+p7458
+asVDerivedFrom
+p7459
+(lp7460
+Vsoda
+p7461
+aVbake
+p7462
+aVsodium
+p7463
+asVHasContext
+p7464
+(lp7465
+Vcuisine
+p7466
+asVSynonym
+p7467
+(lp7468
+Vbaking soda
+p7469
+aVbicarbonate of soda
+p7470
+aVbread soda
+p7471
+asVIsA
+p7472
+(lp7473
+Van ingredient in many cakes
+p7474
+assVdeodorant
+p7475
+(dp7476
+VAtLocation
+p7477
+(lp7478
+Va medicine chest
+p7479
+asVSynonym
+p7480
+(lp7481
+Vdeodorant
+p7482
+assVtree_house
+p7483
+(dp7484
+VRelatedTo
+p7485
+(lp7486
+Vtree house
+p7487
+aVresidence
+p7488
+aVbranch
+p7489
+aVstructure
+p7490
+aVstilt
+p7491
+aVrecreational
+p7492
+aVtropical
+p7493
+asVHasContext
+p7494
+(lp7495
+Vus
+p7496
+asVDerivedFrom
+p7497
+(lp7498
+Vtree
+p7499
+asVFormOf
+p7500
+(lp7501
+Vtree house
+p7502
+asVExternalURL
+p7503
+(lp7504
+V104485201-n
+p7505
+asVSynonym
+p7506
+(lp7507
+Vtree house
+p7508
+asVIsA
+p7509
+(lp7510
+Vstructure
+p7511
+aVplayhouse
+p7512
+assVwishbone
+p7513
+(dp7514
+VPartOf
+p7515
+(lp7516
+Vbird
+p7517
+asVDerivedFrom
+p7518
+(lp7519
+Vbone
+p7520
+aVwish
+p7521
+asVFormOf
+p7522
+(lp7523
+Vwishbone
+p7524
+asVExternalURL
+p7525
+(lp7526
+V101898152-n
+p7527
+asVSynonym
+p7528
+(lp7529
+Vwishbone
+p7530
+asVIsA
+p7531
+(lp7532
+Vfurcula
+p7533
+assVhandbasket
+p7534
+(dp7535
+VFormOf
+p7536
+(lp7537
+Vhandbasket
+p7538
+asVRelatedTo
+p7539
+(lp7540
+Vbasket
+p7541
+aVhandle
+p7542
+aVhandbasket
+p7543
+asVExternalURL
+p7544
+(lp7545
+Vhandbasket
+p7546
+asVDerivedFrom
+p7547
+(lp7548
+Vbasket
+p7549
+aVhandbasket
+p7550
+asVSynonym
+p7551
+(lp7552
+Vbasket
+p7553
+aVhandbasket
+p7554
+assVbracelet
+p7555
+(dp7556
+VReceivesAction
+p7557
+(lp7558
+Vworn around the wrist
+p7559
+asVPartOf
+p7560
+(lp7561
+Vbracelet
+p7562
+asVSynonym
+p7563
+(lp7564
+Vbracelet
+p7565
+aVwatchband
+p7566
+asVIsA
+p7567
+(lp7568
+Vbracelet
+p7569
+assVbarbecue_grill
+p7570
+(dp7571
+VExternalURL
+p7572
+(lp7573
+VBBQGrill
+p7574
+asVSynonym
+p7575
+(lp7576
+Vbarbecue grill
+p7577
+asVIsA
+p7578
+(lp7579
+Vheating device
+p7580
+aVcontainer product
+p7581
+aVbarbecue grill
+p7582
+aVkitchen tool
+p7583
+aVhousehold appliance
+p7584
+assVmagnifying_glass
+p7585
+(dp7586
+VAtLocation
+p7587
+(lp7588
+Va backpack
+p7589
+asVDerivedFrom
+p7590
+(lp7591
+Vmagnify
+p7592
+aVglass
+p7593
+aV\u773c\u93e1
+p7594
+aVkính
+p7595
+asVUsedFor
+p7596
+(lp7597
+Vcreate fire
+p7598
+asVFormOf
+p7599
+(lp7600
+Vmagnifying glass
+p7601
+asVExternalURL
+p7602
+(lp7603
+VMagnifyingGlass
+p7604
+asVSynonym
+p7605
+(lp7606
+Vmagnifying glass
+p7607
+aVhand glass
+p7608
+asVIsA
+p7609
+(lp7610
+Vmagnifier
+p7611
+aVsingle user device
+p7612
+aVa lens
+p7613
+aVcombustion device
+p7614
+aVsensory enhancement device visual
+p7615
+assVmarkers
+p7616
+(dp7617
+VExternalURL
+p7618
+(lp7619
+Vmarkers
+p7620
+asVRelatedTo
+p7621
+(lp7622
+Vmarkers
+p7623
+aVmarker
+p7624
+asVCapableOf
+p7625
+(lp7626
+Vleak their ink onto clothing
+p7627
+asVUsedFor
+p7628
+(lp7629
+Vto colour with
+p7630
+asVFormOf
+p7631
+(lp7632
+Vmarker
+p7633
+asVReceivesAction
+p7634
+(lp7635
+Vfilled with ink
+p7636
+assVchapter_book
+p7637
+(dp7638
+VRelatedTo
+p7639
+(lp7640
+Vreader
+p7641
+aVintermediate
+p7642
+aVillustrated
+p7643
+aVstorybook
+p7644
+asVExternalURL
+p7645
+(lp7646
+Vchapter book
+p7647
+assVcoffee_grinder
+p7648
+(dp7649
+VRelatedTo
+p7650
+(lp7651
+Vcoffee
+p7652
+aVcoffee bean
+p7653
+aVcoffee grinder
+p7654
+asVDerivedFrom
+p7655
+(lp7656
+Vcoffee
+p7657
+aVgrinder
+p7658
+asVFormOf
+p7659
+(lp7660
+Vcoffee grinder
+p7661
+asVExternalURL
+p7662
+(lp7663
+VCoffeeGrinder
+p7664
+asVSynonym
+p7665
+(lp7666
+Vcoffee mill
+p7667
+aVcoffee grinder
+p7668
+asVIsA
+p7669
+(lp7670
+Vcontainer product
+p7671
+aVhousehold appliance
+p7672
+aVgrinder
+p7673
+assVpurse
+p7674
+(dp7675
+VRelatedTo
+p7676
+(lp7677
+Vpurse
+p7678
+asVAtLocation
+p7679
+(lp7680
+Va purse
+p7681
+aVthe purse
+p7682
+aVa handbag
+p7683
+aVyour purse
+p7684
+asVUsedFor
+p7685
+(lp7686
+Vcarry your money
+p7687
+assVnail
+p7688
+(dp7689
+VRelatedTo
+p7690
+(lp7691
+Vnail
+p7692
+asVAtLocation
+p7693
+(lp7694
+Vyour finger
+p7695
+aVa board
+p7696
+asVCapableOf
+p7697
+(lp7698
+Vcause a puncture wound
+p7699
+aVnail things to other things
+p7700
+asVDerivedFrom
+p7701
+(lp7702
+Vnail
+p7703
+asVIsA
+p7704
+(lp7705
+Vlinear unit
+p7706
+aVfastener
+p7707
+aVa piece of metal
+p7708
+aVhorny structure
+p7709
+aVnail
+p7710
+assVphone
+p7711
+(dp7712
+VRelatedTo
+p7713
+(lp7714
+Vdevice
+p7715
+aVphone
+p7716
+aVcell
+p7717
+aVcommunication
+p7718
+asVAtLocation
+p7719
+(lp7720
+Vyour house
+p7721
+aVa motel
+p7722
+aVan office
+p7723
+aVa desk
+p7724
+asVHasPrerequisite
+p7725
+(lp7726
+Vphone someone
+p7727
+asVHasContext
+p7728
+(lp7729
+Vphonetics
+p7730
+asVUsedFor
+p7731
+(lp7732
+Vcalling
+p7733
+aVcommunication
+p7734
+asVFormOf
+p7735
+(lp7736
+Vphone
+p7737
+asVCapableOf
+p7738
+(lp7739
+Vmake calls
+p7740
+asVIsA
+p7741
+(lp7742
+Vphone
+p7743
+assVvcr
+p7744
+(dp7745
+VExternalURL
+p7746
+(lp7747
+VVideoCassetteRecorder
+p7748
+asVAtLocation
+p7749
+(lp7750
+Va vcr
+p7751
+aVtelevision
+p7752
+asVHasPrerequisite
+p7753
+(lp7754
+Va VCR
+p7755
+asVUsedFor
+p7756
+(lp7757
+Vwatching VCR tapes
+p7758
+asVFormOf
+p7759
+(lp7760
+Vvcr
+p7761
+asVCapableOf
+p7762
+(lp7763
+Vrecord a television show
+p7764
+asVDefinedAs
+p7765
+(lp7766
+Vsame as video cassette recorder
+p7767
+aVVCR
+p7768
+asVSynonym
+p7769
+(lp7770
+Vvcr
+p7771
+aVvideocassette recorder
+p7772
+asVIsA
+p7773
+(lp7774
+Van acronym for video cassette recorder
+p7775
+aVan abbreviation for "video cassette recorder"
+p7776
+aVone type of electrical appliance
+p7777
+assVchildren's_book
+p7778
+(dp7779
+VAtLocation
+p7780
+(lp7781
+Va children's book
+p7782
+asVExternalURL
+p7783
+(lp7784
+VChildrensBook
+p7785
+asVSynonym
+p7786
+(lp7787
+Vchildren's book
+p7788
+asVIsA
+p7789
+(lp7790
+Va children's book
+p7791
+aVbook
+p7792
+assVpaint
+p7793
+(dp7794
+VRelatedTo
+p7795
+(lp7796
+Vwall
+p7797
+aVhouse
+p7798
+aVcolorful
+p7799
+aVcolors
+p7800
+aVwall covering
+p7801
+aVpigment
+p7802
+aVliquid
+p7803
+aVcovering
+p7804
+aVbrush
+p7805
+aVcolor
+p7806
+aVart
+p7807
+aVcoloring
+p7808
+aVwet
+p7809
+aVcolour
+p7810
+aVwalls
+p7811
+asVCapableOf
+p7812
+(lp7813
+Vcoat a wall
+p7814
+aVcoat a surface
+p7815
+aVcoat walls
+p7816
+asVHasPrerequisite
+p7817
+(lp7818
+Vget a paintbrush and paint
+p7819
+aVpaint
+p7820
+assVdictionary
+p7821
+(dp7822
+VRelatedTo
+p7823
+(lp7824
+Vbook
+p7825
+aVlexicon
+p7826
+aVencyclopedia
+p7827
+aVreference
+p7828
+aVdefinitions
+p7829
+aVvocabulary
+p7830
+aVthesaurus
+p7831
+asVAtLocation
+p7832
+(lp7833
+Vthe dictionary
+p7834
+aVa library
+p7835
+aVa dictionary
+p7836
+asVPartOf
+p7837
+(lp7838
+Vdictionary
+p7839
+asVIsA
+p7840
+(lp7841
+Vwordbook
+p7842
+aVdictionary
+p7843
+assVlaptop
+p7844
+(dp7845
+VRelatedTo
+p7846
+(lp7847
+Vdesktop
+p7848
+asVSynonym
+p7849
+(lp7850
+Vlaptop
+p7851
+asVIsA
+p7852
+(lp7853
+Vportable computer
+p7854
+assVpaintbrush
+p7855
+(dp7856
+VSynonym
+p7857
+(lp7858
+Vpaintbrush
+p7859
+asVIsA
+p7860
+(lp7861
+Vapplicator
+p7862
+aVbrush
+p7863
+assVblouse
+p7864
+(dp7865
+VRelatedTo
+p7866
+(lp7867
+Vblouse
+p7868
+asVSynonym
+p7869
+(lp7870
+Vblouse
+p7871
+asVPartOf
+p7872
+(lp7873
+Vblouse
+p7874
+asVIsA
+p7875
+(lp7876
+Vblouse
+p7877
+assVhot_plate
+p7878
+(dp7879
+VFormOf
+p7880
+(lp7881
+Vhotplate
+p7882
+asVRelatedTo
+p7883
+(lp7884
+Vhot plate
+p7885
+aVplaque chauffante
+p7886
+aVmeal
+p7887
+asVExternalURL
+p7888
+(lp7889
+Vhot plate
+p7890
+aV103548434-n
+p7891
+asVSynonym
+p7892
+(lp7893
+Vhot plate
+p7894
+asVIsA
+p7895
+(lp7896
+Vkitchen appliance
+p7897
+assVpaperclip
+p7898
+(dp7899
+VRelatedTo
+p7900
+(lp7901
+Vpaperclip
+p7902
+aVpaper clip
+p7903
+aVfasten
+p7904
+asVAtLocation
+p7905
+(lp7906
+Vthe office
+p7907
+aVa desk
+p7908
+aVa meeting
+p7909
+asVDerivedFrom
+p7910
+(lp7911
+Vkini
+p7912
+asVFormOf
+p7913
+(lp7914
+Vpaperclip
+p7915
+aVpaper clip
+p7916
+asVCapableOf
+p7917
+(lp7918
+Vlend itself to many uses
+p7919
+asVSynonym
+p7920
+(lp7921
+Vpaper clip
+p7922
+asVIsA
+p7923
+(lp7924
+Va small piece of metal
+p7925
+assVphoto_album
+p7926
+(dp7927
+VRelatedTo
+p7928
+(lp7929
+Vphoto album
+p7930
+asVAtLocation
+p7931
+(lp7932
+Va relatives house
+p7933
+asVUsedFor
+p7934
+(lp7935
+Vstoring photos
+p7936
+asVgenre
+p7937
+(lp7938
+Vindie rock
+p7939
+asVExternalURL
+p7940
+(lp7941
+VQ16417
+p7942
+aVThe Photo Album
+p7943
+aVPhotoAlbum
+p7944
+asVSynonym
+p7945
+(lp7946
+Vphoto album
+p7947
+asVIsA
+p7948
+(lp7949
+Vscrapbook
+p7950
+aValbum
+p7951
+assVtoilet_paper
+p7952
+(dp7953
+VFormOf
+p7954
+(lp7955
+Vtoilet paper
+p7956
+asVAtLocation
+p7957
+(lp7958
+Va cabinet
+p7959
+aVa bathroom
+p7960
+aVa grocery store
+p7961
+aVa rest area
+p7962
+aVthe toilet
+p7963
+asVHasProperty
+p7964
+(lp7965
+Vbiodegradable
+p7966
+aVsoft
+p7967
+asVSynonym
+p7968
+(lp7969
+Vbathroom tissue
+p7970
+aVtoilet tissue
+p7971
+aVtoilet paper
+p7972
+asVUsedFor
+p7973
+(lp7974
+Vblow your nose
+p7975
+aVabsorbing moisture
+p7976
+aVwipe your arse
+p7977
+assVrefrigerator
+p7978
+(dp7979
+VIsA
+p7980
+(lp7981
+Va machine
+p7982
+asVAtLocation
+p7983
+(lp7984
+Vthe garage
+p7985
+aVyour refrigerator
+p7986
+aVa refrigerator
+p7987
+aVthe refrigerator
+p7988
+asVCapableOf
+p7989
+(lp7990
+Vcool food
+p7991
+asVSynonym
+p7992
+(lp7993
+Vrefrigerator
+p7994
+asVUsedFor
+p7995
+(lp7996
+Vkeeping food from spoiling
+p7997
+aVkeeping food cold
+p7998
+assVpans
+p7999
+(dp8000
+VRelatedTo
+p8001
+(lp8002
+Vpan
+p8003
+aVpans
+p8004
+asVAtLocation
+p8005
+(lp8006
+Va drawer
+p8007
+aVthe kitchen
+p8008
+aVa backpack
+p8009
+asVUsedFor
+p8010
+(lp8011
+Vcooking
+p8012
+aVcook food
+p8013
+asVFormOf
+p8014
+(lp8015
+Vpan
+p8016
+asVExternalURL
+p8017
+(lp8018
+Vpans
+p8019
+asVSynonym
+p8020
+(lp8021
+Vpans
+p8022
+assVtissues
+p8023
+(dp8024
+VRelatedTo
+p8025
+(lp8026
+Vtissues
+p8027
+aVtissue
+p8028
+asVHasA
+p8029
+(lp8030
+Vtissues
+p8031
+asVUsedFor
+p8032
+(lp8033
+Vtissues
+p8034
+aVwipe your nose
+p8035
+aVwipe the nose and bum
+p8036
+asVFormOf
+p8037
+(lp8038
+Vtissue
+p8039
+asVAtLocation
+p8040
+(lp8041
+Vthe purse
+p8042
+aVa suitcase
+p8043
+aVa waste bin
+p8044
+asVSynonym
+p8045
+(lp8046
+Vtissues
+p8047
+assVsafety_goggles
+p8048
+(dp8049
+VRelatedTo
+p8050
+(lp8051
+Vsafety goggles
+p8052
+asVSynonym
+p8053
+(lp8054
+Vsafety goggles
+p8055
+assVbell
+p8056
+(dp8057
+VRelatedTo
+p8058
+(lp8059
+Vchurches
+p8060
+aVding
+p8061
+aVchime
+p8062
+aVnoise
+p8063
+aVinstrument
+p8064
+aVring
+p8065
+aVringer
+p8066
+aVclapper
+p8067
+aVchurch
+p8068
+aVringing
+p8069
+aVtower
+p8070
+aVliberty
+p8071
+asVAtLocation
+p8072
+(lp8073
+Vschool
+p8074
+aVchurch
+p8075
+aVthe front door
+p8076
+asVCapableOf
+p8077
+(lp8078
+Vring
+p8079
+asVUsedFor
+p8080
+(lp8081
+Vmaking noise
+p8082
+aVring
+p8083
+aVringing
+p8084
+aVgetting attention
+p8085
+assVplastic_fork
+p8086
+(dp8087
+VAtLocation
+p8088
+(lp8089
+Va fast-food restaurant
+p8090
+assVincense_holder
+p8091
+(dp8092
+VSynonym
+p8093
+(lp8094
+Vincense holder
+p8095
+assVsticker_book
+p8096
+(dp8097
+VRelatedTo
+p8098
+(lp8099
+Vsticker
+p8100
+aVbooklet
+p8101
+asVExternalURL
+p8102
+(lp8103
+Vsticker book
+p8104
+assVcandy_cane
+p8105
+(dp8106
+VRelatedTo
+p8107
+(lp8108
+Vpeppermint
+p8109
+aVstaff
+p8110
+aVcandy cane
+p8111
+aVcane
+p8112
+aVcandy
+p8113
+aVchristmas time
+p8114
+asVHasContext
+p8115
+(lp8116
+Vcanada
+p8117
+aVus
+p8118
+asVDerivedFrom
+p8119
+(lp8120
+Vcandy
+p8121
+asVFormOf
+p8122
+(lp8123
+Vcandy cane
+p8124
+asVExternalURL
+p8125
+(lp8126
+VCandyCane
+p8127
+aV107617143-n
+p8128
+asVHasProperty
+p8129
+(lp8130
+Vsticky
+p8131
+asVSynonym
+p8132
+(lp8133
+Vcandy cane
+p8134
+asVIsA
+p8135
+(lp8136
+Vcandy
+p8137
+assVelectric_toothbrush
+p8138
+(dp8139
+VAtLocation
+p8140
+(lp8141
+Va department store
+p8142
+aVa pharmacy
+p8143
+aVa bathroom drawer
+p8144
+aVa store
+p8145
+asVExternalURL
+p8146
+(lp8147
+VElectricToothbrush
+p8148
+asVPartOf
+p8149
+(lp8150
+Velectric toothbrush
+p8151
+asVUsedFor
+p8152
+(lp8153
+Vclean teeth
+p8154
+aVbrushing teeth
+p8155
+asVCapableOf
+p8156
+(lp8157
+Vbe rechargable
+p8158
+aVrun on batteries
+p8159
+aVhelp with dental hygiene
+p8160
+asVSynonym
+p8161
+(lp8162
+Velectric toothbrush
+p8163
+assVrolling_pin
+p8164
+(dp8165
+VFormOf
+p8166
+(lp8167
+Vrolling pin
+p8168
+asVSynonym
+p8169
+(lp8170
+Vrolling pin
+p8171
+asVIsA
+p8172
+(lp8173
+Vkitchen utensil
+p8174
+assVbathmat
+p8175
+(dp8176
+VFormOf
+p8177
+(lp8178
+Vbath mat
+p8179
+aVbathmat
+p8180
+asVRelatedTo
+p8181
+(lp8182
+Vbathmat
+p8183
+asVExternalURL
+p8184
+(lp8185
+Vbathmat
+p8186
+assVlantern
+p8187
+(dp8188
+VRelatedTo
+p8189
+(lp8190
+Vlamp
+p8191
+aVlight
+p8192
+aVcamping
+p8193
+asVAtLocation
+p8194
+(lp8195
+Va house
+p8196
+asVSynonym
+p8197
+(lp8198
+Vlantern
+p8199
+asVIsA
+p8200
+(lp8201
+Vlantern
+p8202
+aVlamp
+p8203
+assVmap
+p8204
+(dp8205
+VMannerOf
+p8206
+(lp8207
+Vmap
+p8208
+aVexplore
+p8209
+aVpermute
+p8210
+asVAtLocation
+p8211
+(lp8212
+Van atlas
+p8213
+aVa glove compartment
+p8214
+aVa backpack
+p8215
+aVa map
+p8216
+asVIsA
+p8217
+(lp8218
+Vrepresentation
+p8219
+aVmap
+p8220
+aVa symbolic representation
+p8221
+aVa map
+p8222
+asVUsedFor
+p8223
+(lp8224
+Vfinding an address
+p8225
+assVbow
+p8226
+(dp8227
+VRelatedTo
+p8228
+(lp8229
+Vbow
+p8230
+asVEntails
+p8231
+(lp8232
+Vbow
+p8233
+asVHasContext
+p8234
+(lp8235
+Vmusic
+p8236
+asVHasLastSubevent
+p8237
+(lp8238
+Vbow
+p8239
+asVIsA
+p8240
+(lp8241
+Vbow
+p8242
+aVgesture
+p8243
+aVreverence
+p8244
+aVstroke
+p8245
+aVfront
+p8246
+aVknot
+p8247
+aVthanks
+p8248
+aVcurve
+p8249
+aVdecoration
+p8250
+aVweapon
+p8251
+aVstick
+p8252
+assVtrash_bag
+p8253
+(dp8254
+VRelatedTo
+p8255
+(lp8256
+Vplastic
+p8257
+aVbag
+p8258
+aVwaste
+p8259
+aVhousehold
+p8260
+aVtrash bag
+p8261
+aVdisposal
+p8262
+asVReceivesAction
+p8263
+(lp8264
+Vleft at the curbside for pickup
+p8265
+asVHasContext
+p8266
+(lp8267
+Vnorth american
+p8268
+asVDerivedFrom
+p8269
+(lp8270
+Vtrash
+p8271
+asVFormOf
+p8272
+(lp8273
+Vtrash bag
+p8274
+asVExternalURL
+p8275
+(lp8276
+VTrashBag
+p8277
+asVIsA
+p8278
+(lp8279
+Vdisposable object
+p8280
+aVconsumable product
+p8281
+aVhousewares
+p8282
+aVgarbage container
+p8283
+aVplastic bag
+p8284
+assVgiraffe
+p8285
+(dp8286
+VAtLocation
+p8287
+(lp8288
+Va zoo
+p8289
+asVHasProperty
+p8290
+(lp8291
+Vmale
+p8292
+asVSynonym
+p8293
+(lp8294
+Vgiraffe
+p8295
+asVIsA
+p8296
+(lp8297
+Vruminant
+p8298
+aVgiraffe
+p8299
+assVsharpie
+p8300
+(dp8301
+VRelatedTo
+p8302
+(lp8303
+Vswindler
+p8304
+aValert
+p8305
+aVfisherman
+p8306
+aVmarker pen
+p8307
+aVfishing boat
+p8308
+aVfelt tipped
+p8309
+asVCapableOf
+p8310
+(lp8311
+Vdrive a hard bargain
+p8312
+asVHasContext
+p8313
+(lp8314
+Vaustralia
+p8315
+aVus
+p8316
+aVbirdwatching
+p8317
+aVregional
+p8318
+asVFormOf
+p8319
+(lp8320
+Vsharpie
+p8321
+asVExternalURL
+p8322
+(lp8323
+V104192372-n
+p8324
+aVQ724530
+p8325
+aVSharpie (marker)
+p8326
+asVSynonym
+p8327
+(lp8328
+Veager beaver
+p8329
+aVsharpie
+p8330
+aVcardsharp
+p8331
+asVIsA
+p8332
+(lp8333
+Vsailboat
+p8334
+assVsaucers
+p8335
+(dp8336
+VFormOf
+p8337
+(lp8338
+Vsaucer
+p8339
+asVRelatedTo
+p8340
+(lp8341
+Vsaucers
+p8342
+aVsaucer
+p8343
+asVExternalURL
+p8344
+(lp8345
+Vsaucers
+p8346
+asVReceivesAction
+p8347
+(lp8348
+Vdesigned to be matching with cups
+p8349
+asVIsA
+p8350
+(lp8351
+Vdiscs
+p8352
+assVsnail_shell
+p8353
+(dp8354
+VSynonym
+p8355
+(lp8356
+Vsnail shell
+p8357
+assVknitting_needles
+p8358
+(dp8359
+VFormOf
+p8360
+(lp8361
+Vknitting needle
+p8362
+asVRelatedTo
+p8363
+(lp8364
+Vknitting needle
+p8365
+asVExternalURL
+p8366
+(lp8367
+Vknitting needles
+p8368
+assVpepper_shaker
+p8369
+(dp8370
+VFormOf
+p8371
+(lp8372
+Vpepper shaker
+p8373
+asVExternalURL
+p8374
+(lp8375
+VPepperShaker
+p8376
+aV103920557-n
+p8377
+asVSynonym
+p8378
+(lp8379
+Vpepper shaker
+p8380
+asVIsA
+p8381
+(lp8382
+Vshaker
+p8383
+aVkitchenware
+p8384
+assVipod
+p8385
+(dp8386
+VDesires
+p8387
+(lp8388
+Van iPod
+p8389
+asVAtLocation
+p8390
+(lp8391
+Van apartment
+p8392
+aVmy ipod
+p8393
+asVExternalURL
+p8394
+(lp8395
+VQ9479
+p8396
+aVIPod
+p8397
+asVMadeOf
+p8398
+(lp8399
+Vmicrochips and plastic
+p8400
+asVDerivedFrom
+p8401
+(lp8402
+Vpod
+p8403
+aVipod
+p8404
+asVCreatedBy
+p8405
+(lp8406
+VApple Computer
+p8407
+asVDefinedAs
+p8408
+(lp8409
+Vbest version of an mp4 player. It is made by Apple Inc. and is their only version of an mp3/ mp4 player
+p8410
+asVSynonym
+p8411
+(lp8412
+Vipod
+p8413
+aViPod
+p8414
+asVIsA
+p8415
+(lp8416
+Vstereo
+p8417
+aVMP3 Player
+p8418
+aViPod
+p8419
+assVcoffee_maker
+p8420
+(dp8421
+VAtLocation
+p8422
+(lp8423
+Vthe kitchen
+p8424
+aVthe office
+p8425
+aVa internet cafe
+p8426
+asVDerivedFrom
+p8427
+(lp8428
+Vcoffee
+p8429
+asVFormOf
+p8430
+(lp8431
+Vcoffee maker
+p8432
+aVcoffeemaker
+p8433
+asVExternalURL
+p8434
+(lp8435
+VCoffeeMaker
+p8436
+aV103067341-n
+p8437
+asVSynonym
+p8438
+(lp8439
+Vcoffee maker
+p8440
+asVIsA
+p8441
+(lp8442
+Vkitchen appliance
+p8443
+aVelectrical household appliance
+p8444
+assVspeakers
+p8445
+(dp8446
+VExternalURL
+p8447
+(lp8448
+Vspeakers
+p8449
+asVRelatedTo
+p8450
+(lp8451
+Vspeaker
+p8452
+aVspeakers
+p8453
+asVAtLocation
+p8454
+(lp8455
+Va drive-in movie
+p8456
+aVa desktop
+p8457
+aVheadphones
+p8458
+aVa conference
+p8459
+aVa concert
+p8460
+asVCapableOf
+p8461
+(lp8462
+Vtalk to listeners
+p8463
+aVproduce sounds
+p8464
+aVvoice opinions
+p8465
+asVUsedFor
+p8466
+(lp8467
+Vmaking sound
+p8468
+aVspeakers
+p8469
+asVFormOf
+p8470
+(lp8471
+Vspeaker
+p8472
+asVReceivesAction
+p8473
+(lp8474
+Vconnected to a stereo
+p8475
+assVscissors
+p8476
+(dp8477
+VRelatedTo
+p8478
+(lp8479
+Vscissors
+p8480
+asVAtLocation
+p8481
+(lp8482
+Va cabinet
+p8483
+aVthe desk
+p8484
+asVHasPrerequisite
+p8485
+(lp8486
+Vscissors
+p8487
+asVPartOf
+p8488
+(lp8489
+Vscissors
+p8490
+asVUsedFor
+p8491
+(lp8492
+Vcut
+p8493
+asVCapableOf
+p8494
+(lp8495
+Vcut that paper
+p8496
+asVHasProperty
+p8497
+(lp8498
+Vsharp
+p8499
+asVSynonym
+p8500
+(lp8501
+Vscissors
+p8502
+asVIsA
+p8503
+(lp8504
+Vwrestling hold
+p8505
+aVedge tool
+p8506
+aVcompound lever
+p8507
+aVgymnastic exercise
+p8508
+aVscissors
+p8509
+assVjigsaw_puzzle
+p8510
+(dp8511
+VSynonym
+p8512
+(lp8513
+Vjigsaw puzzle
+p8514
+asVIsA
+p8515
+(lp8516
+Vpuzzle
+p8517
+assVdesk
+p8518
+(dp8519
+VRelatedTo
+p8520
+(lp8521
+Vtable
+p8522
+aVwork
+p8523
+aVwriting
+p8524
+aVfurniture
+p8525
+aVoffice
+p8526
+asVAtLocation
+p8527
+(lp8528
+Vyour desk
+p8529
+aVa desk
+p8530
+aVthe desk
+p8531
+assVjam
+p8532
+(dp8533
+VMannerOf
+p8534
+(lp8535
+Vstuff
+p8536
+aVmalfunction
+p8537
+aVbruise
+p8538
+aVinterrupt
+p8539
+aVjam
+p8540
+aVpush
+p8541
+asVRelatedTo
+p8542
+(lp8543
+Vjam
+p8544
+asVAtLocation
+p8545
+(lp8546
+Va jar
+p8547
+asVCapableOf
+p8548
+(lp8549
+Vjam
+p8550
+asVSynonym
+p8551
+(lp8552
+Vjam
+p8553
+asVIsA
+p8554
+(lp8555
+Va spread
+p8556
+aVconserve
+p8557
+aVjam
+p8558
+assVscotch_tape
+p8559
+(dp8560
+VRelatedTo
+p8561
+(lp8562
+Vsensitive
+p8563
+aVadhesive tape
+p8564
+aVpressure
+p8565
+aVsellotape
+p8566
+aVdurex
+p8567
+aVscotch tape
+p8568
+aVsticky tape
+p8569
+asVAtLocation
+p8570
+(lp8571
+Va cabinet
+p8572
+aVa desk
+p8573
+asVHasContext
+p8574
+(lp8575
+Vus
+p8576
+aVoriginally trademark now used generically
+p8577
+asVDerivedFrom
+p8578
+(lp8579
+Vtape
+p8580
+aVscotch
+p8581
+asVSynonym
+p8582
+(lp8583
+Vscotch tape
+p8584
+assVgrill
+p8585
+(dp8586
+VMannerOf
+p8587
+(lp8588
+Vgrill
+p8589
+aVcook
+p8590
+aVexamine
+p8591
+asVAtLocation
+p8592
+(lp8593
+Va back yard
+p8594
+aVthe backyard
+p8595
+aVthe grill
+p8596
+asVUsedFor
+p8597
+(lp8598
+Vbarbecue
+p8599
+aVcooking
+p8600
+aVgrilling steak
+p8601
+asVHasContext
+p8602
+(lp8603
+Vcooking
+p8604
+asVSynonym
+p8605
+(lp8606
+Vgrillroom
+p8607
+aVgrill
+p8608
+asVIsA
+p8609
+(lp8610
+Vframework
+p8611
+assVstickers
+p8612
+(dp8613
+VFormOf
+p8614
+(lp8615
+Vsticker
+p8616
+asVRelatedTo
+p8617
+(lp8618
+Vsticker
+p8619
+asVExternalURL
+p8620
+(lp8621
+Vstickers
+p8622
+assVhair_clip
+p8623
+(dp8624
+VRelatedTo
+p8625
+(lp8626
+Vhair clip
+p8627
+asVAtLocation
+p8628
+(lp8629
+Vsomeone's hair
+p8630
+aVa bathroom drawer
+p8631
+aVlong hair
+p8632
+aVa drawer
+p8633
+aVgirls hair
+p8634
+aVa beauty salon
+p8635
+aVa girl's dresser
+p8636
+aVa
+p8637
+aVa female's hair
+p8638
+aVa drug store
+p8639
+aVa barbershop
+p8640
+asVSynonym
+p8641
+(lp8642
+Vhair clip
+p8643
+asVUsedFor
+p8644
+(lp8645
+Vhold hair
+p8646
+aVkeep hair in place
+p8647
+aVkeeping hair out of eyes
+p8648
+aVdecorating yourself
+p8649
+aVstyling hair
+p8650
+assVvaporizer
+p8651
+(dp8652
+VFormOf
+p8653
+(lp8654
+Vvaporizer
+p8655
+asVRelatedTo
+p8656
+(lp8657
+Vmedicine
+p8658
+aVvaporize
+p8659
+aVpatient
+p8660
+aVvaporizer
+p8661
+aVinhale
+p8662
+aVliquid
+p8663
+aVvapor
+p8664
+aVmist
+p8665
+aVaerosol
+p8666
+aVlung
+p8667
+asVHasContext
+p8668
+(lp8669
+Vmedicine
+p8670
+asVSynonym
+p8671
+(lp8672
+Vvaporizer
+p8673
+aVvaporiser
+p8674
+assVlaser_pointer
+p8675
+(dp8676
+VFormOf
+p8677
+(lp8678
+Vlaser pointer
+p8679
+asVRelatedTo
+p8680
+(lp8681
+Vlaser pointer
+p8682
+aVconcentrated
+p8683
+asVAtLocation
+p8684
+(lp8685
+Va demonstration
+p8686
+asVExternalURL
+p8687
+(lp8688
+Vlaser pointer
+p8689
+asVSynonym
+p8690
+(lp8691
+Vlaser pointer
+p8692
+aV\u043b\u0430\u0437\u0435\u0440\u043d\u0430\u044f \u0443\u043a\u0430\u0437\u043a\u0430
+p8693
+assVradio
+p8694
+(dp8695
+VMannerOf
+p8696
+(lp8697
+Vcommunicate
+p8698
+asVRelatedTo
+p8699
+(lp8700
+Vradio
+p8701
+asVAtLocation
+p8702
+(lp8703
+Vthe space shuttle
+p8704
+aVevery car and house
+p8705
+aVa radio
+p8706
+asVHasPrerequisite
+p8707
+(lp8708
+Va radio
+p8709
+asVPartOf
+p8710
+(lp8711
+Vradio
+p8712
+aVa radio
+p8713
+asVUsedFor
+p8714
+(lp8715
+Vlisten to news
+p8716
+aVlistening the news
+p8717
+aVhear news
+p8718
+aVlistening to
+p8719
+asVHasContext
+p8720
+(lp8721
+Vradio
+p8722
+asVSynonym
+p8723
+(lp8724
+Vradio
+p8725
+asVIsA
+p8726
+(lp8727
+Vcommunication system
+p8728
+aVbroadcasting
+p8729
+aVan audible media
+p8730
+aVradio
+p8731
+aVa communication device
+p8732
+assVtweezers
+p8733
+(dp8734
+VRelatedTo
+p8735
+(lp8736
+Vmetal
+p8737
+aVinstrument
+p8738
+aVtweezers
+p8739
+aVen prison estuier
+p8740
+aVhandling
+p8741
+aVestuier
+p8742
+asVDerivedFrom
+p8743
+(lp8744
+V\u92cf
+p8745
+asVSynonym
+p8746
+(lp8747
+Vtweezers
+p8748
+asVIsA
+p8749
+(lp8750
+Va skin care article
+p8751
+assVdolphin
+p8752
+(dp8753
+VSynonym
+p8754
+(lp8755
+Vdolphin
+p8756
+aVdolphinfish
+p8757
+asVIsA
+p8758
+(lp8759
+Vdolphin
+p8760
+aVan animal
+p8761
+assVwatch
+p8762
+(dp8763
+VRelatedTo
+p8764
+(lp8765
+Vwrist
+p8766
+aVclock
+p8767
+aVtime
+p8768
+aVwatch
+p8769
+aVtimepiece
+p8770
+aVdevice
+p8771
+aVlook
+p8772
+aVon wrist
+p8773
+asVAtLocation
+p8774
+(lp8775
+Va watch store
+p8776
+asVEntails
+p8777
+(lp8778
+Vsee
+p8779
+aVlook
+p8780
+asVUsedFor
+p8781
+(lp8782
+Vkeeping track of time
+p8783
+aVtime
+p8784
+asVCapableOf
+p8785
+(lp8786
+Vtime an event
+p8787
+aVtime events
+p8788
+asVHasPrerequisite
+p8789
+(lp8790
+Vwatch
+p8791
+asVIsA
+p8792
+(lp8793
+Va chronometer
+p8794
+aVa clock
+p8795
+assVbutter_knife
+p8796
+(dp8797
+VRelatedTo
+p8798
+(lp8799
+Vknife
+p8800
+aVtable
+p8801
+aVserrated
+p8802
+aVbutter knife
+p8803
+asVCapableOf
+p8804
+(lp8805
+Vbutter bread
+p8806
+asVFormOf
+p8807
+(lp8808
+Vbutter knife
+p8809
+asVExternalURL
+p8810
+(lp8811
+VButterKnife
+p8812
+aV102931433-n
+p8813
+asVSynonym
+p8814
+(lp8815
+Vbutter knife
+p8816
+asVIsA
+p8817
+(lp8818
+Vknife
+p8819
+aVtable knife
+p8820
+aVsilverware
+p8821
+assVcopier
+p8822
+(dp8823
+VRelatedTo
+p8824
+(lp8825
+Vdocument
+p8826
+aVcopier
+p8827
+aVcopies
+p8828
+asVAtLocation
+p8829
+(lp8830
+Va copier
+p8831
+aVthe office
+p8832
+asVFormOf
+p8833
+(lp8834
+Vcopier
+p8835
+asVHasContext
+p8836
+(lp8837
+Vcomputing
+p8838
+asVSynonym
+p8839
+(lp8840
+Vduplicator
+p8841
+aVcopier
+p8842
+asVIsA
+p8843
+(lp8844
+Vcopier
+p8845
+assVvideo_game_machine
+p8846
+(dp8847
+VAtLocation
+p8848
+(lp8849
+Va video game machine
+p8850
+assVscrewdriver
+p8851
+(dp8852
+VAtLocation
+p8853
+(lp8854
+Vtoolbox
+p8855
+aVa tool belt
+p8856
+aVa tool box
+p8857
+asVCapableOf
+p8858
+(lp8859
+Vturn a screw
+p8860
+asVUsedFor
+p8861
+(lp8862
+Vinserting a screw
+p8863
+aVtighten a screw
+p8864
+asVSynonym
+p8865
+(lp8866
+Vscrewdriver
+p8867
+asVIsA
+p8868
+(lp8869
+Vhand tool
+p8870
+aVcocktail
+p8871
+aVscrewdriver
+p8872
+aVa drink
+p8873
+assVnotebook
+p8874
+(dp8875
+VAtLocation
+p8876
+(lp8877
+Vclass
+p8878
+aVa notebook
+p8879
+aVthe bookstore
+p8880
+aVa classroom
+p8881
+aVa desk
+p8882
+aVa backpack
+p8883
+asVIsA
+p8884
+(lp8885
+Vbook
+p8886
+aVcomputer
+p8887
+aVportable computer
+p8888
+aVnotebook
+p8889
+asVSynonym
+p8890
+(lp8891
+Vnotebook
+p8892
+asVUsedFor
+p8893
+(lp8894
+Vtaking notes
+p8895
+assVpots
+p8896
+(dp8897
+VRelatedTo
+p8898
+(lp8899
+Vpots
+p8900
+aVplain old telephone service
+p8901
+aVpostural orthostatic tachycardia syndrome
+p8902
+asVAtLocation
+p8903
+(lp8904
+Vpots
+p8905
+aVa cupboard
+p8906
+aVa drawer
+p8907
+asVMadeOf
+p8908
+(lp8909
+Vclay
+p8910
+asVFormOf
+p8911
+(lp8912
+Vpot
+p8913
+asVHasContext
+p8914
+(lp8915
+Vmedicine
+p8916
+aVtelecommunications
+p8917
+asVHasProperty
+p8918
+(lp8919
+Vopaque
+p8920
+asVSynonym
+p8921
+(lp8922
+Vpots
+p8923
+aVpost office telephone system
+p8924
+aVpstn
+p8925
+asVIsA
+p8926
+(lp8927
+Vpots
+p8928
+assVcarrot
+p8929
+(dp8930
+VDesires
+p8931
+(lp8932
+Va carrot
+p8933
+asVSynonym
+p8934
+(lp8935
+Vcarrot
+p8936
+asVPartOf
+p8937
+(lp8938
+Vcarrot
+p8939
+asVIsA
+p8940
+(lp8941
+Vreward
+p8942
+aVherb
+p8943
+aVroot vegetable
+p8944
+assVmouse_pad
+p8945
+(dp8946
+VRelatedTo
+p8947
+(lp8948
+Vmouse
+p8949
+aVmouse pad
+p8950
+asVAtLocation
+p8951
+(lp8952
+Va mouse pad
+p8953
+aVa desk
+p8954
+asVDerivedFrom
+p8955
+(lp8956
+Vmouse
+p8957
+asVFormOf
+p8958
+(lp8959
+Vmouse pad
+p8960
+asVHasContext
+p8961
+(lp8962
+Vaustralia
+p8963
+aVus
+p8964
+asVSynonym
+p8965
+(lp8966
+Vmouse pad
+p8967
+assVpeanut_butter
+p8968
+(dp8969
+VAtLocation
+p8970
+(lp8971
+Va container
+p8972
+aVthe supermarket
+p8973
+aVa pantry
+p8974
+aVthe jar
+p8975
+asVMadeOf
+p8976
+(lp8977
+Vpeanuts
+p8978
+asVDerivedFrom
+p8979
+(lp8980
+Vpeanut
+p8981
+asVCapableOf
+p8982
+(lp8983
+Vspread on bread
+p8984
+asVHasProperty
+p8985
+(lp8986
+Vsticky
+p8987
+asVSynonym
+p8988
+(lp8989
+Vpindakaas
+p8990
+aVpeanut butter
+p8991
+asVIsA
+p8992
+(lp8993
+Va spread
+p8994
+aVa food
+p8995
+assVcurling_iron
+p8996
+(dp8997
+VAtLocation
+p8998
+(lp8999
+Va hair salon
+p9000
+aVa girls room
+p9001
+aVuse
+p9002
+aVa drawer
+p9003
+aVthe bathroom
+p9004
+aVa beauty salon
+p9005
+asVExternalURL
+p9006
+(lp9007
+VElectricHairCurler
+p9008
+asVDerivedFrom
+p9009
+(lp9010
+Viron
+p9011
+aVcurl
+p9012
+asVUsedFor
+p9013
+(lp9014
+Vcurling straight hair
+p9015
+aVstyle your hair
+p9016
+asVCapableOf
+p9017
+(lp9018
+Vbecome very hot
+p9019
+asVSynonym
+p9020
+(lp9021
+Vcurling iron
+p9022
+asVIsA
+p9023
+(lp9024
+Vhome appliance
+p9025
+assVsunglasses
+p9026
+(dp9027
+VIsA
+p9028
+(lp9029
+Vspectacles
+p9030
+aVsunglasses
+p9031
+asVCapableOf
+p9032
+(lp9033
+Vshade your eyes from the sun
+p9034
+asVSynonym
+p9035
+(lp9036
+Vsunnies
+p9037
+aVsunglasses
+p9038
+aVshades
+p9039
+asVUsedFor
+p9040
+(lp9041
+Vprotect eyes from the sun
+p9042
+assVquilt
+p9043
+(dp9044
+VMannerOf
+p9045
+(lp9046
+Vjoin
+p9047
+aVsew
+p9048
+asVRelatedTo
+p9049
+(lp9050
+Vblanket
+p9051
+aVquilt
+p9052
+asVEntails
+p9053
+(lp9054
+Vpad
+p9055
+aVsew
+p9056
+asVSynonym
+p9057
+(lp9058
+Vquilt
+p9059
+asVIsA
+p9060
+(lp9061
+Vquilt
+p9062
+aVbedclothes
+p9063
+assVsailboat
+p9064
+(dp9065
+VReceivesAction
+p9066
+(lp9067
+Vpropelled by wind
+p9068
+asVSynonym
+p9069
+(lp9070
+Vsailboat
+p9071
+asVPartOf
+p9072
+(lp9073
+Vsailboat
+p9074
+aVa regatta
+p9075
+asVIsA
+p9076
+(lp9077
+Vsailboat
+p9078
+aVa vehicle
+p9079
+aVboat
+p9080
+assVdryer
+p9081
+(dp9082
+VAtLocation
+p9083
+(lp9084
+Vthe basement
+p9085
+asVCapableOf
+p9086
+(lp9087
+Vdry wet clothes
+p9088
+aVdry clothing
+p9089
+asVSynonym
+p9090
+(lp9091
+Vdryer
+p9092
+asVIsA
+p9093
+(lp9094
+Vdryer
+p9095
+aVappliance
+p9096
+assVlemon
+p9097
+(dp9098
+VRelatedTo
+p9099
+(lp9100
+Vyellow
+p9101
+aVlemon
+p9102
+aVfruit
+p9103
+asVPartOf
+p9104
+(lp9105
+Vlemon
+p9106
+asVSynonym
+p9107
+(lp9108
+Vgamboge
+p9109
+aVlemon
+p9110
+asVIsA
+p9111
+(lp9112
+Vcitrus
+p9113
+aVlemon
+p9114
+aVartifact
+p9115
+aVrelish
+p9116
+assVknife
+p9117
+(dp9118
+VRelatedTo
+p9119
+(lp9120
+Vknife
+p9121
+asVAtLocation
+p9122
+(lp9123
+Va drawer
+p9124
+aVa pocket
+p9125
+aVthe kitchen
+p9126
+aVthe kitchen drawer
+p9127
+asVPartOf
+p9128
+(lp9129
+Va knife
+p9130
+asVUsedFor
+p9131
+(lp9132
+Vcutting food
+p9133
+aVstabbing
+p9134
+aVcarving wood
+p9135
+aVbutter
+p9136
+asVCapableOf
+p9137
+(lp9138
+Vcut that apple
+p9139
+aVbutter bread
+p9140
+aVhurt
+p9141
+aVcut
+p9142
+aVspread butter
+p9143
+aVhurt a dog
+p9144
+aVspread peanut butter
+p9145
+asVIsA
+p9146
+(lp9147
+Vtool
+p9148
+assVbouquet_of_flowers
+p9149
+(dp9150
+VAtLocation
+p9151
+(lp9152
+Va bouquet of flowers
+p9153
+assVglasses
+p9154
+(dp9155
+VRelatedTo
+p9156
+(lp9157
+Vglasses
+p9158
+asVAtLocation
+p9159
+(lp9160
+Va cabinet
+p9161
+aVthe cupboard
+p9162
+aVglasses
+p9163
+aVa bar
+p9164
+asVSynonym
+p9165
+(lp9166
+Vspectacles
+p9167
+aVglasses
+p9168
+aVpair of glasses
+p9169
+aVeyeglasses
+p9170
+asVUsedFor
+p9171
+(lp9172
+Venhance visual clarity
+p9173
+aVcorrecting vision
+p9174
+aVexpand the range of vision
+p9175
+aVcorrect vision
+p9176
+aVimprove you eyesight
+p9177
+aVhold drinks
+p9178
+assVchicken
+p9179
+(dp9180
+VRelatedTo
+p9181
+(lp9182
+Vwings
+p9183
+aVfood
+p9184
+aVchicken
+p9185
+aVmeat
+p9186
+aVfowl
+p9187
+aVrooster
+p9188
+aVfarm
+p9189
+aVegg
+p9190
+aVanimal
+p9191
+aVpoultry
+p9192
+aVeggs
+p9193
+aVfried
+p9194
+aVhen
+p9195
+aVbird
+p9196
+asVCapableOf
+p9197
+(lp9198
+Vcross the road
+p9199
+aVproduce eggs
+p9200
+aVlay eggs
+p9201
+asVIsA
+p9202
+(lp9203
+Vfood
+p9204
+aVmeat
+p9205
+assVdagger
+p9206
+(dp9207
+VSynonym
+p9208
+(lp9209
+Vdagger
+p9210
+asVPartOf
+p9211
+(lp9212
+Vdagger
+p9213
+asVIsA
+p9214
+(lp9215
+Vcharacter
+p9216
+aVdagger
+p9217
+assVbag
+p9218
+(dp9219
+VRelatedTo
+p9220
+(lp9221
+Vbag
+p9222
+asVAtLocation
+p9223
+(lp9224
+Va drawer
+p9225
+aVa supermarket
+p9226
+aVa grocery store
+p9227
+aVa bag
+p9228
+aVbag
+p9229
+asVHasContext
+p9230
+(lp9231
+Vhunt
+p9232
+asVCauses
+p9233
+(lp9234
+Vtravel
+p9235
+asVUsedFor
+p9236
+(lp9237
+Vcarrying groceries
+p9238
+aVcarrying things
+p9239
+asVCapableOf
+p9240
+(lp9241
+Vcarry groceries
+p9242
+aVcarry groceries in it
+p9243
+asVIsA
+p9244
+(lp9245
+Vbag
+p9246
+aVa bag
+p9247
+aVindefinite quantity
+p9248
+aVcontainerful
+p9249
+aVunpleasant woman
+p9250
+aVbaggage
+p9251
+aVcontainer
+p9252
+assVapple
+p9253
+(dp9254
+VRelatedTo
+p9255
+(lp9256
+Vcore
+p9257
+aVround
+p9258
+aVadam
+p9259
+aVpie
+p9260
+aVtree
+p9261
+aVfruit
+p9262
+aVeve
+p9263
+aVred fruit
+p9264
+aVgreen
+p9265
+aVcomputer
+p9266
+aVmac
+p9267
+aVred
+p9268
+asVAtLocation
+p9269
+(lp9270
+Va grocery store
+p9271
+aVapple tree
+p9272
+asVCapableOf
+p9273
+(lp9274
+Vfall from a tree
+p9275
+asVHasA
+p9276
+(lp9277
+Va core
+p9278
+asVUsedFor
+p9279
+(lp9280
+Veating
+p9281
+asVReceivesAction
+p9282
+(lp9283
+Veaten
+p9284
+asVHasProperty
+p9285
+(lp9286
+Vgreen
+p9287
+aVred
+p9288
+assVfan
+p9289
+(dp9290
+VAtLocation
+p9291
+(lp9292
+Va stadium
+p9293
+aVthe football stadium
+p9294
+aVa room
+p9295
+aVa hockey game
+p9296
+asVHasContext
+p9297
+(lp9298
+Vbaseball
+p9299
+asVPartOf
+p9300
+(lp9301
+Va fan
+p9302
+asVUsedFor
+p9303
+(lp9304
+Vcirculating air
+p9305
+aVmoving the air
+p9306
+aVcool off
+p9307
+asVCapableOf
+p9308
+(lp9309
+Vcool the air
+p9310
+aVcool a room
+p9311
+aVcool a person
+p9312
+asVIsA
+p9313
+(lp9314
+Vdevice
+p9315
+aVfan
+p9316
+aVfollower
+p9317
+assVhamster
+p9318
+(dp9319
+VSynonym
+p9320
+(lp9321
+Vhamster
+p9322
+asVIsA
+p9323
+(lp9324
+Vrodent
+p9325
+aVhamster
+p9326
+assVstove
+p9327
+(dp9328
+VRelatedTo
+p9329
+(lp9330
+Vstove
+p9331
+asVAtLocation
+p9332
+(lp9333
+Va house
+p9334
+aVa stove
+p9335
+asVPartOf
+p9336
+(lp9337
+Vstove
+p9338
+asVUsedFor
+p9339
+(lp9340
+Vcook
+p9341
+asVCapableOf
+p9342
+(lp9343
+Vheat food
+p9344
+asVHasProperty
+p9345
+(lp9346
+Vhot
+p9347
+asVSynonym
+p9348
+(lp9349
+Vstove
+p9350
+asVIsA
+p9351
+(lp9352
+Vkitchen appliance
+p9353
+aVheater
+p9354
+aVstove
+p9355
+assVslipper
+p9356
+(dp9357
+VAtLocation
+p9358
+(lp9359
+Vyour bed
+p9360
+asVSynonym
+p9361
+(lp9362
+Vskidder
+p9363
+aVslipper
+p9364
+asVDerivedFrom
+p9365
+(lp9366
+Vslipper
+p9367
+asVIsA
+p9368
+(lp9369
+Vslipper
+p9370
+aVfootwear
+p9371
+assVsandal
+p9372
+(dp9373
+VSynonym
+p9374
+(lp9375
+Vsandal
+p9376
+asVIsA
+p9377
+(lp9378
+Vsandal
+p9379
+aVshoe
+p9380
+aVopen shoe for hot weather
+p9381
+assVpack_of_cards
+p9382
+(dp9383
+VSynonym
+p9384
+(lp9385
+Vpack of cards
+p9386
+asVIsA
+p9387
+(lp9388
+Vpack
+p9389
+assVfootball
+p9390
+(dp9391
+VRelatedTo
+p9392
+(lp9393
+Vfootball
+p9394
+asVAtLocation
+p9395
+(lp9396
+Vfootball
+p9397
+asVHasPrerequisite
+p9398
+(lp9399
+Va football
+p9400
+asVFormOf
+p9401
+(lp9402
+Vfootball
+p9403
+asVHasContext
+p9404
+(lp9405
+Vfootball
+p9406
+asVSynonym
+p9407
+(lp9408
+Vfooty
+p9409
+asVIsA
+p9410
+(lp9411
+Va sport people play
+p9412
+aVsport
+p9413
+aVa physical activity
+p9414
+aVgame
+p9415
+assVwallet
+p9416
+(dp9417
+VRelatedTo
+p9418
+(lp9419
+Vmoney holder
+p9420
+aVholder
+p9421
+aVpocket
+p9422
+aVcontainer
+p9423
+aVpurse
+p9424
+aVbillfold
+p9425
+aVmoney
+p9426
+aVleather
+p9427
+aVback pocket
+p9428
+aVback
+p9429
+asVAtLocation
+p9430
+(lp9431
+Va wallet
+p9432
+aVa pocket
+p9433
+aVa purse
+p9434
+aVyour wallet
+p9435
+aVpockets
+p9436
+asVCapableOf
+p9437
+(lp9438
+Vhold your money
+p9439
+assVegg_beater
+p9440
+(dp9441
+VRelatedTo
+p9442
+(lp9443
+Vegg beater
+p9444
+asVAtLocation
+p9445
+(lp9446
+Va drawer
+p9447
+asVHasA
+p9448
+(lp9449
+Va handle
+p9450
+asVSynonym
+p9451
+(lp9452
+Vegg beater
+p9453
+assVkey_chain
+p9454
+(dp9455
+VRelatedTo
+p9456
+(lp9457
+Vkey chain
+p9458
+asVAtLocation
+p9459
+(lp9460
+Va purse
+p9461
+aVa department store
+p9462
+aVa drugstore
+p9463
+aVa hardware store
+p9464
+aVa set of keys
+p9465
+asVDerivedFrom
+p9466
+(lp9467
+Vkey
+p9468
+asVUsedFor
+p9469
+(lp9470
+Vholding keys
+p9471
+aVkeeping keys together
+p9472
+aVhold your keys
+p9473
+aVDecoration
+p9474
+aVkeep keys together
+p9475
+asVFormOf
+p9476
+(lp9477
+Vkey chain
+p9478
+aVkeychain
+p9479
+asVSynonym
+p9480
+(lp9481
+Vkey chain
+p9482
+asVIsA
+p9483
+(lp9484
+Vwhere you keep your keys
+p9485
+assVpaint_brush
+p9486
+(dp9487
+VRelatedTo
+p9488
+(lp9489
+Vpaint brush
+p9490
+aVpinceau
+p9491
+asVExternalURL
+p9492
+(lp9493
+VPaintBrush
+p9494
+aVpaint brush
+p9495
+asVSynonym
+p9496
+(lp9497
+Vbrush
+p9498
+aVpaint brush
+p9499
+asVIsA
+p9500
+(lp9501
+Vindustrial equipment
+p9502
+aVbrush
+p9503
+aVart supply
+p9504
+assVshark
+p9505
+(dp9506
+VAtLocation
+p9507
+(lp9508
+Vthe Atlantic Ocean
+p9509
+aVa movie
+p9510
+aVthe oceans or aquariums
+p9511
+aVthe Gulf of Mexico
+p9512
+aVthe movie "Jaws"
+p9513
+aVan ocean of the world
+p9514
+aVa pool hall
+p9515
+aVthe pacific ocean
+p9516
+aVseawater
+p9517
+aVa separate tank
+p9518
+aVsaltwater
+p9519
+aVany ocean
+p9520
+aVSea World
+p9521
+aVa zoo
+p9522
+aVthe south Pacific
+p9523
+aVa tank
+p9524
+aVmediterranean sea
+p9525
+aVshallow water
+p9526
+aVsalt water
+p9527
+aVa reef
+p9528
+assVceiling
+p9529
+(dp9530
+VRelatedTo
+p9531
+(lp9532
+Vceiling
+p9533
+asVAtLocation
+p9534
+(lp9535
+Vthe ceiling
+p9536
+aVthe loft
+p9537
+aVa building
+p9538
+asVAntonym
+p9539
+(lp9540
+Vfloor
+p9541
+aVceiling
+p9542
+asVDistinctFrom
+p9543
+(lp9544
+Vceiling
+p9545
+asVPartOf
+p9546
+(lp9547
+Vhallway
+p9548
+aVroom
+p9549
+asVHasContext
+p9550
+(lp9551
+Vmeteorology
+p9552
+asVSynonym
+p9553
+(lp9554
+Vceiling
+p9555
+asVIsA
+p9556
+(lp9557
+Valtitude
+p9558
+aVupper surface
+p9559
+aVceiling
+p9560
+aVcontrol
+p9561
+assVbaseball_bat
+p9562
+(dp9563
+VSynonym
+p9564
+(lp9565
+Vbaseball bat
+p9566
+asVIsA
+p9567
+(lp9568
+Vbat
+p9569
+aVbaseball equipment
+p9570
+asVPartOf
+p9571
+(lp9572
+Vbaseball bat
+p9573
+asVDerivedFrom
+p9574
+(lp9575
+Vbaseball
+p9576
+asVUsedFor
+p9577
+(lp9578
+Vhit a baseball
+p9579
+assVumbrella
+p9580
+(dp9581
+VRelatedTo
+p9582
+(lp9583
+Vumbrella
+p9584
+asVAtLocation
+p9585
+(lp9586
+Vbeach
+p9587
+aVan umbrella stand
+p9588
+aVa closet
+p9589
+aVyour car
+p9590
+asVPartOf
+p9591
+(lp9592
+Vumbrella
+p9593
+asVUsedFor
+p9594
+(lp9595
+Vkeeping the sun off you
+p9596
+aVprotection from the rain
+p9597
+aVshelter from rain
+p9598
+aVkeeping you dry
+p9599
+asVSimilarTo
+p9600
+(lp9601
+Vumbrella
+p9602
+asVHasContext
+p9603
+(lp9604
+Vmilitary
+p9605
+asVSynonym
+p9606
+(lp9607
+Vumbrella
+p9608
+asVIsA
+p9609
+(lp9610
+Vunion
+p9611
+aVumbrella
+p9612
+aVdefense
+p9613
+aVcanopy
+p9614
+aVa device to protect something
+p9615
+assVmixer
+p9616
+(dp9617
+VSynonym
+p9618
+(lp9619
+Vsociable
+p9620
+aVmixer
+p9621
+asVPartOf
+p9622
+(lp9623
+Vmixed drink
+p9624
+asVIsA
+p9625
+(lp9626
+Vkitchen utensil
+p9627
+aVelectronic equipment
+p9628
+aVmixer
+p9629
+aVbeverage
+p9630
+assVfeather_duster
+p9631
+(dp9632
+VFormOf
+p9633
+(lp9634
+Vfeather duster
+p9635
+asVRelatedTo
+p9636
+(lp9637
+Vhandle
+p9638
+aVimplement
+p9639
+aVfeather duster
+p9640
+aVplumeau
+p9641
+aVostrich
+p9642
+aVdust
+p9643
+aVbundle
+p9644
+aVsurface
+p9645
+asVAtLocation
+p9646
+(lp9647
+Va feather duster
+p9648
+asVSynonym
+p9649
+(lp9650
+Vfeather duster
+p9651
+assVsteak_knife
+p9652
+(dp9653
+VRelatedTo
+p9654
+(lp9655
+Vtable knife
+p9656
+aVblade
+p9657
+aVsteak knife
+p9658
+aVnarrow
+p9659
+aVsharp
+p9660
+aVcut
+p9661
+aVserrated
+p9662
+asVDerivedFrom
+p9663
+(lp9664
+Vknife
+p9665
+asVFormOf
+p9666
+(lp9667
+Vsteak knife
+p9668
+asVExternalURL
+p9669
+(lp9670
+V104315124-n
+p9671
+aVSteakKnife
+p9672
+asVSynonym
+p9673
+(lp9674
+Vsteak knife
+p9675
+asVIsA
+p9676
+(lp9677
+Vknife
+p9678
+aVtable knife
+p9679
+assVbelt
+p9680
+(dp9681
+VMannerOf
+p9682
+(lp9683
+Vhit
+p9684
+aVfasten
+p9685
+asVPartOf
+p9686
+(lp9687
+Vbelt
+p9688
+asVUsedFor
+p9689
+(lp9690
+Vholding up pants
+p9691
+asVReceivesAction
+p9692
+(lp9693
+Vworn around the waist
+p9694
+asVSynonym
+p9695
+(lp9696
+Vbelt
+p9697
+asVIsA
+p9698
+(lp9699
+Vbelt
+p9700
+aVloop
+p9701
+assVclothes
+p9702
+(dp9703
+VRelatedTo
+p9704
+(lp9705
+Vclothes
+p9706
+asVAtLocation
+p9707
+(lp9708
+Va clothing store
+p9709
+aVa closet
+p9710
+aVa store
+p9711
+aVyour house
+p9712
+aVa suitcase
+p9713
+aVa dresser
+p9714
+aVa mall
+p9715
+asVUsedFor
+p9716
+(lp9717
+Vwearing
+p9718
+aVclothes
+p9719
+asVHasPrerequisite
+p9720
+(lp9721
+Vclothes
+p9722
+asVIsA
+p9723
+(lp9724
+Vclothes
+p9725
+assVsewing_machine
+p9726
+(dp9727
+VAtLocation
+p9728
+(lp9729
+Va home
+p9730
+asVDerivedFrom
+p9731
+(lp9732
+Vsewing
+p9733
+aVmachine
+p9734
+asVSynonym
+p9735
+(lp9736
+Vsewing machine
+p9737
+asVIsA
+p9738
+(lp9739
+Vsewing machine
+p9740
+aVhome appliance
+p9741
+aVtextile machine
+p9742
+assVbroccoli
+p9743
+(dp9744
+VRelatedTo
+p9745
+(lp9746
+Vbroccoli
+p9747
+asVSynonym
+p9748
+(lp9749
+Vbroccoli
+p9750
+asVPartOf
+p9751
+(lp9752
+Vbroccoli
+p9753
+asVIsA
+p9754
+(lp9755
+Vcrucifer
+p9756
+aVa green vegetable
+p9757
+aVcruciferous vegetable
+p9758
+assVgame_cartridge
+p9759
+(dp9760
+VSynonym
+p9761
+(lp9762
+Vgame cartridge
+p9763
+assVknives
+p9764
+(dp9765
+VFormOf
+p9766
+(lp9767
+Vknife
+p9768
+asVRelatedTo
+p9769
+(lp9770
+Vknives
+p9771
+asVAtLocation
+p9772
+(lp9773
+Va drawer
+p9774
+aVthe kitchen
+p9775
+aVa sporting goods store
+p9776
+aVa backpack
+p9777
+aVa store
+p9778
+asVCapableOf
+p9779
+(lp9780
+Vcut people
+p9781
+aVpart soft solids
+p9782
+aVcut food
+p9783
+aVopen sealed envelopes
+p9784
+aVhurt you
+p9785
+aVbutter bread
+p9786
+aVspread butter
+p9787
+aVcut your fingers
+p9788
+aVcut onions
+p9789
+aVcut flesh
+p9790
+aVcut things
+p9791
+asVUsedFor
+p9792
+(lp9793
+Vcut flesh
+p9794
+aVcut vegetables
+p9795
+assVtorch
+p9796
+(dp9797
+VMannerOf
+p9798
+(lp9799
+Vburn
+p9800
+asVCapableOf
+p9801
+(lp9802
+Vlight THE WAY
+p9803
+asVSynonym
+p9804
+(lp9805
+Vtorch
+p9806
+aVcommon mullein
+p9807
+aVflashlight
+p9808
+aVblowtorch
+p9809
+asVIsA
+p9810
+(lp9811
+Vtorch
+p9812
+aVlight
+p9813
+assVmonitor
+p9814
+(dp9815
+VMannerOf
+p9816
+(lp9817
+Vobserve
+p9818
+asVAtLocation
+p9819
+(lp9820
+Va monitor
+p9821
+aVa box
+p9822
+aVa desktop
+p9823
+aVa internet cafe
+p9824
+aVthe desk
+p9825
+asVPartOf
+p9826
+(lp9827
+Vthe computer
+p9828
+aVa computer system
+p9829
+asVCapableOf
+p9830
+(lp9831
+Vdisplay images
+p9832
+asVSynonym
+p9833
+(lp9834
+VMonitor
+p9835
+asVIsA
+p9836
+(lp9837
+Vdisplay
+p9838
+aVmonitor
+p9839
+aVelectronic equipment
+p9840
+aVTV
+p9841
+aVlizard
+p9842
+assVscanner
+p9843
+(dp9844
+VSynonym
+p9845
+(lp9846
+Vscanner
+p9847
+asVIsA
+p9848
+(lp9849
+Vdata input device
+p9850
+aVdish
+p9851
+aVelectronic device
+p9852
+aVdetector
+p9853
+aVreviewer
+p9854
+assVsoda
+p9855
+(dp9856
+VRelatedTo
+p9857
+(lp9858
+Vsoda
+p9859
+aVdrink
+p9860
+asVAtLocation
+p9861
+(lp9862
+Vsoda
+p9863
+aVa can
+p9864
+aVyour soda
+p9865
+aVa fast-food restaurant
+p9866
+aVa movie
+p9867
+asVSynonym
+p9868
+(lp9869
+Vsoda
+p9870
+aVpop
+p9871
+aVsoft drink
+p9872
+aVsodium carbonate
+p9873
+asVIsA
+p9874
+(lp9875
+Va drink
+p9876
+aVcarbonated
+p9877
+aVa beverage
+p9878
+aVa soda
+p9879
+assVclock
+p9880
+(dp9881
+VRelatedTo
+p9882
+(lp9883
+Vwall
+p9884
+aVclock
+p9885
+aVtelling
+p9886
+aVhands
+p9887
+aVtime
+p9888
+aVwatch
+p9889
+aVdevice
+p9890
+aVtimepiece
+p9891
+asVAtLocation
+p9892
+(lp9893
+Va house
+p9894
+aVthe shelf
+p9895
+aVa desk
+p9896
+asVCapableOf
+p9897
+(lp9898
+Vcontinue to tick
+p9899
+asVUsedFor
+p9900
+(lp9901
+Vset an alarm
+p9902
+aVtiming something
+p9903
+aVmeasure time
+p9904
+aVkeeping time
+p9905
+asVIsA
+p9906
+(lp9907
+Va clock
+p9908
+assVtable
+p9909
+(dp9910
+VRelatedTo
+p9911
+(lp9912
+Vtable
+p9913
+aVfurniture
+p9914
+aVeating
+p9915
+aVdining
+p9916
+asVAtLocation
+p9917
+(lp9918
+Vthe table
+p9919
+aVa kitchen
+p9920
+aVa table
+p9921
+asVUsedFor
+p9922
+(lp9923
+Veat at
+p9924
+aVPutting things on
+p9925
+aVeating off of
+p9926
+assVcucumber
+p9927
+(dp9928
+VRelatedTo
+p9929
+(lp9930
+Vvegetable
+p9931
+asVSynonym
+p9932
+(lp9933
+Vcucumber
+p9934
+asVPartOf
+p9935
+(lp9936
+Vcucumber
+p9937
+asVIsA
+p9938
+(lp9939
+Vcucumber
+p9940
+aVmelon
+p9941
+aVa vegetable
+p9942
+aVa cucumber
+p9943
+assVsword
+p9944
+(dp9945
+VAtLocation
+p9946
+(lp9947
+Va sheath
+p9948
+aVa museum
+p9949
+asVHasPrerequisite
+p9950
+(lp9951
+Va sword
+p9952
+asVHasA
+p9953
+(lp9954
+Va sharp edge
+p9955
+asVMadeOf
+p9956
+(lp9957
+Vsteel
+p9958
+asVDerivedFrom
+p9959
+(lp9960
+Vsword
+p9961
+asVUsedFor
+p9962
+(lp9963
+Vkilling
+p9964
+asVPartOf
+p9965
+(lp9966
+Vsword
+p9967
+asVHasProperty
+p9968
+(lp9969
+Vsharp
+p9970
+asVIsA
+p9971
+(lp9972
+Vsword
+p9973
+aVweapon
+p9974
+assVdove
+p9975
+(dp9976
+VRelatedTo
+p9977
+(lp9978
+Vdove
+p9979
+aVpeace
+p9980
+aVbird
+p9981
+asVSynonym
+p9982
+(lp9983
+Vdove
+p9984
+aVsquab
+p9985
+aVColumba
+p9986
+asVIsA
+p9987
+(lp9988
+Vdove
+p9989
+aVemblem
+p9990
+aVa bird
+p9991
+aVpigeon
+p9992
+aVpacifist
+p9993
+assVbaseball
+p9994
+(dp9995
+VRelatedTo
+p9996
+(lp9997
+Vbaseball
+p9998
+asVAtLocation
+p9999
+(lp10000
+Va park
+p10001
+asVDerivedFrom
+p10002
+(lp10003
+Vbaseball
+p10004
+asVUsedFor
+p10005
+(lp10006
+Vbaseball
+p10007
+aVplaying baseball
+p10008
+asVHasContext
+p10009
+(lp10010
+Vbaseball
+p10011
+asVHasProperty
+p10012
+(lp10013
+Vround
+p10014
+asVIsA
+p10015
+(lp10016
+Van american sport
+p10017
+aVan american pastime
+p10018
+aVa sport
+p10019
+aVa game
+p10020
+aVa game people play
+p10021
+assVlotion
+p10022
+(dp10023
+VAtLocation
+p10024
+(lp10025
+Vlotion
+p10026
+asVSynonym
+p10027
+(lp10028
+Vlotion
+p10029
+asVIsA
+p10030
+(lp10031
+Vremedy
+p10032
+aVlotion
+p10033
+aVtoiletry
+p10034
+assVzebra
+p10035
+(dp10036
+VRelatedTo
+p10037
+(lp10038
+Vzebra
+p10039
+asVAtLocation
+p10040
+(lp10041
+Va zoo
+p10042
+asVDerivedFrom
+p10043
+(lp10044
+Vzebra
+p10045
+asVSynonym
+p10046
+(lp10047
+Vzebra
+p10048
+asVIsA
+p10049
+(lp10050
+Vzebra
+p10051
+assVgps
+p10052
+(dp10053
+VRelatedTo
+p10054
+(lp10055
+Vgps
+p10056
+aVglobal positioning system
+p10057
+aVglonass
+p10058
+asVHasContext
+p10059
+(lp10060
+Vcartography
+p10061
+asVSynonym
+p10062
+(lp10063
+Vgps
+p10064
+aVGlobal Positioning System
+p10065
+asVIsA
+p10066
+(lp10067
+Va positioning system
+p10068
+aVa global positioning system
+p10069
+assVshopping_bag
+p10070
+(dp10071
+VAtLocation
+p10072
+(lp10073
+Va supermarket
+p10074
+aVa car trunk
+p10075
+asVUsedFor
+p10076
+(lp10077
+Vcarry things
+p10078
+aVcarrying groceries
+p10079
+asVSynonym
+p10080
+(lp10081
+Vshopping bag
+p10082
+asVDerivedFrom
+p10083
+(lp10084
+Vshopping
+p10085
+asVIsA
+p10086
+(lp10087
+Vbag
+p10088
+assVring
+p10089
+(dp10090
+VRelatedTo
+p10091
+(lp10092
+Vfinger
+p10093
+aVdiamond
+p10094
+aVround
+p10095
+aVengagement
+p10096
+aVring
+p10097
+aVjewellery
+p10098
+aVcircular
+p10099
+aVon finger
+p10100
+aVgold
+p10101
+aVcircle
+p10102
+aVfinger jewelry
+p10103
+aVband
+p10104
+aVjewelry
+p10105
+aVmarriage
+p10106
+aVfingers
+p10107
+aVwedding
+p10108
+asVAtLocation
+p10109
+(lp10110
+Vyour finger
+p10111
+asVSynonym
+p10112
+(lp10113
+Vring
+p10114
+asVUsedFor
+p10115
+(lp10116
+Vring
+p10117
+assVgarbage_disposal
+p10118
+(dp10119
+VRelatedTo
+p10120
+(lp10121
+Vgarbage disposal
+p10122
+aVdrain
+p10123
+asVExternalURL
+p10124
+(lp10125
+VGarbageDisposal
+p10126
+asVDerivedFrom
+p10127
+(lp10128
+Vgarbage
+p10129
+asVSynonym
+p10130
+(lp10131
+Vgarbage disposal
+p10132
+aVmelin sbwriel
+p10133
+aVküchenabfallzerkleinerer
+p10134
+aVgarbage disposal unit
+p10135
+aVdisposal
+p10136
+asVIsA
+p10137
+(lp10138
+Vwaste conversion device
+p10139
+aVelectrical household appliance
+p10140
+assVstop_sign
+p10141
+(dp10142
+VRelatedTo
+p10143
+(lp10144
+Vvehicle
+p10145
+aVstop sign
+p10146
+asVAtLocation
+p10147
+(lp10148
+Va bus stop
+p10149
+aVa street corner
+p10150
+aVa fork in the road
+p10151
+aVthe corner of two streets
+p10152
+asVHasA
+p10153
+(lp10154
+Veight sides
+p10155
+asVUsedFor
+p10156
+(lp10157
+Vstopping
+p10158
+asVFormOf
+p10159
+(lp10160
+Vstop sign
+p10161
+asVExternalURL
+p10162
+(lp10163
+VStopSign
+p10164
+asVHasProperty
+p10165
+(lp10166
+Vred and white
+p10167
+asVSynonym
+p10168
+(lp10169
+Vstop sign
+p10170
+asVIsA
+p10171
+(lp10172
+Vroad sign
+p10173
+aVstop sign
+p10174
+aVstationary sign
+p10175
+assVtennis_racket
+p10176
+(dp10177
+VHasPrerequisite
+p10178
+(lp10179
+Vtennis racket
+p10180
+asVHasContext
+p10181
+(lp10182
+Vtennis
+p10183
+asVDerivedFrom
+p10184
+(lp10185
+Vtennis
+p10186
+asVFormOf
+p10187
+(lp10188
+Vtennis racket
+p10189
+asVExternalURL
+p10190
+(lp10191
+V104416941-n
+p10192
+aVTennisRacket
+p10193
+asVSynonym
+p10194
+(lp10195
+Vtennis racket
+p10196
+asVIsA
+p10197
+(lp10198
+Vracket
+p10199
+aVa piece of tennis equiptment
+p10200
+assVbuckle
+p10201
+(dp10202
+VMannerOf
+p10203
+(lp10204
+Vcollapse
+p10205
+aVfasten
+p10206
+asVPartOf
+p10207
+(lp10208
+Vbuckle
+p10209
+asVSynonym
+p10210
+(lp10211
+Vheave
+p10212
+aVwarp
+p10213
+aVbuckle
+p10214
+asVIsA
+p10215
+(lp10216
+Vfastener
+p10217
+assVstreet_lights
+p10218
+(dp10219
+VFormOf
+p10220
+(lp10221
+Vstreet light
+p10222
+asVExternalURL
+p10223
+(lp10224
+Vstreet lights
+p10225
+assVpatio
+p10226
+(dp10227
+VAtLocation
+p10228
+(lp10229
+Vthe back of a house
+p10230
+asVSynonym
+p10231
+(lp10232
+Vpatio
+p10233
+asVPartOf
+p10234
+(lp10235
+Vgarden
+p10236
+asVIsA
+p10237
+(lp10238
+Vpatio
+p10239
+aVarea
+p10240
+assVbanana
+p10241
+(dp10242
+VDesires
+p10243
+(lp10244
+Va banana
+p10245
+asVRelatedTo
+p10246
+(lp10247
+Vbanana
+p10248
+asVMadeOf
+p10249
+(lp10250
+Vbanana
+p10251
+asVPartOf
+p10252
+(lp10253
+Vedible banana
+p10254
+aVdwarf banana
+p10255
+asVReceivesAction
+p10256
+(lp10257
+Veaten
+p10258
+asVHasProperty
+p10259
+(lp10260
+Vyellow
+p10261
+asVSynonym
+p10262
+(lp10263
+Vbanane
+p10264
+aV\u0561\u0564\u0561\u0574\u0561\u0569\u0578\u0582\u0566
+p10265
+aVbanana
+p10266
+asVIsA
+p10267
+(lp10268
+Vherb
+p10269
+aVbanana
+p10270
+assVpop_can
+p10271
+(dp10272
+VRelatedTo
+p10273
+(lp10274
+Vpop can
+p10275
+assVpool_stick
+p10276
+(dp10277
+VRelatedTo
+p10278
+(lp10279
+Vpool stick
+p10280
+asVSynonym
+p10281
+(lp10282
+Vcue
+p10283
+assVsilverware
+p10284
+(dp10285
+VAtLocation
+p10286
+(lp10287
+Vthe kitchen
+p10288
+aVa restaurant
+p10289
+aVa table
+p10290
+asVMadeOf
+p10291
+(lp10292
+Vmetal
+p10293
+asVSynonym
+p10294
+(lp10295
+Vcutlery
+p10296
+aVsilverware
+p10297
+asVIsA
+p10298
+(lp10299
+Vtableware
+p10300
+aVsilverware
+p10301
+assVlamp_shade
+p10302
+(dp10303
+VFormOf
+p10304
+(lp10305
+Vlampshade
+p10306
+asVExternalURL
+p10307
+(lp10308
+VLampShade
+p10309
+aVlamp-shade
+p10310
+asVSynonym
+p10311
+(lp10312
+Vlampshade
+p10313
+aVlamp shade
+p10314
+asVIsA
+p10315
+(lp10316
+Vhuman occupation construct object
+p10317
+aVtranslucence
+p10318
+aVnon powered device
+p10319
+assVfire_alarm
+p10320
+(dp10321
+VAtLocation
+p10322
+(lp10323
+Va building
+p10324
+asVDerivedFrom
+p10325
+(lp10326
+V\u706b\u707d
+p10327
+aVfire
+p10328
+asVSynonym
+p10329
+(lp10330
+Vfire alarm
+p10331
+asVCausesDesire
+p10332
+(lp10333
+Vstand up
+p10334
+assVhumidifier
+p10335
+(dp10336
+VRelatedTo
+p10337
+(lp10338
+Vdevice
+p10339
+aVhumidify
+p10340
+aVhumidity
+p10341
+aVhumidificateur
+p10342
+aVhumidifier
+p10343
+asVAtLocation
+p10344
+(lp10345
+Va humidifier
+p10346
+asVDerivedFrom
+p10347
+(lp10348
+Vhumidify
+p10349
+asVFormOf
+p10350
+(lp10351
+Vhumidifier
+p10352
+asVExternalURL
+p10353
+(lp10354
+VHumidifier
+p10355
+aV104047920-n
+p10356
+asVSynonym
+p10357
+(lp10358
+Vhumidifier
+p10359
+asVIsA
+p10360
+(lp10361
+Vclimate control device
+p10362
+aVelectrical device
+p10363
+aVappliance
+p10364
+assVtowel
+p10365
+(dp10366
+VMannerOf
+p10367
+(lp10368
+Vwipe
+p10369
+asVRelatedTo
+p10370
+(lp10371
+Vtowel
+p10372
+asVAtLocation
+p10373
+(lp10374
+Vat hotel
+p10375
+aVa swimming pool
+p10376
+asVCapableOf
+p10377
+(lp10378
+Vdry hair
+p10379
+aVdry the dishes
+p10380
+aVdry your body
+p10381
+asVSynonym
+p10382
+(lp10383
+Vtowel
+p10384
+asVIsA
+p10385
+(lp10386
+Vpiece of cloth
+p10387
+aVtowel
+p10388
+assVscallop_shell
+p10389
+(dp10390
+VExternalURL
+p10391
+(lp10392
+V101907447-n
+p10393
+asVSynonym
+p10394
+(lp10395
+Vscallop shell
+p10396
+asVIsA
+p10397
+(lp10398
+Vshell
+p10399
+assVkeychain
+p10400
+(dp10401
+VRelatedTo
+p10402
+(lp10403
+Vporte clefs
+p10404
+aVkeychain
+p10405
+aVring
+p10406
+aVporte clé
+p10407
+aVkey
+p10408
+aVchain
+p10409
+asVAtLocation
+p10410
+(lp10411
+Vkeychain
+p10412
+asVDerivedFrom
+p10413
+(lp10414
+Vkey
+p10415
+asVFormOf
+p10416
+(lp10417
+Vkeychain
+p10418
+asVExternalURL
+p10419
+(lp10420
+VQ250173
+p10421
+aVKeychain (software)
+p10422
+asVSynonym
+p10423
+(lp10424
+Vkeychain
+p10425
+assVclothes_dryer
+p10426
+(dp10427
+VExternalURL
+p10428
+(lp10429
+VClothesDryer
+p10430
+asVAtLocation
+p10431
+(lp10432
+Vthe garage
+p10433
+asVCapableOf
+p10434
+(lp10435
+Vdry clothes
+p10436
+asVSynonym
+p10437
+(lp10438
+Vclothes dryer
+p10439
+asVIsA
+p10440
+(lp10441
+Vdryer
+p10442
+aVclothes dryer
+p10443
+aVwhite goods
+p10444
+assVcan_of_peas
+p10445
+(dp10446
+VAtLocation
+p10447
+(lp10448
+Va grocery store
+p10449
+assVcork
+p10450
+(dp10451
+VMannerOf
+p10452
+(lp10453
+Vstuff
+p10454
+aVplug
+p10455
+asVDefinedAs
+p10456
+(lp10457
+Vinner bark of a tree
+p10458
+asVSynonym
+p10459
+(lp10460
+Vcork
+p10461
+aVbob
+p10462
+aVphellem
+p10463
+asVPartOf
+p10464
+(lp10465
+VIreland
+p10466
+aVwine bottle
+p10467
+asVIsA
+p10468
+(lp10469
+Vbark
+p10470
+aVplant material
+p10471
+assVshoe_lace
+p10472
+(dp10473
+VReceivesAction
+p10474
+(lp10475
+Vtied into a bow
+p10476
+asVPartOf
+p10477
+(lp10478
+Vshoe
+p10479
+asVSynonym
+p10480
+(lp10481
+Vshoelace
+p10482
+assVrhino
+p10483
+(dp10484
+VRelatedTo
+p10485
+(lp10486
+Vrhinoceros
+p10487
+aVrhino
+p10488
+aVnose
+p10489
+aVrhinoplasty
+p10490
+asVCapableOf
+p10491
+(lp10492
+Vcharge that fence
+p10493
+asVHasContext
+p10494
+(lp10495
+Vslang
+p10496
+asVFormOf
+p10497
+(lp10498
+Vrhino
+p10499
+asVExternalURL
+p10500
+(lp10501
+VRhino (wrestler)
+p10502
+aVQ585603
+p10503
+aVRhino (comics)
+p10504
+aVRhino (JavaScript engine)
+p10505
+aVQ572626
+p10506
+aVQ471865
+p10507
+asVSynonym
+p10508
+(lp10509
+Vrhinoceros
+p10510
+assVshoes
+p10511
+(dp10512
+VRelatedTo
+p10513
+(lp10514
+Vshoes
+p10515
+asVAtLocation
+p10516
+(lp10517
+Vyour bed
+p10518
+aVshoes
+p10519
+aVthe closet
+p10520
+aVyour shoes
+p10521
+aVthe table
+p10522
+aVa box
+p10523
+asVHasPrerequisite
+p10524
+(lp10525
+Vshoes
+p10526
+asVUsedFor
+p10527
+(lp10528
+Vprotect feet
+p10529
+asVReceivesAction
+p10530
+(lp10531
+Vworn on your feet
+p10532
+asVHasA
+p10533
+(lp10534
+Va heel
+p10535
+asVSynonym
+p10536
+(lp10537
+Vplace
+p10538
+aVshoes
+p10539
+asVIsA
+p10540
+(lp10541
+Vclothing
+p10542
+assVcandle
+p10543
+(dp10544
+VMannerOf
+p10545
+(lp10546
+Vexamine
+p10547
+asVRelatedTo
+p10548
+(lp10549
+Vcandle
+p10550
+asVAtLocation
+p10551
+(lp10552
+Vthe kitchen
+p10553
+aVthe table
+p10554
+aVa birthday cake
+p10555
+asVReceivesAction
+p10556
+(lp10557
+Vlit
+p10558
+aVlit with a match
+p10559
+asVPartOf
+p10560
+(lp10561
+Vcandle
+p10562
+asVUsedFor
+p10563
+(lp10564
+Vlight a room
+p10565
+asVCapableOf
+p10566
+(lp10567
+Vemit light
+p10568
+asVSynonym
+p10569
+(lp10570
+Vcandle
+p10571
+asVIsA
+p10572
+(lp10573
+Vlamp
+p10574
+aVcandle
+p10575
+aVluminous intensity unit
+p10576
+assVcd_player
+p10577
+(dp10578
+VAtLocation
+p10579
+(lp10580
+Va cd player
+p10581
+aVa CD player
+p10582
+aVcd-player
+p10583
+aVa backpack
+p10584
+asVSynonym
+p10585
+(lp10586
+VCD player
+p10587
+aVcd speller
+p10588
+aVcd spiller
+p10589
+aVcd spelar
+p10590
+aVcd player
+p10591
+asVPartOf
+p10592
+(lp10593
+VCD player
+p10594
+asVIsA
+p10595
+(lp10596
+Velectronic equipment
+p10597
+assVpants
+p10598
+(dp10599
+VRelatedTo
+p10600
+(lp10601
+Vclothing
+p10602
+aVpants
+p10603
+aVlegs
+p10604
+aVtrousers
+p10605
+asVAtLocation
+p10606
+(lp10607
+Vyour pants
+p10608
+aVpants
+p10609
+aVa suitcase
+p10610
+aVmy pants
+p10611
+asVAntonym
+p10612
+(lp10613
+Vpants
+p10614
+asVSynonym
+p10615
+(lp10616
+Vpants
+p10617
+aVtrousers
+p10618
+assVcrowbar
+p10619
+(dp10620
+VSynonym
+p10621
+(lp10622
+Vnail bar
+p10623
+aVjimmy
+p10624
+aVprybar
+p10625
+aVjemmy
+p10626
+aVcrowbar
+p10627
+asVIsA
+p10628
+(lp10629
+Vlever
+p10630
+aVcrowbar
+p10631
+assVespresso_maker
+p10632
+(dp10633
+VExternalURL
+p10634
+(lp10635
+VEspressoMachine
+p10636
+aV103302424-n
+p10637
+asVSynonym
+p10638
+(lp10639
+Vespresso maker
+p10640
+asVIsA
+p10641
+(lp10642
+Vcoffee maker
+p10643
+assVwhip
+p10644
+(dp10645
+VMannerOf
+p10646
+(lp10647
+Vstrike
+p10648
+aVconvulse
+p10649
+aVwhip
+p10650
+asVHasContext
+p10651
+(lp10652
+Vgolf
+p10653
+asVPartOf
+p10654
+(lp10655
+Vwhip
+p10656
+asVIsA
+p10657
+(lp10658
+Vinstrument
+p10659
+aVdessert
+p10660
+aVflexibility
+p10661
+aVlegislator
+p10662
+aVblow
+p10663
+aVwhip
+p10664
+assVlight
+p10665
+(dp10666
+VRelatedTo
+p10667
+(lp10668
+Vlight
+p10669
+asVAtLocation
+p10670
+(lp10671
+Vthe attic
+p10672
+aVa desk
+p10673
+asVHasPrerequisite
+p10674
+(lp10675
+Vlight
+p10676
+asVDistinctFrom
+p10677
+(lp10678
+Vlight
+p10679
+asVUsedFor
+p10680
+(lp10681
+Vlight
+p10682
+asVAntonym
+p10683
+(lp10684
+Vlight
+p10685
+asVCapableOf
+p10686
+(lp10687
+Vtravel
+p10688
+aVilluminate
+p10689
+asVCauses
+p10690
+(lp10691
+Vlight
+p10692
+asVIsA
+p10693
+(lp10694
+Venergy
+p10695
+aVelectromagnetic radiation
+p10696
+assVstraw
+p10697
+(dp10698
+VMannerOf
+p10699
+(lp10700
+Vcover
+p10701
+asVRelatedTo
+p10702
+(lp10703
+Vstraw
+p10704
+asVAtLocation
+p10705
+(lp10706
+Va fast-food restaurant
+p10707
+asVSimilarTo
+p10708
+(lp10709
+Vstraw
+p10710
+aVchromatic
+p10711
+asVSynonym
+p10712
+(lp10713
+Vchaff
+p10714
+aVstraw
+p10715
+aVstrew
+p10716
+aVpale yellow
+p10717
+asVIsA
+p10718
+(lp10719
+Vtube
+p10720
+aVplant fiber
+p10721
+assVhoney
+p10722
+(dp10723
+VMannerOf
+p10724
+(lp10725
+Vsweeten
+p10726
+asVSimilarTo
+p10727
+(lp10728
+Vhoney
+p10729
+aVchromatic
+p10730
+asVAtLocation
+p10731
+(lp10732
+Vthe jar
+p10733
+asVSynonym
+p10734
+(lp10735
+Vbeloved
+p10736
+aVhoney
+p10737
+asVIsA
+p10738
+(lp10739
+Vsweetening
+p10740
+aVa thick liquid
+p10741
+assVhand_mirror
+p10742
+(dp10743
+VSynonym
+p10744
+(lp10745
+Vhand mirror
+p10746
+aVhand glass
+p10747
+assVnail_polish
+p10748
+(dp10749
+VSynonym
+p10750
+(lp10751
+Vnail polish
+p10752
+asVIsA
+p10753
+(lp10754
+Vcosmetic
+p10755
+aVenamel
+p10756
+assVjar
+p10757
+(dp10758
+VAtLocation
+p10759
+(lp10760
+Va jar
+p10761
+aVa pantry
+p10762
+aVthe jar
+p10763
+aVa refrigerator
+p10764
+assVspoon
+p10765
+(dp10766
+VMannerOf
+p10767
+(lp10768
+Vremove
+p10769
+asVAtLocation
+p10770
+(lp10771
+Vbowl
+p10772
+aVdinner
+p10773
+asVEntails
+p10774
+(lp10775
+Vimmerse
+p10776
+asVHasPrerequisite
+p10777
+(lp10778
+Va spoon
+p10779
+asVUsedFor
+p10780
+(lp10781
+VEating
+p10782
+asVSynonym
+p10783
+(lp10784
+Vspoon
+p10785
+asVIsA
+p10786
+(lp10787
+Vcontainerful
+p10788
+aVa utensil
+p10789
+aVa spoon
+p10790
+aVspoon
+p10791
+aVcontainer
+p10792
+aVcutlery
+p10793
+aVwood
+p10794
+assVice_cream_maker
+p10795
+(dp10796
+VFormOf
+p10797
+(lp10798
+Vice cream maker
+p10799
+asVRelatedTo
+p10800
+(lp10801
+Vmachine
+p10802
+aVice cream
+p10803
+aVice cream maker
+p10804
+asVExternalURL
+p10805
+(lp10806
+Vice cream maker
+p10807
+aVIceCreamMaker
+p10808
+asVSynonym
+p10809
+(lp10810
+V\u0437\u0430\u0439\u0440\u043c\u0430\u0433\u043d\u044b \u043c\u0430\u0448\u0438\u043d
+p10811
+aVjäätisemasin
+p10812
+aVice cream maker
+p10813
+aVjäätelökone
+p10814
+asVIsA
+p10815
+(lp10816
+Vkitchen tool
+p10817
+aVhousehold appliance
+p10818
+ass.
