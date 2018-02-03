@@ -8,6 +8,7 @@ with open('../data/objectDict.pkl', 'rb') as f:
 
 def filter_underspecified(dictio, threshold):
     counter = 0
+
     for object in list(dictio.keys()):
         allUniqueInfos = list()
         allUniqueInfos = [dictio[object][field] for field in dictio[object]]
@@ -17,19 +18,13 @@ def filter_underspecified(dictio, threshold):
             dictio.pop(object, None)
             counter += 1
 
-        # TODO: Delete double occurence from the actual dictionary.
-        #          for field in dictio[object]:
-        #    dictio[object][field] = [ elem for elem in field if not elem.lower().replace("the ", "").replace("a ", "").strip() == object.replace("_", " ").strip()]
-
-
     print(str(counter)+" objects filtered out. "+str(len(list(dictio.keys()))-counter)+" remain.")
-    print()
     return dictio
 
 
 
 object_dict = filter_underspecified(object_dict,6)
-GR_origin = "\"origin\": [\"#praise# #poemObject#\"],"
+GR_origin = "{\"origin\": [\"#praise# #poemObject#\"],"
 GR_praise = "\"praise\": [\"Oh, \", \"My dear \",  \"Beloved \",  \"I love you \",  \"My dearest \",  \"I'm obsessed with you, \",  \"I cannot stop to think about you, \",  \"Dear \",  \"I adore you \",  \"All my thoughts are about you, \"],"
 
 
@@ -39,7 +34,7 @@ list_of_objects = list(object_dict.keys())
 list_of_objects_spaced = [obj.replace("_"," ") for obj in list_of_objects]
 GR_poemObject = "\"poemObject\": ["
 for val in list_of_objects_spaced:
-    GR_poemObject += "\"#"+val+"#\","
+    GR_poemObject += "\"#"+val.replace(" ","_")+"#\","
 GR_poemObject = GR_poemObject[:-1]
 GR_poemObject += "],"
 # Generate object line --- STOP
@@ -61,25 +56,25 @@ for elem in properties:
 for object in list(object_dict.keys()):
 
     # "object": [ "object. #AtLocationPhrase_object#, #ReceivesActionPhrase_object#,
-    propString = "\"" + object + "\" : [ \"" + object + ". "
+    propString = "\"" + object + "\" : [ \"" + object.replace("_"," ") + ". "
     list_of_properties = object_dict[object]
 
     for proper in list_of_properties:
-        propString += "#" + proper + "Phrase_" + object + "#, "
+        propString += "#" + proper + "Phrase_" + object + "# "
         defString = "\""+ proper + "Phrase_" + object + "\" : [ \"#" + proper + "# #" + proper + "_" + object + "#.\"]"
         GR_defineProperty.append(defString)
         temp = [val.replace("\"","") for val in object_dict[object][proper]]
         GR_terminalObjectRelations.append("\""+ proper + "_" + object + "\" : [ \""+"\",\"".join(temp)+"\"]")
 
-    propString = propString[:-2] + "\"]"
+    propString = propString[:-1] + "\"]"
     GR_propertyList.append(propString)
 
-print(GR_propertyList)
-print(GR_terminalProperties)
-print(GR_defineProperty)
-print(GR_terminalObjectRelations)
+#print(GR_propertyList)
+#print(GR_terminalProperties)
+#print(GR_defineProperty)
+#print(GR_terminalObjectRelations)
 
-with open("../data/grammar.txt", "w") as out:
+with open("../data/grammar01.txt", "w") as out:
     out.write(GR_origin + "\n")
     out.write(GR_praise + "\n")
     out.write(GR_poemObject+"\n")
@@ -89,4 +84,13 @@ with open("../data/grammar.txt", "w") as out:
             for line in elem:
                 out.write(line+",\n")
 
-    writeOut([GR_propertyList, GR_defineProperty, GR_terminalProperties, GR_terminalObjectRelations])
+    writeOut([GR_propertyList, GR_defineProperty, GR_terminalProperties])
+
+    # add bracket "}" and omit "," for very last element
+    lastLine = len(GR_terminalObjectRelations)-1
+    for lineNum, line in enumerate(GR_terminalObjectRelations):
+        if lineNum<lastLine:
+            out.write(line+",\n")
+        else:
+            out.write(line+"\n}")
+

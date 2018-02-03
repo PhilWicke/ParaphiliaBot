@@ -29,12 +29,17 @@ for object in objects:
 
         if propDef not in properties:
             properties[propDef] = list()
-            properties[propDef].append(propVal)
+            if propVal.lower().replace("the ", "").replace("a ", "").strip() != object.replace("_", " ").strip():
+                properties[propDef].append(propVal)
         else:
-            properties[propDef].append(propVal)
+            if propVal.lower().replace("the ", "").replace("a ", "").strip() != object.replace("_", " ").strip():
+                properties[propDef].append(propVal)
 
-    for property in properties.keys():
-        properties[property] = list(set(properties[property]))
+    for property in list(properties):
+        if not properties[property]:
+            del properties[property]
+        else:
+            properties[property] = list(set(properties[property]))
 
     if properties:
         object_dict[object] = properties
