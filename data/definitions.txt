@@ -3,7 +3,7 @@
 "HasContext" : ["In my life, you are the context to everything, not only ","You give meaning to ","For me, you redefine "],
 "PartOf" : ["For me you define ","Only you are important about ","Forget the rest of the "],
 "CapableOf" : ["I want no one else to ","Please, ","You are so incredible, help me "],
-"Synonym" : ["You have the god among "],
+"Synonym" : ["You are the god among "],
 "HasSubevent" : ["DEFINE"],
 "HasA" : ["DEFINE"],
 "SimilarTo" : ["DEFINE"],
