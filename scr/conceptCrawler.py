@@ -30,10 +30,10 @@ for object in objects:
         if propDef not in properties:
             properties[propDef] = list()
             if propVal.lower().replace("the ", "").replace("a ", "").strip() != object.replace("_", " ").strip():
-                properties[propDef].append(propVal)
+                properties[propDef].append(propVal.replace("the ", "").replace("a ", "").strip())
         else:
             if propVal.lower().replace("the ", "").replace("a ", "").strip() != object.replace("_", " ").strip():
-                properties[propDef].append(propVal)
+                properties[propDef].append(propVal.replace("the ", "").replace("a ", "").strip())
 
     for property in list(properties):
         if not properties[property]:
