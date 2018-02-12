@@ -61,7 +61,7 @@ for object in list(object_dict.keys()):
 
     for proper in list_of_properties:
         propString += "#" + proper + "Phrase_" + object + "# "
-        defString = "\""+ proper + "Phrase_" + object + "\" : [ \"#" + proper + "# #" + proper + "_" + object + "#.\"]"
+        defString = "\""+ proper + "Phrase_" + object + "\" : [ \"#[word:#" + proper + "_" + object + "#]" + proper + "#.\"]"
         GR_defineProperty.append(defString)
         temp = [val.replace("\"","") for val in object_dict[object][proper]]
         GR_terminalObjectRelations.append("\""+ proper + "_" + object + "\" : [ \""+"\",\"".join(temp)+"\"]")
