@@ -18,7 +18,7 @@ def filter_underspecified(dictio, threshold):
             dictio.pop(object, None)
             counter += 1
 
-    print(str(counter)+" objects filtered out. "+str(len(list(dictio.keys()))-counter)+" remain.")
+    print(str(counter)+" objects filtered out.")# "+str(len(list(dictio.keys()))-counter)+" remain.")
     return dictio
 
 
@@ -52,22 +52,34 @@ for object in list(object_dict.keys()):
 for elem in properties:
     GR_terminalProperties.append("\""+elem+"\" : [\"DEFINE\"]")
 
+too_long = 0
+too_long_threshold = 5
 
 for object in list(object_dict.keys()):
 
     # "object": [ "object. #AtLocationPhrase_object#, #ReceivesActionPhrase_object#,
     propString = "\"" + object + "\" : [ \"" + object.replace("_"," ") + ". "
     list_of_properties = object_dict[object]
+    count = 0
 
     for proper in list_of_properties:
-        propString += "#" + proper + "Phrase_" + object + "# "
-        defString = "\""+ proper + "Phrase_" + object + "\" : [ \"#[word:#" + proper + "_" + object + "#]" + proper + "#.\"]"
-        GR_defineProperty.append(defString)
-        temp = [val.replace("\"","") for val in object_dict[object][proper]]
-        GR_terminalObjectRelations.append("\""+ proper + "_" + object + "\" : [ \""+"\",\"".join(temp)+"\"]")
+        if count < too_long_threshold:
+
+            propString += "#" + proper + "Phrase_" + object + "# "
+            defString = "\""+ proper + "Phrase_" + object + "\" : [ \"#[word:#" + proper + "_" + object + "#]" + proper + "#.\"]"
+            GR_defineProperty.append(defString)
+            temp = [val.replace("\"","") for val in object_dict[object][proper]]
+            GR_terminalObjectRelations.append("\""+ proper + "_" + object + "\" : [ \""+"\",\"".join(temp)+"\"]")
+
+        else:
+            too_long += 1
+
+        count+=1
 
     propString = propString[:-1] + "\"]"
     GR_propertyList.append(propString)
+
+print("Too many information for "+str(too_long)+" objects (threshold: "+str(too_long_threshold)+").")
 
 #print(GR_propertyList)
 #print(GR_terminalProperties)
