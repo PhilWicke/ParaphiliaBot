@@ -16,9 +16,22 @@ with open(pathGrammar, "r") as inFile:
 
 #TODO: Make this file case sensitive e.g. "boat" -> "[b|B][o|O][a|A][t|T]"
 
+def wordToInvariantWord(normWord):
+    invWord = ""
+    for cha in normWord:
+        if cha == "_":
+            invWord = invWord + "[ ]?"
+        else:
+            invWord = invWord + "[" + cha.lower() + "|" + cha.upper() + "]"
+    return invWord
+
 outLines = []
 for line in lines:
-    outLines.append(line.replace("[", "").replace("]", "").replace(":  \"", ":  \"#praise# "))
+    word = line[1:].split("\"")[0]
+    word = wordToInvariantWord(word)
+    line = line.replace("[", "").replace("]", "").replace(":  \"", ":  \"#praise# ").split(":")[1]
+    line = "\""+word+"\" :"+line
+    outLines.append(line)
 
 with open(pathReplyFile, "w") as outFile:
     outFile.writelines(outLines)
