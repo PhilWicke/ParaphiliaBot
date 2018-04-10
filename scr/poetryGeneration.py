@@ -22,10 +22,10 @@ def filter_underspecified(dictio, threshold):
     return dictio
 
 
-
+print("Number of objects: "+str(len(object_dict)))
 object_dict = filter_underspecified(object_dict,6)
 GR_origin = "{\"origin\": [\"#praise# #poemObject#\"],"
-GR_praise = "\"praise\": [\"Oh, \", \"My dear \",  \"Beloved \",  \"I love you \",  \"My dearest \",  \"I'm obsessed with you, \",  \"I cannot stop to think about you, \",  \"Dear \",  \"I adore you \",  \"All my thoughts are about you, \"],"
+GR_praise = "\"praise\": [\"Oh, \", \"My dear \", \"Precious \",  \"Beloved \",  \"I love you \",  \"My dearest \",  \"I'm obsessed with you, \",  \"I cannot stop to think about you, \",  \"Dear \",  \"I adore you \",  \"All my thoughts are about you, \"],"
 
 
 

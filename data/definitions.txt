@@ -25,7 +25,7 @@
 "FormOf" : ["You are my one and only #word#", "I have to see you, #word#", "Let me be your lover, #word#"],
 "DistinctFrom" : ["Let me be your #word#", "Now I want to be your #word#"],
 "DerivedFrom" : ["Any sort of #word# is useless without you","This love, so strong: #word#", "Obsessive thoughts: #word#", "Good, better the #word#"],
-"IsA" : ["They call you #word#, but you are so much more.","You are not just a #word#", "Do not compare yourself to a #word#"],
+"IsA" : ["They call you #word#, but you are so much more","You are not just a #word#", "Do not compare yourself to a #word#"],
 "UsedFor" : ["I need you to live, for others you are just used for #word#"],
 "MannerOf" : ["I'm speechless when you #word#","My heart beats faster whenever you #word#", "I need you to #word#"],
 "Entails" : ["Please, #word#", "Ohhhh, yes ... #word#"],

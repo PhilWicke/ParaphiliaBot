@@ -1,6 +1,4 @@
 import requests
-#import pyprind
-import sys
 import pickle
 
 # Obtain objects form dataset
@@ -15,7 +13,7 @@ url_conceptnet = "http://api.conceptnet.io/c/en/"
 
 object_dict = dict()
 n = len(objects)
-#bar = pyprind.ProgBar(n, stream=sys.stdout)
+m = 0
 
 for object in objects:
     response = requests.get(url_conceptnet+object)
@@ -44,7 +42,9 @@ for object in objects:
 
     if properties:
         object_dict[object] = properties
-    #bar.update()
+
+    m+=1
+    print(str(m)+"/"+str(n))
 
 with open('../data/objectDict.pkl', 'wb') as f:
     pickle.dump(object_dict, f, 0)
