@@ -76,7 +76,7 @@ for object in list(object_dict.keys()):
 
         count+=1
 
-    propString = propString[:-1] + " @HatingBot \"]"
+    propString = propString[:-1] + "\"]" #" @ParaphiliaBot\"]"
     GR_propertyList.append(propString)
 
 print("Too many information for "+str(too_long)+" objects (threshold: "+str(too_long_threshold)+").")
