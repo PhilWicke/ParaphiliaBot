@@ -10,7 +10,6 @@ objects = list(set([object.strip().replace("/","_").lower() for object in file])
 # Web scraping
 url_conceptnet = "http://api.conceptnet.io/c/en/"
 
-
 object_dict = dict()
 n = len(objects)
 m = 0
