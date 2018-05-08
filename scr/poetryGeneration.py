@@ -5,7 +5,6 @@ import json
 with open('../data/objectDict.pkl', 'rb') as f:
     object_dict = pickle.load(f)
 
-
 def filter_underspecified(dictio, threshold):
     counter = 0
 
